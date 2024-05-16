@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/cVKqqgh0THKhzjbTogXHba8zJj0B3fMWBCBkxeZEr4=",
+  "Source": "InfoTech-ASP.NETCORE-EMPTY-MVC",
+  "BasePath": "_content/InfoTech-ASP.NETCORE-EMPTY-MVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "InfoTech-ASP.NETCORE-EMPTY-MVC\\wwwroot",
+      "Source": "InfoTech-ASP.NETCORE-EMPTY-MVC",
+      "ContentRoot": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\wwwroot\\",
+      "BasePath": "_content/InfoTech-ASP.NETCORE-EMPTY-MVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InfoTech-ASP.NETCORE-EMPTY-MVC/1.0.0": {
+        "dependencies": {
+          "jquery.datatables": "1.10.15"
+        },
+        "runtime": {
+          "InfoTech-ASP.NETCORE-EMPTY-MVC.dll": {}
+        }
+      },
+      "jQuery/1.7.0": {},
+      "jquery.datatables/1.10.15": {
+        "dependencies": {
+          "jQuery": "1.7.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InfoTech-ASP.NETCORE-EMPTY-MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "jQuery/1.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UEZuBreHZNLao3z9zNPeSadyoPwKDP/5kFh+Mn1Pm9ZS0czk7bv0O6RreloGSIMAfTLZCiigNkuPb2bXKtUM+g==",
+      "path": "jquery/1.7.0",
+      "hashPath": "jquery.1.7.0.nupkg.sha512"
+    },
+    "jquery.datatables/1.10.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9zRZ5zYafJHOwLU6sWoTM/agRx/dlu0HGQpGD/hEvqSEUJhSQjqJNTq77I97B+LCbh4eJrmNDS9PENiYY+0Isg==",
+      "path": "jquery.datatables/1.10.15",
+      "hashPath": "jquery.datatables.1.10.15.nupkg.sha512"
+    }
+  }
+}

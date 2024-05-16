@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InfoTech-ASP.NETCORE-EMPTY-MVC.props" />
+</Project>

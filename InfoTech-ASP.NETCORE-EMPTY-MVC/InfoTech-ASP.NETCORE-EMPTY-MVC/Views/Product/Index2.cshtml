@@ -1,0 +1,97 @@
+﻿@model List<InfoTech_ASP.NETCORE_EMPTY_MVC.Models.Product>
+<html>
+<head>
+
+    <link href="https://cdn.datatables.net/2.0.7/css/dataTables.dataTables.min.css" rel="stylesheet" />
+
+    <style>
+        .product-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+            .product-table th, .product-table td {
+                border: 1px solid #dddddd;
+                padding: 8px;
+            }
+
+            .product-table th {
+                background-color: #f2f2f2;
+            }
+
+            .product-table tbody tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+    </style>
+
+    <script type="script">
+        alert();
+            $(document).ready(function () {
+                debugger;
+                        var dt = new DataTable('#productTable', {
+                columnDefs: [
+                    {
+                        targets: [0],
+                        orderData: [0, 1]
+                    },
+                    {
+                        targets: [1],
+                        orderData: [1, 0]
+                    },
+                    {
+                        targets: [4],
+                        orderData: [4, 0]
+                    }
+                ]});
+            });
+    </script>
+</head>
+<body>
+
+    <h1>Modelden veri alma</h1>
+    <hr />
+
+
+
+
+    hebele hübele
+    <!-- Tablo -->
+    <table id="productTable" class="product-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Ürün Adı</th>
+                <th>Fiyat</th>
+                <th>Açıklama</th>
+                <th>Stok Miktarı</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.ID</td>
+                    <td>@product.ProductName</td>
+                    <td>@product.Price</td>
+                    <td>@product.Description</td>
+                    <td>@product.StockQuantity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+
+</html>
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        crossorigin="anonymous"></script>
+
+
+<!-- DataTables JS dosyası -->
+<script src="https://cdn.datatables.net/2.0.7/js/dataTables.min.js">
+
+
