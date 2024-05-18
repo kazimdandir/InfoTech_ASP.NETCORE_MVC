@@ -1,0 +1,22 @@
+﻿@model List<Employee>
+@{
+    ViewData["Title"] = "Veriler";
+}
+
+<h1>Veriler</h1>
+<hr />
+
+<table style="border: 1px solid red">
+
+    @foreach (var veri in Model)
+    {
+        <tr>
+            <td>@veri.FirstName</td>
+            <td>@veri.LastName</td>
+        </tr>
+    }
+
+</table>
+
+
+

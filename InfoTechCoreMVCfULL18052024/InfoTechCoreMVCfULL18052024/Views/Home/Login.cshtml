@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "Kullanıcı Girişi";
+}
+
+<h1>Kullanıcı Girişi</h1>
+
+<hr />
+
+<form action="/Home/Login" method="post">
+    <label>Kullanıcı Adı : </label>
+    <input type="text" name="kullaniciAdi" /> <br />
+    <label>Şifre : </label>
+    <input type="password" name="sifre" />
+    <input type="submit" value="Giriş Yap" class="btn btn-success" />
+</form>

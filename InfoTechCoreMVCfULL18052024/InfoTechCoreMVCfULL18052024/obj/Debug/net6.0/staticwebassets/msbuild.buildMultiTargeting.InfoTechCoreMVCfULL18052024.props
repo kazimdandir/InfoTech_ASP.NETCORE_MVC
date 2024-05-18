@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InfoTechCoreMVCfULL18052024.props" />
+</Project>

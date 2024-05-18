@@ -1,0 +1,23 @@
+﻿@model Customer
+@{
+    ViewData["Title"] = "Detay";
+}
+
+<h1>Detay</h1>
+<hr />
+
+<table class="table table-hover">
+    <tr>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Yaş</th>
+        <th>Cinsiyet</th>
+    </tr>
+
+    <tr>
+        <td>@Model.Ad</td>
+        <td>@Model.Soyad</td>
+        <td>@Model.Yas</td>
+        <td>@Model.Cinsiyet</td>
+    </tr>
+</table>

@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Yeni Müşteri Ekleme";
+}
+
+<h1>Yeni Müşteri Ekle</h1>
+<hr />
+
+<form action="/Customer/Yeni" method="post" class="form-group">
+    <table class="table">
+        <tr>
+            <td>Id :</td>
+            <td><input type="text" name="Id" class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <td>Ad :</td>
+            <td><input type="text" name="Ad" class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <td>Soyad :</td>
+            <td><input type="text" name="Soyad" class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <td>Yaş :</td>
+            <td><input type="text" name="Yas" class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <td>Cinsiyet :</td>
+            <td><input type="text" name="Cinsiyet" class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <td> </td>
+            <td><input type="submit" class="btn btn-success" value="Kaydet"/></td>
+        </tr>
+    </table>
+</form>
+
+

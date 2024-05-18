@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvcfull18052024\\infotechcoremvcfull18052024\\views\\customer\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|solutionrelative:infotechcoremvcfull18052024\\views\\customer\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvcfull18052024\\infotechcoremvcfull18052024\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|solutionrelative:infotechcoremvcfull18052024\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\infotechcoremvcfull18052024\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|solutionrelative:infotechcoremvcfull18052024\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\infotechcoremvcfull18052024\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|solutionrelative:infotechcoremvcfull18052024\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvcfull18052024\\infotechcoremvcfull18052024\\views\\customer\\yeni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|solutionrelative:infotechcoremvcfull18052024\\views\\customer\\yeni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\infotechcoremvcfull18052024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|solutionrelative:infotechcoremvcfull18052024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\infotechcoremvcfull18052024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|solutionrelative:infotechcoremvcfull18052024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\infotechcoremvcfull18052024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|solutionrelative:infotechcoremvcfull18052024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\infotechcoremvcfull18052024\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|solutionrelative:infotechcoremvcfull18052024\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\infotechcoremvcfull18052024\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF1537D2-E92F-4D1A-8380-63FFADA87509}|InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024.csproj|solutionrelative:infotechcoremvcfull18052024\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCfULL18052024\\Models\\Customer.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Models\\Customer.cs",
+              "RelativeToolTip": "InfoTechCoreMVCfULL18052024\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:51:07.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detay.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Views\\Customer\\Detay.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCfULL18052024\\Views\\Customer\\Detay.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Views\\Customer\\Detay.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCfULL18052024\\Views\\Customer\\Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T09:41:10.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Yeni.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Views\\Customer\\Yeni.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCfULL18052024\\Views\\Customer\\Yeni.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Views\\Customer\\Yeni.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCfULL18052024\\Views\\Customer\\Yeni.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T09:04:02.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCfULL18052024\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCfULL18052024\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T08:54:30.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCfULL18052024\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "InfoTechCoreMVCfULL18052024\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:03:02.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCfULL18052024\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCfULL18052024\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T08:01:27.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCfULL18052024\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InfoTechCoreMVCfULL18052024\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:01:06.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Program.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCfULL18052024\\Program.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Program.cs",
+              "RelativeToolTip": "InfoTechCoreMVCfULL18052024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:00:37.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCfULL18052024\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "InfoTechCoreMVCfULL18052024\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:52:25.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCfULL18052024\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCfULL18052024\\InfoTechCoreMVCfULL18052024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCfULL18052024\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T08:16:15.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

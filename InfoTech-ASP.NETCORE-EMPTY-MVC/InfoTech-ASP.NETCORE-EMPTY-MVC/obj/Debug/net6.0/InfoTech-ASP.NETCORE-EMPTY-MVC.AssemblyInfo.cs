@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfoTech-ASP.NETCORE-EMPTY-MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bd8a45bafdebbcd4c901ce378e5a37d40a7555f")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfoTech-ASP.NETCORE-EMPTY-MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfoTech-ASP.NETCORE-EMPTY-MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
