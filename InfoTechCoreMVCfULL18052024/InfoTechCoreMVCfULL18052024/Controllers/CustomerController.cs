@@ -42,6 +42,14 @@ namespace InfoTechCoreMVCfULL18052024.Controllers
             return RedirectToAction("Index");
         }
 
+        //İstenilen kolonları getirme
+        //public IActionResult Yeni([Bind("Ad, Soyad")] Customer f)
+        //{
+        //    musteriler.Add(f);
+
+        //    return RedirectToAction("Index");
+        //}
+
         public IActionResult Detay(int id)
         {
             var musteri = musteriler.Where(x => x.Id == id).First();

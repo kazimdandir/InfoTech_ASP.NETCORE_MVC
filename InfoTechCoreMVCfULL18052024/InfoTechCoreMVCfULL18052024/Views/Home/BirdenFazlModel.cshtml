@@ -1,0 +1,22 @@
+﻿@model CustomerBookVM
+@{
+    ViewData["Title"] = "BirdenFazlModel";
+}
+
+<h1>BirdenFazlModel</h1>
+
+<ul>
+    @foreach (var item in Model.Books)
+    {
+        <li>@item.BookName</li>
+    }
+</ul>
+
+<hr />
+
+<ul>
+    @foreach (var item in Model.Customers)
+    {
+        <li>@item.Ad</li>
+    }
+</ul>

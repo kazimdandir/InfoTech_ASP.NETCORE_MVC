@@ -30,6 +30,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcWWVuaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Home/BirdenFazlModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCaXJkZW5GYXpsTW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Home/CustomerEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21lckVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Home/CustomerListele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21lckxpc3RlbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Home/Hosgeldiniz.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb3NnZWxkaW5pei5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,12 +58,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Sample/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Siparis/sonuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xzb251Yy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Siparis/urunmodelal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1x1cnVubW9kZWxhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Siparis/UrunSat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xVcnVuU2F0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Siparis/UrunSatModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lwYXJpc1xVcnVuU2F0TW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/Urun/StokAzalt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blxTdG9rQXphbHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/User/HtmlHelpers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxIdG1sSGVscGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/User/TagHelpers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxUYWdIZWxwZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechCoreMVCfULL18052024/InfoTechCoreMVCfULL18052024/Views/_ViewImports.cshtml]

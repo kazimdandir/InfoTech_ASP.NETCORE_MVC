@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "UrunSatModel";
+}
+
+<h1>UrunSatModel ile</h1>
+
+<form method="post">
+    <div>
+        <label>Ürün ID</label>
+        <input type="text" name="Id" placeholder="Ürün ID Giriniz" />
+
+        <a href="/home/index" class="btn btn-primary"></a> 
+        @Html.ActionLink("Ana Sayfa", "Index", "Home", new { @class = "btn btn-primary" })
+        <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Ana Sayfa</a>
+
+    </div>
+
+    <div>
+        <label>Ürün Adı</label>
+        <input type="text" name="Name" placeholder="Ürün Adı Giriniz" />
+    </div>
+
+    <div>
+        <label>Ürün Fiyatı</label>
+        <input type="text" name="Price" placeholder="Ürün Fiyatı Giriniz" />
+    </div>
+
+    <div>
+        <input type="submit" value="Ürün Gönder" class="btn btn-outline-success" />
+    </div>
+</form>
