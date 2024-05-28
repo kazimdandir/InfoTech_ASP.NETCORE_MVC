@@ -1,15 +1,16 @@
-﻿@model Ogrenci
+﻿@model InfoTechMVCCoreTemplate26052024.Models.Ogrenci
 
 @{
-    ViewData["Title"] = "Apply";
+    ViewData["Title"] = "Edit";
 }
 
-<h1>Başvuru Formu</h1>
-<hr />
+<h1>Edit</h1>
 
+<h4>Ogrenci</h4>
+<hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Apply">
+        <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Ad" class="control-label"></label>
@@ -33,16 +34,11 @@
             </div>
             <div class="form-group">
                 <label asp-for="Katilim" class="control-label"></label>
-                @* <input asp-for="Katilim" class="form-control" /> *@
-                <select asp-for="Katilim" class="form-control">
-                    <option value="">Katılacak mısınız?</option>
-                    <option value="true">Evet, katılacağım.</option>
-                    <option value="false">Hayır, katılmayacağım.</option>
-                </select>
+                <input asp-for="Katilim" class="form-control" />
                 <span asp-validation-for="Katilim" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Ekle" class="btn btn-primary" />
+                <input type="submit" value="Save" class="btn btn-primary" />
             </div>
         </form>
     </div>

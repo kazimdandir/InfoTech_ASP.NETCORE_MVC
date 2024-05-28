@@ -29,16 +29,33 @@ namespace InfoTechMVCCoreTemplate26052024.Controllers
             }
         }
 
-        public IActionResult ListeKatilanlar()
+        public IActionResult TumListe()
         {
-            var liste = Repository.Ogrenciler.Where(x => x.Katilim == true);
+            var liste = Repository.ogrenciler;
             return View(liste);
         }
 
+        public IActionResult ListeKatilanlar()
+        {
+            var liste = Repository.ogrenciler.Where(x => x.Katilim == true);
+            return View(liste);
+        } 
+
         public IActionResult ListeKatilmayanlar()
         {
-            var liste = Repository.Ogrenciler.Where(x => x.Katilim == false);
+            var liste = Repository.ogrenciler.Where(x => x.Katilim == false);
             return View(liste);
+        }
+
+        public IActionResult Delete(string Ad)
+        {
+            Repository.OgrenciSil(Ad);
+            return View();
+        }
+
+        public IActionResult Edit()
+        {
+            return View();
         }
     }
 }

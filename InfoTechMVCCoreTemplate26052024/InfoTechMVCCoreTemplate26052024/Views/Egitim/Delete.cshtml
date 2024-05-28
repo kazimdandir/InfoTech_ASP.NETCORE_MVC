@@ -1,0 +1,32 @@
+﻿@model Ogrenci
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+<script>
+    function submitForm(event) {
+        event.preventDefault(); // Varsayılan form gönderimini engeller
+        Swal.fire({
+            position: "top-end",
+            icon: "success",
+            title: "Öğrenci başarıyla silinmiştir. lütfen bekleyiniz...",
+            showConfirmButton: false,
+            timer: 1500
+        }).then(() => {
+            //TumListe sayfasına yönlenir
+            window.location.href = '/Egitim/TumListe';
+        });
+    }
+</script>
+
+<h1>Silme</h1>
+
+<h3>Öğrenciyi silmek istediğinize emin misiniz?</h3>
+<div>
+    <form asp-action="Delete" asp-controller="Egitim" onsubmit="submitForm(event)">
+        <input type="submit" value="Sil" class="btn btn-danger" /> |
+        <a asp-action="ListeKatilanlar" asp-controller="Egitim">Listeye Dön</a>
+    </form>
+</div>

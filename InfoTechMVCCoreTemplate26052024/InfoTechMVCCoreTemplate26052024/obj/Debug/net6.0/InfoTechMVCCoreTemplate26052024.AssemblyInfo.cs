@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfoTechMVCCoreTemplate26052024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a09eae327eb2ad18ce97a0edbbe3131d9c4a71e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9da519f491ccc109b251ee9ece7e3b03698aca1")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfoTechMVCCoreTemplate26052024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfoTechMVCCoreTemplate26052024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

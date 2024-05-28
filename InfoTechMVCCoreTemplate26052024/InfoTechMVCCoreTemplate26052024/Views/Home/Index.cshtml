@@ -1,9 +1,47 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Ana Sayfa";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<div id="content">
+    <!-- Begin Page Content -->
+    <div class="container-fluid">
 
+        <!-- Page Heading -->
+        <h1 class="h3 mb-4 text-gray-800">Hoşgeldiniz!</h1>
+        <p>InfoTech eğitim programına hoş geldiniz. Aşağıdan detaylara ulaşabilirsiniz.</p>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Eğitim Başvurusu</h5>
+                        <p class="card-text">Eğitim programımıza başvurmak için aşağıdaki linke tıklayın.</p>
+                        <a href="@Url.Action("Apply", "Egitim")" class="btn btn-primary">Başvur</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Katılımcı Listesi</h5>
+                        <p class="card-text">Eğitim programına katılan tüm öğrencilerin listesine ulaşmak için tıklayın.</p>
+                        <a href="@Url.Action("TumListe", "Egitim")" class="btn btn-primary">Katılımcılar</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Gizlilik Politikası</h5>
+                        <p class="card-text">Gizlilik politikamıza göz atmak için aşağıdaki linke tıklayın.</p>
+                        <a href="@Url.Action("Privacy", "Home")" class="btn btn-primary">Gizlilik Politikası</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- /.container-fluid -->
+
+</div>
+<!-- End of Main Content -->
