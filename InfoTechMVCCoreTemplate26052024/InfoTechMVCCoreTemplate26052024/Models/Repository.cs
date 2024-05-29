@@ -26,8 +26,6 @@
             ogrenciler.Add(ogrenci);
         }
 
-        //Buraya düzenleme methodu eklenecek.
-
         public static void OgrenciSil(int ID)
         {
             var selected = ogrenciler.FirstOrDefault(x => x.ID == ID);

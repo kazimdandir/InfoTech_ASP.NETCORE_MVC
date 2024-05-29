@@ -53,9 +53,13 @@
                 </td>
                 <td>
                     @Html.ActionLink("Düzenle", "Edit", new { ID = item.ID }, new { @class = "btn btn-warning btn-xs" })
-                    @Html.ActionLink("Sil", "Delete", new { ID = item.ID }, new { @class = "btn btn-danger btn-xs" })
+                    <button class="btn btn-danger" onclick="return confirmDelete(event);">Sil</button>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+
+@section Scripts {
+    <script src="~/js/repository.js"></script>
+}
