@@ -4,6 +4,8 @@ namespace InfoTechMVCCoreTemplate26052024.Models
 {
     public class Ogrenci
     {
+        public int ID { get; set; }
+
         [Required(ErrorMessage = "İsminizi girmelisiniz.")]
         public string Ad { get; set; }
 

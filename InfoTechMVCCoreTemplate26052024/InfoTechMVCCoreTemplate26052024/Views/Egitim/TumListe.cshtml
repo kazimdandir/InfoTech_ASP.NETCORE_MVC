@@ -4,7 +4,12 @@
     ViewData["Title"] = "TumListe";
 }
 
-<h1>Tüm Öğrenciler</h1>
+<h1>Tüm Başvurular</h1>
+
+<p>
+    <a asp-action="Apply" asp-controller="Egitim">Öğrenci Ekle</a>
+</p>
+<hr />
 
 <table class="table">
     <thead>
@@ -19,10 +24,10 @@
                 @Html.DisplayNameFor(model => model.Telefon)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Eposta)
+                E-Posta
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Katilim)
+                Katılım Durumu
             </th>
             <th></th>
         </tr>
@@ -47,9 +52,8 @@
                     @Html.DisplayFor(modelItem => item.Katilim)
                 </td>
                 <td>
-                    @Html.ActionLink("Edit", "Edit", new { /* id = item.Id */ }, new { @class = "btn btn-warning btn-xs" })
-                    @Html.ActionLink("Details", "Details", new { /* id = item.Id */ }, new { @class = "btn btn-primary btn-xs" })
-                    @Html.ActionLink("Delete", "Delete", new { Ad = item.Ad }, new { @class = "btn btn-danger btn-xs" })
+                    @Html.ActionLink("Düzenle", "Edit", new { ID = item.ID }, new { @class = "btn btn-warning btn-xs" })
+                    @Html.ActionLink("Sil", "Delete", new { ID = item.ID }, new { @class = "btn btn-danger btn-xs" })
                 </td>
             </tr>
         }

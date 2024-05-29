@@ -47,14 +47,22 @@ namespace InfoTechMVCCoreTemplate26052024.Controllers
             return View(liste);
         }
 
-        public IActionResult Delete(string Ad)
+        public IActionResult Delete(int ID)
         {
-            Repository.OgrenciSil(Ad);
+            Repository.OgrenciSil(ID);
             return View();
         }
 
         public IActionResult Edit()
         {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Edit(int ID, Ogrenci ogr)
+        {
+            Repository.OgrenciDuzenle(ID, ogr);
+
             return View();
         }
     }
