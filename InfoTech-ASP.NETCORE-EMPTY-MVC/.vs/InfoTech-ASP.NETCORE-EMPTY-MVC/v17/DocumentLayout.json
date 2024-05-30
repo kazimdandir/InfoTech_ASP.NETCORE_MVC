@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotech-asp.netcore-empty-mvc\\infotech-asp.netcore-empty-mvc\\views\\home\\veriler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|solutionrelative:infotech-asp.netcore-empty-mvc\\views\\home\\veriler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotech-asp.netcore-empty-mvc\\infotech-asp.netcore-empty-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|solutionrelative:infotech-asp.netcore-empty-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\infotech-asp.netcore-empty-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotech-asp.netcore-empty-mvc\\infotech-asp.netcore-empty-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|solutionrelative:infotech-asp.netcore-empty-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,19 +43,15 @@
       "RelativeMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|solutionrelative:infotech-asp.netcore-empty-mvc\\views\\home\\veri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotech-asp.netcore-empty-mvc\\infotech-asp.netcore-empty-mvc\\views\\home\\veriler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|solutionrelative:infotech-asp.netcore-empty-mvc\\views\\home\\veriler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\infotech-asp.netcore-empty-mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotech-asp.netcore-empty-mvc\\infotech-asp.netcore-empty-mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|solutionrelative:infotech-asp.netcore-empty-mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\infotech-asp.netcore-empty-mvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotech-asp.netcore-empty-mvc\\infotech-asp.netcore-empty-mvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|solutionrelative:infotech-asp.netcore-empty-mvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\infotech-asp.netcore-empty-mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotech-asp.netcore-empty-mvc\\infotech-asp.netcore-empty-mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C55757F-0AF9-44D6-8C1F-15438D5266CD}|InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC.csproj|solutionrelative:infotech-asp.netcore-empty-mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Test\\Index.cshtml",
               "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Test\\Index.cshtml",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Test\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T07:51:20.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T07:51:20.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LayoutTest.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\LayoutTest.cshtml",
               "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\LayoutTest.cshtml",
@@ -87,18 +86,17 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\LayoutTest.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T07:41:50.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T07:41:50.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T07:16:46.075Z",
               "EditorCaption": ""
@@ -113,12 +111,11 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Product\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T08:36:13.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T08:36:13.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Shared\\_Layout.cshtml",
@@ -126,12 +123,11 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T07:37:00.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T07:37:00.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TestController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Controllers\\TestController.cs",
@@ -139,12 +135,11 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Controllers\\TestController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T07:50:14.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T07:50:14.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Veriler.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\Veriler.cshtml",
               "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\Veriler.cshtml",
@@ -157,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Veri.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\Veri.cshtml",
               "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\Veri.cshtml",
@@ -165,12 +160,11 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\Veri.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T07:22:07.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T07:22:07.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Program.cs",
               "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Program.cs",
@@ -178,12 +172,11 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:03:17.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T09:03:17.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\_ViewStart.cshtml",
@@ -191,12 +184,11 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T07:49:00.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T07:49:00.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\_ViewImports.cshtml",
@@ -204,8 +196,7 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T07:46:07.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T07:46:07.734Z"
             },
             {
               "$type": "Document",
@@ -217,8 +208,7 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:35:25.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T09:35:25.522Z"
             },
             {
               "$type": "Document",
@@ -230,8 +220,7 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T05:24:23.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T05:24:23.778Z"
             }
           ]
         }

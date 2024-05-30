@@ -40,12 +40,16 @@
         {
             var selected = ogrenciler.FirstOrDefault(x => x.ID == ID);
 
-            if(selected != null)
+            if (selected != null)
             {
-                OgrenciEkle(ogr);
-                ogrenciler.Remove(selected);
+                selected.Ad = ogr.Ad;
+                selected.Soyad = ogr.Soyad;
+                selected.Telefon = ogr.Telefon;
+                selected.Eposta = ogr.Eposta;
+                selected.Katilim = ogr.Katilim;
             }
         }
+
 
     }
 }

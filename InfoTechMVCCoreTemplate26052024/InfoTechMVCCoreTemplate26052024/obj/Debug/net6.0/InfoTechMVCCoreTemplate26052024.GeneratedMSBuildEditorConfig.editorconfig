@@ -22,10 +22,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdpdGltXEFwcGx5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechMVCCoreTemplate26052024/InfoTechMVCCoreTemplate26052024/Views/Egitim/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdpdGltXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechMVCCoreTemplate26052024/InfoTechMVCCoreTemplate26052024/Views/Egitim/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdpdGltXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,14 +32,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechMVCCoreTemplate26052024/InfoTechMVCCoreTemplate26052024/Views/Egitim/ListeKatilmayanlar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdpdGltXExpc3RlS2F0aWxtYXlhbmxhci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechMVCCoreTemplate26052024/InfoTechMVCCoreTemplate26052024/Views/Egitim/Silindi.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdpdGltXFNpbGluZGkuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechMVCCoreTemplate26052024/InfoTechMVCCoreTemplate26052024/Views/Egitim/Tesekkurler.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdpdGltXFRlc2Vra3VybGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/InfoTechMVCCoreTemplate26052024/InfoTechMVCCoreTemplate26052024/Views/Egitim/TumListe.cshtml]

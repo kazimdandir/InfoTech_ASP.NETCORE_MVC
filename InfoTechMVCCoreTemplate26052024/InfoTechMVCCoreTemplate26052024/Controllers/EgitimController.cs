@@ -5,6 +5,8 @@ namespace InfoTechMVCCoreTemplate26052024.Controllers
 {
     public class EgitimController : Controller
     {
+        public Ogrenci Ogrenci { get; set; }
+
         public IActionResult Index()
         {
             return View();
@@ -16,16 +18,25 @@ namespace InfoTechMVCCoreTemplate26052024.Controllers
         }
 
         [HttpPost]
-        public IActionResult Apply(Ogrenci ogr)
+        public JsonResult Apply(Ogrenci ogr)
         {
             if (ModelState.IsValid)
             {
                 Repository.OgrenciEkle(ogr);
-                return View("Tesekkurler", ogr);
+
+                if (ogr.Katilim.HasValue && ogr.Katilim.Value)
+                {
+                    return Json(new { success = true, message = "Eğitime başvurduğunuz için teşekkür ederiz 🙌 " + ogr.Eposta + " üzerinden tarafınıza dönüş sağlanacaktır 😊" });
+                }
+                else
+                {
+                    return Json(new { success = true, message = "Eğitime başvurmadığınız için üzgünüz 🙄 Tekrar görüşmek dileğiyle... ✌️" });
+                }
             }
             else
             {
-                return View();
+                var errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
+                return Json(new { success = false, message = "Formda hata var. Lütfen tekrar kontrol edin.", errors });
             }
         }
 
@@ -39,7 +50,7 @@ namespace InfoTechMVCCoreTemplate26052024.Controllers
         {
             var liste = Repository.ogrenciler.Where(x => x.Katilim == true);
             return View(liste);
-        } 
+        }
 
         public IActionResult ListeKatilmayanlar()
         {
@@ -47,23 +58,39 @@ namespace InfoTechMVCCoreTemplate26052024.Controllers
             return View(liste);
         }
 
-        public IActionResult Delete(int ID)
+        [HttpGet]
+        public IActionResult Edit(int id)
         {
-            Repository.OgrenciSil(ID);
-            return View();
-        }
-
-        public IActionResult Edit()
-        {
-            return View();
+            var item = Repository.ogrenciler.FirstOrDefault(x => x.ID == id);
+            return View(item);
         }
 
         [HttpPost]
-        public IActionResult Edit(int ID, Ogrenci ogr)
+        public JsonResult EditUser(int ID, Ogrenci ogr)
         {
-            Repository.OgrenciDuzenle(ID, ogr);
+            try
+            {
+                Repository.OgrenciDuzenle(ID, ogr);
+                return Json(new { success = true, message = "Düzenleme başarılı" });
+            }
+            catch (Exception ex)
+            {
+                return Json(new { success = false, message = ex.Message });
+            }
+        }
 
-            return View();
+        [HttpPost]
+        public JsonResult DeleteUser(int id)
+        {
+            try
+            {
+                Repository.OgrenciSil(id);
+                return Json(new { success = true, message = "Kayıt silme başarılı" });
+            }
+            catch (Exception ex)
+            {
+                return Json(new { success = false, message = ex.Message });
+            }
         }
     }
 }

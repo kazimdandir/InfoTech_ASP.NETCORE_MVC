@@ -6,19 +6,22 @@ namespace InfoTechMVCCoreTemplate26052024.Models
     {
         public int ID { get; set; }
 
-        [Required(ErrorMessage = "İsminizi girmelisiniz.")]
+        [Required(ErrorMessage = "Ad alanı zorunludur.")]
         public string Ad { get; set; }
 
-        [Required(ErrorMessage = "Soyisminizi girmelisiniz.")]
+        [Required(ErrorMessage = "Soyad alanı zorunludur.")]
         public string Soyad { get; set; }
 
-        [Required(ErrorMessage = "Sizinle iletişime geçebilmemiz adına lütfen telefon numaranızı yazınız.")]
+        [Required(ErrorMessage = "Telefon alanı zorunludur.")]
+        [Phone(ErrorMessage = "Geçerli bir telefon numarası giriniz.")]
         public string Telefon { get; set; }
 
-        [Required(ErrorMessage = "Sizinle iletişime geçebilmemiz adına lütfen e-posta adresinizi yazınız.")]
+        [Required(ErrorMessage = "Eposta alanı zorunludur.")]
+        [EmailAddress(ErrorMessage = "Geçerli bir e-posta adresi giriniz.")]
         public string Eposta { get; set; }
 
-        [Required(ErrorMessage = "Katılım durumunuzu belirtmeniz gerekmektedir.")]
+        [Required(ErrorMessage = "Katılım durumu zorunludur.")]
         public bool? Katilim { get; set; }
     }
+
 }

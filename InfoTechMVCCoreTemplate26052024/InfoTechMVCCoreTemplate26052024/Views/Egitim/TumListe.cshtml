@@ -1,4 +1,4 @@
-﻿@model IEnumerable<InfoTechMVCCoreTemplate26052024.Models.Ogrenci>
+﻿@model IEnumerable<Ogrenci>
 
 @{
     ViewData["Title"] = "TumListe";
@@ -53,12 +53,13 @@
                 </td>
                 <td>
                     @Html.ActionLink("Düzenle", "Edit", new { ID = item.ID }, new { @class = "btn btn-warning btn-xs" })
-                    <button class="btn btn-danger" onclick="return confirmDelete(event);">Sil</button>
+                    <button class="btn btn-danger" onclick="deleteUser(@item.ID);">Sil</button>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+
 
 @section Scripts {
     <script src="~/js/repository.js"></script>

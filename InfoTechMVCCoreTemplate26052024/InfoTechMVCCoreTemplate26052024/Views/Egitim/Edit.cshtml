@@ -9,7 +9,8 @@
 
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Edit" method="post">
+        <form id="editForm" method="post">
+            <input type="hidden" asp-for="ID" />
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Ad" class="control-label"></label>
@@ -41,7 +42,7 @@
                 <span asp-validation-for="Katilim" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <button type="submit" class="btn btn-primary" onclick="return confirmEdit(event);">Kaydet</button>
+                <button type="submit" class="btn btn-primary" onclick="return confirmEdit(event);">Güncelle</button>
             </div>
         </form>
     </div>
@@ -51,6 +52,3 @@
     <a asp-action="TumListe" asp-controller="Egitim">Listeye Geri Dön</a>
 </div>
 
-@section Scripts {
-    <script src="~/js/repository.js"></script>
-}
