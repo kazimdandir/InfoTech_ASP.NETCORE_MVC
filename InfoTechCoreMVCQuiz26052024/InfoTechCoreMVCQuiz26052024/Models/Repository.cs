@@ -18,11 +18,11 @@
 
             products = new List<Product>
             {
-                new Product { ProductID = 1, ProductName = "Wireless Headphones", ProductPrice = 79.99, ProductStockCount = 150},
-                new Product { ProductID = 2, ProductName = "Smartwatch", ProductPrice = 129.99, ProductStockCount = 75},
-                new Product { ProductID = 3, ProductName = "Electric Kettle", ProductPrice = 39.99, ProductStockCount = 200},
-                new Product { ProductID = 4, ProductName = "Yoga Mat", ProductPrice = 24.99, ProductStockCount = 300},
-                new Product { ProductID = 5, ProductName = "Bluetooth Speaker", ProductPrice = 49.99, ProductStockCount = 120},
+                new Product { ProductID = 1, ProductName = "Wireless Headphones", ProductPrice = 79.99, ProductStockQuantity = 150},
+                new Product { ProductID = 2, ProductName = "Smartwatch", ProductPrice = 129.99, ProductStockQuantity = 75},
+                new Product { ProductID = 3, ProductName = "Electric Kettle", ProductPrice = 39.99, ProductStockQuantity = 200},
+                new Product { ProductID = 4, ProductName = "Yoga Mat", ProductPrice = 24.99, ProductStockQuantity = 300},
+                new Product { ProductID = 5, ProductName = "Bluetooth Speaker", ProductPrice = 49.99, ProductStockQuantity = 120},
             };
         }
 
