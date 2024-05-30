@@ -119,8 +119,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-29T11:09:04.547Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "InfoTechMVCCoreTemplate26052024\\Views\\Egitim\\ListeKatilmayanlar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-26T09:30:08.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T09:30:08.138Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "InfoTechMVCCoreTemplate26052024\\Views\\Egitim\\TumListe.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T11:23:37.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T11:23:37.192Z"
             },
             {
               "$type": "Document",
@@ -156,7 +153,7 @@
               "RelativeDocumentMoniker": "InfoTechMVCCoreTemplate26052024\\wwwroot\\js\\repository.js",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreTemplate26052024\\InfoTechMVCCoreTemplate26052024\\wwwroot\\js\\repository.js",
               "RelativeToolTip": "InfoTechMVCCoreTemplate26052024\\wwwroot\\js\\repository.js",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAYwEsAAAAuAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwD0AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-05-29T13:11:44.247Z",
               "EditorCaption": ""
@@ -171,8 +168,7 @@
               "RelativeToolTip": "InfoTechMVCCoreTemplate26052024\\Views\\Egitim\\ListeKatilanlar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-26T09:22:43.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T09:22:43.907Z"
             },
             {
               "$type": "Document",
@@ -184,8 +180,7 @@
               "RelativeToolTip": "InfoTechMVCCoreTemplate26052024\\Views\\Egitim\\Apply.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-27T08:06:47.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T08:06:47.966Z"
             },
             {
               "$type": "Document",
@@ -197,8 +192,7 @@
               "RelativeToolTip": "InfoTechMVCCoreTemplate26052024\\Models\\Ogrenci.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T08:52:53.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T08:52:53.272Z"
             },
             {
               "$type": "Document",
@@ -210,8 +204,7 @@
               "RelativeToolTip": "InfoTechMVCCoreTemplate26052024\\Models\\Repository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T08:54:35.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T08:54:35.015Z"
             },
             {
               "$type": "Document",
@@ -223,8 +216,7 @@
               "RelativeToolTip": "InfoTechMVCCoreTemplate26052024\\Views\\Shared\\_sidebar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-26T09:30:24.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T09:30:24.245Z"
             },
             {
               "$type": "Document",
@@ -236,8 +228,7 @@
               "RelativeToolTip": "InfoTechMVCCoreTemplate26052024\\Controllers\\EgitimController.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAA2wBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T09:00:44.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T09:00:44.367Z"
             },
             {
               "$type": "Document",
@@ -249,8 +240,7 @@
               "RelativeToolTip": "InfoTechMVCCoreTemplate26052024\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABEAAAAAAAAAAAAAAE0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T08:16:16.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T08:16:16.147Z"
             },
             {
               "$type": "Document",
@@ -262,8 +252,7 @@
               "RelativeToolTip": "InfoTechMVCCoreTemplate26052024\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwCgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T07:56:39.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T07:56:39.48Z"
             },
             {
               "$type": "Document",

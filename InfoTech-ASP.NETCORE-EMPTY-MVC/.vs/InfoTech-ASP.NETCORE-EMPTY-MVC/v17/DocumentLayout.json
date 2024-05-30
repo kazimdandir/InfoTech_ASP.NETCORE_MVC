@@ -62,32 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Test\\Index.cshtml",
-              "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Test\\Index.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Test\\Index.cshtml",
-              "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Test\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T07:51:20.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LayoutTest.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\LayoutTest.cshtml",
-              "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\LayoutTest.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\LayoutTest.cshtml",
-              "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\LayoutTest.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T07:41:50.006Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -98,8 +74,7 @@
               "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T07:16:46.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T07:16:46.075Z"
             },
             {
               "$type": "Document",
@@ -149,6 +124,30 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-18T07:21:25.732Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LayoutTest.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\LayoutTest.cshtml",
+              "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\LayoutTest.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\LayoutTest.cshtml",
+              "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Home\\LayoutTest.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T07:41:50.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Test\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "InfoTech-ASP.NETCORE-EMPTY-MVC\\Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T07:51:20.349Z"
             },
             {
               "$type": "Document",
