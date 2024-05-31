@@ -47,7 +47,7 @@
                 <td>
                     @Html.ActionLink("Update", "Update", new { id = item.ProductID }, new { @class = "btn btn-warning btn-xs" })
 
-                    <button class="btn btn-danger" onclick="deleteProduct();">Delete</button>
+                    <button class="btn btn-danger" onclick="deleteProduct(@item.ProductID)">Delete</button>
                 </td>
             </tr>
         }
@@ -58,3 +58,5 @@
     <h5>Total Product Price: @ViewBag.TotalPrice</h5>
     <h5>Total Stock Quantity: @ViewBag.TotalStockQuantity</h5>
 </div>
+
+

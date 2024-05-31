@@ -2,8 +2,8 @@
 {
     public static class Repository
     {
-        public static List<Product> products;
-        public static List<UserClaim> users;
+        public static List<Product> products = new List<Product>();
+        public static List<UserClaim> users = new List<UserClaim>();
 
         static Repository()
         {
@@ -52,6 +52,27 @@
         {
             return products.Sum(p => p.ProductStockQuantity);
         }
-    }
 
+        public static void DeleteProduct(int id)
+        {
+            var selected = products.FirstOrDefault(x => x.ProductID == id);
+            if (selected != null)
+            {
+                products.Remove(selected);
+            }
+        }
+
+        public static void UpdateProduct(int id, Product p)
+        {
+            var selected = products.FirstOrDefault(x => x.ProductID == id);
+
+            if (selected != null)
+            {
+                selected.ProductName = p.ProductName;
+                selected.ProductPrice = p.ProductPrice;
+                selected.ProductStockQuantity = p.ProductStockQuantity;
+            }
+        }
+
+    }
 }

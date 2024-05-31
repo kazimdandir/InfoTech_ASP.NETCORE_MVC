@@ -45,9 +45,56 @@ namespace InfoTechCoreMVCQuiz26052024.Controllers
             if (ModelState.IsValid)
             {
                 Repository.AddProduct(p);
-                return RedirectToAction("ProductList"); // Başarılı eklemeden sonra listeye yönlendirme
+                return RedirectToAction("ProductList"); // Redirect to list page after successful addition
             }
-            return View(p); // Model hatalıysa formu tekrar göster
+            return View(p); // If the model is incorrect, show the form again
         }
+
+        public IActionResult UserProduct()
+        {
+            var viewModel = new UserProductViewModel
+            {
+                Users = Repository.UserList(),
+                Products = Repository.ProductList()
+            }; 
+
+            return View(viewModel);
+        }
+
+        [HttpPost]
+        public JsonResult Delete(int id)
+        {
+            try
+            {
+                Repository.DeleteProduct(id);
+                return Json(new { success = true, message = "Deleted successfully" });
+            }
+            catch (Exception ex)
+            {
+                return Json(new { success = false, message = ex.Message });
+            }
+        }
+
+        [HttpGet]
+        public IActionResult Update(int id)
+        {
+            var item = Repository.products.FirstOrDefault(x => x.ProductID == id);
+            return View(item);
+        }
+
+        [HttpPost]
+        public JsonResult Update(int id, Product p)
+        {
+            try
+            {
+                Repository.UpdateProduct(id, p);
+                return Json(new { success = true, message = "Updated successfully" });
+            }
+            catch (Exception ex)
+            {
+                return Json(new { success = false, message = ex.Message });
+            }
+        }
+
     }
 }

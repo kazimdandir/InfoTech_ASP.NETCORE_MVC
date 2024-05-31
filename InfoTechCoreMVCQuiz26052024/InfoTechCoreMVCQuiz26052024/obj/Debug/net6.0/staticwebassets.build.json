@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L8ZvBYDFHFEM0r7tty3mYa/1Mv1X1/NlvjQHtWnnQ/g=",
+  "Hash": "Dha8QxpxsjdfsF76XIINGDb8MoXiO6wuLA06am+RAZM=",
   "Source": "InfoTechCoreMVCQuiz26052024",
   "BasePath": "_content/InfoTechCoreMVCQuiz26052024",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\wwwroot\\js\\repository.js",
+      "SourceId": "InfoTechCoreMVCQuiz26052024",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\wwwroot\\",
+      "BasePath": "_content/InfoTechCoreMVCQuiz26052024",
+      "RelativePath": "js/repository.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\repository.js"
     },
     {
       "Identity": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\wwwroot\\js\\site.js",

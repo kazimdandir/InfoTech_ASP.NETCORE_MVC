@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\wwwroot\\js\\repository.js",
+      "PackagePath": "staticwebassets\\js\\repository.js"
+    },
+    {
       "Id": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

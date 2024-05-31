@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfoTechCoreMVCQuiz26052024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9818078162852d0f9b749c61e8f95c0b9c58f30e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d1c9370282232d2a9af03d7c0c9ee583af65c65")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfoTechCoreMVCQuiz26052024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfoTechCoreMVCQuiz26052024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
