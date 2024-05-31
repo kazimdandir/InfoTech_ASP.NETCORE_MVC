@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using InfoTechCoreMVCQuiz26052024.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace InfoTechCoreMVCQuiz26052024.Controllers
 {
@@ -24,6 +25,18 @@ namespace InfoTechCoreMVCQuiz26052024.Controllers
             return View();
         }
 
-        //Received data view
+        public IActionResult ProductList()
+        {
+            var list = Repository.ProductList();
+
+            var totalProductPrice = list.Sum(p => p.ProductPrice * p.ProductStockQuantity);
+            var totalStockQuantity = list.Sum(p => p.ProductStockQuantity);
+
+            ViewData["TotalProductPrice"] = totalProductPrice;
+            ViewData["TotalStockQuantity"] = totalStockQuantity;
+
+            return View(list);
+        }
+
     }
 }

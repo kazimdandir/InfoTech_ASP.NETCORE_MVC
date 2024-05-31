@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvcquiz26052024\\infotechcoremvcquiz26052024\\views\\product\\receiveddataview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|solutionrelative:infotechcoremvcquiz26052024\\views\\product\\receiveddataview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvcquiz26052024\\infotechcoremvcquiz26052024\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|solutionrelative:infotechcoremvcquiz26052024\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvcquiz26052024\\infotechcoremvcquiz26052024\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|solutionrelative:infotechcoremvcquiz26052024\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvcquiz26052024\\infotechcoremvcquiz26052024\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|solutionrelative:infotechcoremvcquiz26052024\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvcquiz26052024\\infotechcoremvcquiz26052024\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|solutionrelative:infotechcoremvcquiz26052024\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvcquiz26052024\\infotechcoremvcquiz26052024\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|solutionrelative:infotechcoremvcquiz26052024\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89F493DC-72D6-4FDE-BD6F-36C53FEB4DAA}|InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvcquiz26052024\\infotechcoremvcquiz26052024\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,33 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "InfoTechCoreMVCQuiz26052024\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T19:24:50.97Z",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCQuiz26052024\\Models\\Product.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Models\\Product.cs",
+              "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:21:55.569Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReceivedDataView.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Views\\Product\\ReceivedDataView.cshtml",
-              "RelativeDocumentMoniker": "InfoTechCoreMVCQuiz26052024\\Views\\Product\\ReceivedDataView.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Views\\Product\\ReceivedDataView.cshtml",
-              "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Views\\Product\\ReceivedDataView.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T19:41:50.359Z",
               "EditorCaption": ""
             },
             {
@@ -67,35 +50,35 @@
               "RelativeDocumentMoniker": "InfoTechCoreMVCQuiz26052024\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Controllers\\ProductController.cs",
               "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T13:23:14.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs",
               "RelativeDocumentMoniker": "InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs",
               "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAB6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T13:23:46.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "InfoTechCoreMVCQuiz26052024\\Models\\Product.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Models\\Product.cs",
-              "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T13:21:55.569Z",
+              "DocumentIndex": 0,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCQuiz26052024\\Views\\Product\\ProductList.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Views\\Product\\ProductList.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T05:22:54.525Z",
               "EditorCaption": ""
             }
           ]

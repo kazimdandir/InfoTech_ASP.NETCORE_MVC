@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "ProductList";
+}
+
+<h1>Product List</h1>
+<hr />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().ProductPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().ProductStockQuantity)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductStockQuantity)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <p><strong>Total Product Price:</strong> @ViewData["TotalProductPrice"] $</p>
+    <p><strong>Total Stock Quantity:</strong> @ViewData["TotalStockQuantity"]</p>
+</div>
