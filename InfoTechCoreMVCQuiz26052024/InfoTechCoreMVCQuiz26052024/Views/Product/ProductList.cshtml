@@ -19,6 +19,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.First().ProductStockQuantity)
             </th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -33,6 +34,11 @@
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.ProductStockQuantity)
+                </td>
+                <td>
+                    @Html.ActionLink("Update", "Update", new { id = item.ProductID }, new { @class = "btn btn-warning btn-xs" })
+
+                    <button class="btn btn-danger" onclick="deleteProduct();">Delete</button>
                 </td>
             </tr>
         }
