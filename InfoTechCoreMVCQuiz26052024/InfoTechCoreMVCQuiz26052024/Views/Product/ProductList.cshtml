@@ -1,15 +1,21 @@
 ﻿@model IEnumerable<Product>
 
 @{
-    ViewData["Title"] = "ProductList";
+    ViewData["Title"] = "Product List";
 }
 
 <h1>Product List</h1>
-<hr />
+
+<p>
+    <a asp-action="Add" asp-controller="Product" class="btn btn-primary">Add New Product</a>
+</p>
 
 <table class="table">
     <thead>
         <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().ProductID)
+            </th>
             <th>
                 @Html.DisplayNameFor(model => model.First().ProductName)
             </th>
@@ -26,6 +32,9 @@
         @foreach (var item in Model)
         {
             <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductID)
+                </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.ProductName)
                 </td>
@@ -46,6 +55,6 @@
 </table>
 
 <div>
-    <p><strong>Total Product Price:</strong> @ViewData["TotalProductPrice"] $</p>
-    <p><strong>Total Stock Quantity:</strong> @ViewData["TotalStockQuantity"]</p>
+    <h5>Total Product Price: @ViewBag.TotalPrice</h5>
+    <h5>Total Stock Quantity: @ViewBag.TotalStockQuantity</h5>
 </div>

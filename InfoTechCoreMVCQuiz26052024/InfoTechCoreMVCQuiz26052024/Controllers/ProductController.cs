@@ -27,16 +27,27 @@ namespace InfoTechCoreMVCQuiz26052024.Controllers
 
         public IActionResult ProductList()
         {
-            var list = Repository.ProductList();
-
-            var totalProductPrice = list.Sum(p => p.ProductPrice * p.ProductStockQuantity);
-            var totalStockQuantity = list.Sum(p => p.ProductStockQuantity);
-
-            ViewData["TotalProductPrice"] = totalProductPrice;
-            ViewData["TotalStockQuantity"] = totalStockQuantity;
-
-            return View(list);
+            var products = Repository.ProductList();
+            ViewBag.TotalPrice = Repository.GetTotalPrice();
+            ViewBag.TotalStockQuantity = Repository.GetTotalStockQuantity();
+            return View(products);
         }
 
+        [HttpGet]
+        public IActionResult Add()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Add(Product p)
+        {
+            if (ModelState.IsValid)
+            {
+                Repository.AddProduct(p);
+                return RedirectToAction("ProductList"); // Başarılı eklemeden sonra listeye yönlendirme
+            }
+            return View(p); // Model hatalıysa formu tekrar göster
+        }
     }
 }
