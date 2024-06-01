@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -75,7 +75,31 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T13:21:55.569Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCQuiz26052024\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:48:31.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs*",
+              "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:23:46.901Z",
               "EditorCaption": ""
             },
             {
@@ -88,34 +112,7 @@
               "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\wwwroot\\js\\repository.js",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-31T19:16:06.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "InfoTechCoreMVCQuiz26052024\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAFgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T06:48:31.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs",
-              "RelativeDocumentMoniker": "InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCQuiz26052024\\InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs",
-              "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Models\\Repository.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAA+wDgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T13:23:46.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T19:16:06.446Z"
             },
             {
               "$type": "Document",
@@ -127,8 +124,7 @@
               "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAB8AAAAAAAAAAAAYwDwAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T19:20:28.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T19:20:28.832Z"
             },
             {
               "$type": "Document",
@@ -140,8 +136,7 @@
               "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Views\\Product\\ProductList.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAYwDYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T05:22:54.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T05:22:54.525Z"
             },
             {
               "$type": "Document",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Views\\Product\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T19:38:04.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T19:38:04.941Z"
             },
             {
               "$type": "Document",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Models\\UserProductViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T19:06:49.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T19:06:49.236Z"
             },
             {
               "$type": "Document",
@@ -179,8 +172,7 @@
               "RelativeToolTip": "InfoTechCoreMVCQuiz26052024\\Views\\Product\\UserProduct.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T19:08:30.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T19:08:30.808Z"
             },
             {
               "$type": "Document",

@@ -1,0 +1,71 @@
+﻿@model CreateVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Personel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="@Model.Personel.ID" class="control-label">ID</label>
+                <input asp-for="@Model.Personel.ID" class="form-control" />
+                <span asp-validation-for="@Model.Personel.ID" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="@Model.Personel.Name" class="control-label"></label>
+                <input asp-for="@Model.Personel.Name" class="form-control" />
+                <span asp-validation-for="@Model.Personel.Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="@Model.Personel.Department" class="control-label"></label>
+                <select asp-for="@Model.Personel.Department" class="form-control">
+                    <option>Lütfen Seçiniz...</option>
+                    @foreach (Department item in Model.Departments)
+                    {
+                        <option value="@item.ID">@item.DepartmentName</option>
+                    }
+                </select>
+                <span asp-validation-for="@Model.Personel.Department" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="@Model.Personel.BirthDate" class="control-label"></label>
+                <input asp-for="@Model.Personel.BirthDate" class="form-control" />
+                <span asp-validation-for="@Model.Personel.BirthDate" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="@Model.Personel.WorkingType" class="control-label"></label>
+                <select asp-for="@Model.Personel.WorkingType" class="form-control" asp-items="@Html.GetEnumSelectList<WorkingType>()">
+
+                    <option>Lütfen Seçiniz...</option>
+
+                </select>
+                <span asp-validation-for="@Model.Personel.WorkingType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Personel Kaydet" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

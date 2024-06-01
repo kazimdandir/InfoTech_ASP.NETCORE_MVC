@@ -5,7 +5,7 @@
         public static List<Product> products = new List<Product>();
         public static List<UserClaim> users = new List<UserClaim>();
 
-        static Repository()
+        public static Repository()
         {
             users = new List<UserClaim>
         {
@@ -73,6 +73,5 @@
                 selected.ProductStockQuantity = p.ProductStockQuantity;
             }
         }
-
     }
 }
