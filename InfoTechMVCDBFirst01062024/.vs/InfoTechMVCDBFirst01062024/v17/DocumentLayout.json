@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvcdbfirst01062024\\infotechmvcdbfirst01062024\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|solutionrelative:infotechmvcdbfirst01062024\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvcdbfirst01062024\\infotechmvcdbfirst01062024\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|solutionrelative:infotechmvcdbfirst01062024\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvcdbfirst01062024\\infotechmvcdbfirst01062024\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|solutionrelative:infotechmvcdbfirst01062024\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvcdbfirst01062024\\infotechmvcdbfirst01062024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|solutionrelative:infotechmvcdbfirst01062024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvcdbfirst01062024\\infotechmvcdbfirst01062024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|solutionrelative:infotechmvcdbfirst01062024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InfoTechMVCDBFirst01062024\\Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvcdbfirst01062024\\infotechmvcdbfirst01062024\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793B85BD-851B-4202-A6AE-40DE9B358128}|InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024.csproj|solutionrelative:infotechmvcdbfirst01062024\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "InfoTechMVCDBFirst01062024\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "InfoTechMVCDBFirst01062024\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T09:52:07.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "InfoTechMVCDBFirst01062024\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "InfoTechMVCDBFirst01062024\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:49:17.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "InfoTechMVCDBFirst01062024\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "InfoTechMVCDBFirst01062024\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T09:47:41.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InfoTechMVCDBFirst01062024\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InfoTechMVCDBFirst01062024\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T09:44:16.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InfoTechMVCDBFirst01062024\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InfoTechMVCDBFirst01062024\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:40:38.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "InfoTechMVCDBFirst01062024\\Models\\Employee.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Models\\Employee.cs",
+              "RelativeToolTip": "InfoTechMVCDBFirst01062024\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:38:20.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "InfoTechMVCDBFirst01062024\\Models\\NorthwindContext.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCDBFirst01062024\\InfoTechMVCDBFirst01062024\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "InfoTechMVCDBFirst01062024\\Models\\NorthwindContext.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:29:03.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

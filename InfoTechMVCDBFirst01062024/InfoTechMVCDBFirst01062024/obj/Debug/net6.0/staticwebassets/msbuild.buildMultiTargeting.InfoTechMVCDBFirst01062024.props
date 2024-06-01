@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InfoTechMVCDBFirst01062024.props" />
+</Project>
