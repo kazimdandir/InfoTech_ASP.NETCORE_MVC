@@ -85,6 +85,7 @@ namespace InfoTechCoreMVCQuiz26052024.Controllers
         [HttpPost]
         public JsonResult Update(int id, Product p)
         {
+            //entry methodu dene
             try
             {
                 Repository.UpdateProduct(id, p);

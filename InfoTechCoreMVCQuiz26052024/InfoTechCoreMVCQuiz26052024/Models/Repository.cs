@@ -5,7 +5,7 @@
         public static List<Product> products = new List<Product>();
         public static List<UserClaim> users = new List<UserClaim>();
 
-        public static Repository()
+        static Repository()
         {
             users = new List<UserClaim>
         {

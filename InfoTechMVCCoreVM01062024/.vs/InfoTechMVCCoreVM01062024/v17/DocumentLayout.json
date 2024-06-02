@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccorevm01062024\\infotechmvccorevm01062024\\models\\enums\\workingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|solutionrelative:infotechmvccorevm01062024\\models\\enums\\workingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccorevm01062024\\infotechmvccorevm01062024\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|solutionrelative:infotechmvccorevm01062024\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|solutionrelative:infotechmvccorevm01062024\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccorevm01062024\\infotechmvccorevm01062024\\models\\enums\\workingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|solutionrelative:infotechmvccorevm01062024\\models\\enums\\workingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccorevm01062024\\infotechmvccorevm01062024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|solutionrelative:infotechmvccorevm01062024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PersonelController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Controllers\\PersonelController.cs",
               "RelativeDocumentMoniker": "InfoTechMVCCoreVM01062024\\Controllers\\PersonelController.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Views\\Personel\\Create.cshtml",
               "RelativeDocumentMoniker": "InfoTechMVCCoreVM01062024\\Views\\Personel\\Create.cshtml",
@@ -75,12 +75,11 @@
               "RelativeToolTip": "InfoTechMVCCoreVM01062024\\Views\\Personel\\Create.cshtml",
               "ViewState": "AQIAABEAAAAAAAAAAAAuwB8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T08:01:39.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T08:01:39.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "InfoTechMVCCoreVM01062024\\Views\\_ViewImports.cshtml",
@@ -88,12 +87,11 @@
               "RelativeToolTip": "InfoTechMVCCoreVM01062024\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T08:06:02.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T08:06:02.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Views\\Personel\\Index.cshtml",
               "RelativeDocumentMoniker": "InfoTechMVCCoreVM01062024\\Views\\Personel\\Index.cshtml",
@@ -101,12 +99,11 @@
               "RelativeToolTip": "InfoTechMVCCoreVM01062024\\Views\\Personel\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T08:18:49.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T08:18:49.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreateVM.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Models\\VM\\CreateVM.cs",
               "RelativeDocumentMoniker": "InfoTechMVCCoreVM01062024\\Models\\VM\\CreateVM.cs",
@@ -114,25 +111,24 @@
               "RelativeToolTip": "InfoTechMVCCoreVM01062024\\Models\\VM\\CreateVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T07:40:18.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T07:40:18.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "WorkingType.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Models\\Enums\\WorkingType.cs",
               "RelativeDocumentMoniker": "InfoTechMVCCoreVM01062024\\Models\\Enums\\WorkingType.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Models\\Enums\\WorkingType.cs",
               "RelativeToolTip": "InfoTechMVCCoreVM01062024\\Models\\Enums\\WorkingType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T07:34:43.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Personel.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Models\\Personel.cs",
               "RelativeDocumentMoniker": "InfoTechMVCCoreVM01062024\\Models\\Personel.cs",
@@ -140,12 +136,11 @@
               "RelativeToolTip": "InfoTechMVCCoreVM01062024\\Models\\Personel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T07:31:31.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T07:31:31.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Models\\Department.cs",
               "RelativeDocumentMoniker": "InfoTechMVCCoreVM01062024\\Models\\Department.cs",
@@ -153,12 +148,11 @@
               "RelativeToolTip": "InfoTechMVCCoreVM01062024\\Models\\Department.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T07:30:43.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T07:30:43.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Program.cs",
               "RelativeDocumentMoniker": "InfoTechMVCCoreVM01062024\\Program.cs",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "InfoTechMVCCoreVM01062024\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T07:26:59.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T07:26:59.538Z"
             },
             {
               "$type": "Document",
@@ -179,8 +172,7 @@
               "RelativeToolTip": "InfoTechMVCCoreVM01062024\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T07:27:14.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T07:27:14.236Z"
             }
           ]
         }

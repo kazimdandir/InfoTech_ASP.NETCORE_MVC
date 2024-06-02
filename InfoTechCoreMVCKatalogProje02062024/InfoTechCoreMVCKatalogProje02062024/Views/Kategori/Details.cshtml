@@ -1,0 +1,31 @@
+﻿@model InfoTechCoreMVCKatalogProje02062024.Models.Kategori
+
+@{
+    ViewData["Title"] = "Kategori Detay Sayfası";
+}
+
+<h1>Kategori Detay Sayfası</h1>
+<hr />
+
+<div>
+    <h4>Kategori</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.KategoriAdi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KategoriAdi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.KategoriAciklama)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KategoriAciklama)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.KategoriId" class="btn btn-success">Güncelle</a> 
+    <a asp-action="Index" class="btn btn-primary">Listeye Dön</a>
+</div>

@@ -11,12 +11,14 @@ namespace InfoTechMVCDBFirst01062024.Controllers
 {
     public class CategoriesController : Controller
     {
-        private readonly NorthwindContext _context;
+        //private readonly NorthwindContext _context;
 
-        public CategoriesController(NorthwindContext context)
-        {
-            _context = context;
-        }
+        //public CategoriesController(NorthwindContext context)
+        //{
+        //    _context = context;
+        //}
+
+        NorthwindContext _context = new NorthwindContext();
 
         // GET: Categories
         public async Task<IActionResult> Index()

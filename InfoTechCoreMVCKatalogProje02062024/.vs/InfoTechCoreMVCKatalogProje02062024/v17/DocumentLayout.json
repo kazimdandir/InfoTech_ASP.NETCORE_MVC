@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckatalogproje02062024\\infotechcoremvckatalogproje02062024\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|solutionrelative:infotechcoremvckatalogproje02062024\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckatalogproje02062024\\infotechcoremvckatalogproje02062024\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|solutionrelative:infotechcoremvckatalogproje02062024\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckatalogproje02062024\\infotechcoremvckatalogproje02062024\\views\\kategori\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|solutionrelative:infotechcoremvckatalogproje02062024\\views\\kategori\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckatalogproje02062024\\infotechcoremvckatalogproje02062024\\views\\kategori\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|solutionrelative:infotechcoremvckatalogproje02062024\\views\\kategori\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckatalogproje02062024\\infotechcoremvckatalogproje02062024\\views\\kategori\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|solutionrelative:infotechcoremvckatalogproje02062024\\views\\kategori\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckatalogproje02062024\\infotechcoremvckatalogproje02062024\\views\\kategori\\badrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|solutionrelative:infotechcoremvckatalogproje02062024\\views\\kategori\\badrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckatalogproje02062024\\infotechcoremvckatalogproje02062024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|solutionrelative:infotechcoremvckatalogproje02062024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckatalogproje02062024\\infotechcoremvckatalogproje02062024\\models\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|solutionrelative:infotechcoremvckatalogproje02062024\\models\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckatalogproje02062024\\infotechcoremvckatalogproje02062024\\models\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|solutionrelative:infotechcoremvckatalogproje02062024\\models\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Models\\MVCKatalogDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InfoTechCoreMVCKatalogProje02062024\\Models\\MVCKatalogDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckatalogproje02062024\\infotechcoremvckatalogproje02062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE424A3-B4DD-4845-9E43-2A390F798781}|InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024.csproj|solutionrelative:infotechcoremvckatalogproje02062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Details.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Details.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Details.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Details.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:29:38.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Edit.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Edit.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:10:14.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BadRequest.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\BadRequest.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\BadRequest.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\BadRequest.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\BadRequest.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:05:30.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Create.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Create.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Create.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T08:46:36.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKatalogProje02062024\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCKatalogProje02062024\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T08:18:35.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "InfoTechCoreMVCKatalogProje02062024\\Views\\Kategori\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T08:13:35.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KategoriController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Controllers\\KategoriController.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKatalogProje02062024\\Controllers\\KategoriController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Controllers\\KategoriController.cs",
+              "RelativeToolTip": "InfoTechCoreMVCKatalogProje02062024\\Controllers\\KategoriController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAwwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:08:49.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Urunler.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Models\\Urunler.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKatalogProje02062024\\Models\\Urunler.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Models\\Urunler.cs",
+              "RelativeToolTip": "InfoTechCoreMVCKatalogProje02062024\\Models\\Urunler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:05:31.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Models\\Kategori.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKatalogProje02062024\\Models\\Kategori.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Models\\Kategori.cs",
+              "RelativeToolTip": "InfoTechCoreMVCKatalogProje02062024\\Models\\Kategori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:05:10.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Program.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKatalogProje02062024\\Program.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Program.cs",
+              "RelativeToolTip": "InfoTechCoreMVCKatalogProje02062024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:00:16.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MVCKatalogDBContext.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Models\\MVCKatalogDBContext.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKatalogProje02062024\\Models\\MVCKatalogDBContext.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKatalogProje02062024\\InfoTechCoreMVCKatalogProje02062024\\Models\\MVCKatalogDBContext.cs",
+              "RelativeToolTip": "InfoTechCoreMVCKatalogProje02062024\\Models\\MVCKatalogDBContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:00:05.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
