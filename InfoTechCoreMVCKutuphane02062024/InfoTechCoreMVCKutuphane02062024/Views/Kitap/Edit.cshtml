@@ -1,0 +1,58 @@
+﻿@model Kitap
+
+@{
+    ViewData["Title"] = "Kitap Güncelleme";
+}
+
+<h1>Kitap Güncelleme</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Kitapno" />
+            <div class="form-group">
+                <label asp-for="Isbnno" class="control-label"></label>
+                <input asp-for="Isbnno" class="form-control" />
+                <span asp-validation-for="Isbnno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Kitapadi" class="control-label"></label>
+                <input asp-for="Kitapadi" class="form-control" />
+                <span asp-validation-for="Kitapadi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Yazarno" class="control-label">Yazar</label>
+                <select asp-for="Yazarno" class="form-control">
+                    @foreach (var yazar in ViewBag.Yazarlar)
+                    {
+                        <option value="@yazar.Yazarno">@($"{yazar.Yazarad} {yazar.Yazarsoyad}")</option>
+                    }
+                </select>
+                <span asp-validation-for="Yazarno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Turno" class="control-label">Tür</label>
+                <select asp-for="Turno" class="form-control" asp-items="@(new SelectList(ViewBag.Turler, "Turno", "Turadi"))"></select>
+                <span asp-validation-for="Turno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sayfasayisi" class="control-label"></label>
+                <input asp-for="Sayfasayisi" class="form-control" />
+                <span asp-validation-for="Sayfasayisi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-success" onclick="return confirm('Güncellemek istediğinize emin misiniz?');">Güncelle</button>
+                <a asp-action="List" asp-controller="Kitap" class="btn btn-primary">Listeye Dön</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,29 @@
+﻿@model Tur
+
+@{
+    ViewData["Title"] = "Yeni Tür Ekle";
+}
+
+<h1>Yeni Tür Ekle</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Turadi" class="control-label"></label>
+                <input asp-for="Turadi" class="form-control" />
+                <span asp-validation-for="Turadi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-success" onclick="return confirm('Eklemek istediğinize emin misiniz?');">Ekle</button>
+                <a asp-action="List" asp-controller="Tur" class="btn btn-primary">Listeye Dön</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

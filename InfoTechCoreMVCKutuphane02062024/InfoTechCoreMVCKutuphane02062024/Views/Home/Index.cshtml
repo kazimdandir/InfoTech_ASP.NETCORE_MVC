@@ -1,0 +1,86 @@
+﻿@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+<div id="content">
+    <!-- Begin Page Content -->
+    <div class="container-fluid">
+
+        <!-- Page Heading -->
+        <h1>
+            Merhaba 
+            <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/hi.gif" height="40" style="max-width: 100%; display: inline-block; display: inline-block;">
+        </h1>
+
+        <p>Kütüphane veritabanına hoş geldiniz. Aşağıdan detaylara ulaşabilirsiniz.</p>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Kitap Rezervasyon</h5>
+                        <p class="card-text">Kitap rezervasyonu yapmak için butona tıklayın.</p>
+                        <a href="@Url.Action("List", "Islem")" class="btn btn-primary">Rezervasyon</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Yazarlar</h5>
+                        <p class="card-text">Yazar işlemlerini yapabilmek ve listeyi görmek için butona tıklayın.</p>
+                        <a href="@Url.Action("List", "Yazar")" class="btn btn-primary">Göster</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Türler</h5>
+                        <p class="card-text">Tür işlemlerini yapabilmek ve listeyi görmek için butona tıklayın.</p>
+                        <a href="@Url.Action("List", "Tur")" class="btn btn-primary">Göster</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Öğrenciler</h5>
+                        <p class="card-text">Öğrenci işlemlerini yapabilmek ve listeyi görmek için butona tıklayın.</p>
+                        <a href="@Url.Action("List", "Ogrenci")" class="btn btn-primary">Göster</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Kitaplar</h5>
+                        <p class="card-text">Kitap işlemlerini yapabilmek ve listeyi görmek için butona tıklayın.</p>
+                        <a href="@Url.Action("List", "Kitap")" class="btn btn-primary">Göster</a>
+                    </div>
+                </div>
+            </div>
+
+           
+
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Gizlilik Politikası</h5>
+                        <p class="card-text">Gizlilik politikamıza göz atmak için aşağıdaki linke tıklayın.</p>
+                        <a href="@Url.Action("Privacy", "Home")" class="btn btn-primary">Gizlilik Politikası</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <!-- /.container-fluid -->
+
+</div>
+<!-- End of Main Content -->

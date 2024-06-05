@@ -1,0 +1,55 @@
+﻿@model Ogrenci
+
+@{
+    ViewData["Title"] = "Öğrenci Güncelleme";
+}
+
+<h1>Öğrenci Güncelleme</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Ogrno" />
+            <div class="form-group">
+                <label asp-for="Ograd" class="control-label"></label>
+                <input asp-for="Ograd" class="form-control" />
+                <span asp-validation-for="Ograd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ogrsoyad" class="control-label"></label>
+                <input asp-for="Ogrsoyad" class="form-control" />
+                <span asp-validation-for="Ogrsoyad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cinsiyet" class="control-label"></label>
+                <input asp-for="Cinsiyet" class="form-control" />
+                <span asp-validation-for="Cinsiyet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dtarih" class="control-label"></label>
+                <input asp-for="Dtarih" class="form-control" />
+                <span asp-validation-for="Dtarih" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sinif" class="control-label"></label>
+                <input asp-for="Sinif" class="form-control" />
+                <span asp-validation-for="Sinif" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Puan" class="control-label"></label>
+                <input asp-for="Puan" class="form-control" />
+                <span asp-validation-for="Puan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-success" onclick="return confirm('Güncellemek istediğinize emin misiniz?');">Güncelle</button>
+                <a asp-action="List" asp-controller="Ogrenci" class="btn btn-primary">Listeye Dön</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,47 @@
+﻿@model Kitap
+
+@{
+    ViewData["Title"] = "Kitap Detayı";
+}
+
+<h1>Kitap Detayı</h1>
+<hr />
+
+<div>
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Isbnno)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Isbnno)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Kitapadi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Kitapadi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Sayfasayisi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Sayfasayisi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TurnoNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TurnoNavigation.Turadi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.YazarnoNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.YazarnoNavigation.Yazarad)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="List" asp-controller="Kitap" class="btn btn-primary">Listeye Dön</a>
+</div>

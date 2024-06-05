@@ -1,0 +1,68 @@
+﻿<ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+
+    <!-- Sidebar - Brand -->
+    <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+        <div class="sidebar-brand-icon rotate-n-15">
+            <i class="bi bi-book-half"></i>
+        </div>
+        <div class="sidebar-brand-text mx-3">Kütüphane Veritabanı</div>
+    </a>
+
+    <!-- Divider -->
+    <hr class="sidebar-divider my-0">
+
+    <!-- Nav Item - Dashboard -->
+    <li class="nav-item">
+        <a class="nav-link" asp-action="Index" asp-controller="Home">
+            <i class="bi bi-house"></i>
+            <span>Ana Sayfa</span>
+        </a>
+
+        <a class="nav-link" asp-action="List" asp-controller="Islem">
+            <i class="bi bi-journal-plus"></i>
+            <span>Kitap Rezervasyon</span>
+        </a>
+    </li>
+
+    <!-- Divider -->
+    <hr class="sidebar-divider">
+
+    <!-- Nav Item - Pages Collapse Menu -->
+    <li class="nav-item active">
+        <a class="nav-link" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true"
+           aria-controls="collapsePages">
+            <i class="fas fa-fw fa-folder"></i>
+            <span>Sayfalar</span>
+        </a>
+        <div id="collapsePages" class="collapse show" aria-labelledby="headingPages"
+             data-parent="#accordionSidebar" style="margin-left:8px; width:207px;">
+            <div class="bg-white py-2 collapse-inner rounded">
+                <a asp-action="List" asp-controller="Yazar" class="collapse-item active" style="margin-left:2px;">
+                    <i class="bi bi-pencil-fill"></i>
+                    <span style="margin-left:3px;">Yazarlar</span>
+                </a>
+
+                <a asp-action="List" asp-controller="Tur" class="collapse-item active" style="margin-left:2px;">
+                    <i class="bi bi-list-ul"></i>
+                    <span style="margin-left:3px;">Türler</span>
+                </a>
+
+                <a asp-action="List" asp-controller="Ogrenci" class="collapse-item active" style="margin-left:2px;">
+                    <i class="bi bi-person-lines-fill"></i>
+                    <span style="margin-left:3px;">Öğrenciler</span>
+                </a>
+
+                <a asp-action="List" asp-controller="Kitap" class="collapse-item active" style="margin-left:2px;">
+                    <i class="bi bi-book"></i>
+                    <span style="margin-left:3px;">Kitaplar</span>
+                </a>
+            </div>
+        </div>
+    </li>
+
+    <!-- Sidebar Toggler (Sidebar) -->
+    <div class="text-center d-none d-md-inline">
+        <button class="rounded-circle border-0" id="sidebarToggle"></button>
+    </div>
+
+</ul>

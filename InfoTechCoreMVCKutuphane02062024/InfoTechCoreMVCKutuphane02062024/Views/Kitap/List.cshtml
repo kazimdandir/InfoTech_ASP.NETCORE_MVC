@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Kitap>
+
+@{
+    ViewBag.Title = "Kitap Listesi";
+}
+
+<h2>Kitap Listesi</h2>
+<hr />
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Yeni Kitap Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Kitapadi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Isbnno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Yazarno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Turno)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kitapadi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Isbnno)
+                </td>
+                <td>
+                    @(item.YazarnoNavigation.Yazarad + " " + item.YazarnoNavigation.Yazarsoyad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TurnoNavigation.Turadi)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Kitapno" class="btn btn-success">Güncelle</a>
+                    <a asp-action="Details" asp-route-id="@item.Kitapno" class="btn btn-warning">Detay</a>
+                    <a asp-action="Delete" asp-route-id="@item.Kitapno" class="btn btn-danger" onclick="return confirm('Silmek istediğinize emin misiniz?');">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

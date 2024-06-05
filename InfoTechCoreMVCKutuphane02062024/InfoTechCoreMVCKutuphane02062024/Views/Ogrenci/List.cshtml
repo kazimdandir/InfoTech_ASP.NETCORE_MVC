@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Ogrenci>
+
+@{
+    ViewData["Title"] = "Öğrenci Listesi";
+}
+
+<h1>Öğrenci Listesi</h1>
+<hr />
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Yeni Öğrenci Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Ograd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ogrsoyad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cinsiyet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dtarih)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sinif)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Puan)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ograd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ogrsoyad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cinsiyet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dtarih)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sinif)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Puan)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.Ogrno" class="btn btn-success">Güncelle</a>
+                    <a asp-action="Details" asp-route-id="@item.Ogrno" class="btn btn-warning">Detay</a>
+                    <a asp-action="Delete" asp-route-id="@item.Ogrno" class="btn btn-danger" onclick="return confirm('Silmek istediğinize emin misiniz?');">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

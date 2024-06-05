@@ -1,0 +1,57 @@
+﻿@model Islem
+
+@{
+    ViewData["Title"] = "Rezervasyon Güncelleme";
+}
+
+<h1>Rezervasyon Güncelleme</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Islemno" />
+            <div class="form-group">
+                <label asp-for="Ogrno" class="control-label"></label>
+                <select asp-for="Ogrno" class="form-control">
+                    @foreach (var ogr in ViewBag.Ogrenciler)
+                    {
+                        <option value="@ogr.Ogrno">@($"{ogr.Ograd} {ogr.Ogrsoyad}")</option>
+                    }
+                </select>
+                <span asp-validation-for="Ogrno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Kitapno" class="control-label"></label>
+                <select asp-for="Kitapno" class="form-control">
+                    @foreach (var kitap in ViewBag.Kitaplar)
+                    {
+                        <option value="@kitap.Kitapno">@($"{kitap.Kitapadi}")</option>
+                    }
+                </select>
+                <span asp-validation-for="Kitapno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Atarih" class="control-label"></label>
+                <input asp-for="Atarih" class="form-control" />
+                <span asp-validation-for="Atarih" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vtarih" class="control-label"></label>
+                <input asp-for="Vtarih" class="form-control" />
+                <span asp-validation-for="Vtarih" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-success" onclick="return confirm('Güncellemek istediğinize emin misiniz?');">Güncelle</button>
+                <a asp-action="List" asp-controller="Islem" class="btn btn-primary">Listeye Dön</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Islem>
+
+@{
+    ViewData["Title"] = "Teslim Listesi";
+}
+
+<h1>Teslim Listesi</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Yeni Rezervasyon</a>
+    <a asp-action="List" class="btn btn-dark">Mevcut Rezervasyonlar</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OgrnoNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KitapnoNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Atarih)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vtarih)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @(item.OgrnoNavigation.Ograd + " " + item.OgrnoNavigation.Ogrsoyad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KitapnoNavigation.Kitapadi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Atarih)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Vtarih)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Islemno" class="btn btn-success">Güncelle</a>
+                    <a asp-action="Details" asp-route-id="@item.Islemno" class="btn btn-warning">Detay</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,41 @@
+﻿@model Islem
+
+@{
+    ViewData["Title"] = "Rezervasyon Detayı";
+}
+
+<h1>Rezervasyon Detayı</h1>
+<hr />
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.OgrnoNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.OgrnoNavigation.Ograd)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KitapnoNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KitapnoNavigation.Kitapadi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Atarih)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Atarih)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Vtarih)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Vtarih)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="List" asp-controller="Islem" class="btn btn-primary">Listeye Dön</a>
+</div>

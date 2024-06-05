@@ -1,0 +1,28 @@
+﻿@model Yazar
+
+@{
+    ViewData["Title"] = "Yazar Detay";
+}
+
+<h1>Yazar Bilgileri</h1>
+<hr />
+
+<div>
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Yazarad)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Yazarad)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Yazarsoyad)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Yazarsoyad)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="List" asp-controller="Yazar" class="btn btn-primary">Listeye Dön</a>
+</div>
