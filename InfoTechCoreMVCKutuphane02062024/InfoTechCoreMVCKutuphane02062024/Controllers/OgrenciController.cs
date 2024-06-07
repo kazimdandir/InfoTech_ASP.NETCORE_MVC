@@ -10,7 +10,11 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
 
         public IActionResult List()
         {
-            var list = db.Ogrencis.Where(x => x.Silindimi == false).ToList();
+            var list = db.Ogrencis
+                .Where(x => x.Silindimi == false)
+                .OrderBy(x => x.Ogrno)
+                .ToList();
+
             return View(list);
         }
 
@@ -38,14 +42,16 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
-            Ogrenci o = db.Ogrencis.Where(x => x.Ogrno == id).FirstOrDefault();
+            Ogrenci o = db.Ogrencis
+                .Where(x => x.Ogrno == id)
+                .FirstOrDefault();
 
             if (o == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             return View(o);
@@ -70,14 +76,16 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
-            Ogrenci o = db.Ogrencis.Where(x => x.Ogrno == id).FirstOrDefault();
+            Ogrenci o = db.Ogrencis
+                .Where(x => x.Ogrno == id)
+                .FirstOrDefault();
 
             if (o == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             return View(o);
@@ -87,10 +95,12 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
-            Ogrenci o = db.Ogrencis.Where(x => x.Ogrno == id).FirstOrDefault();
+            Ogrenci o = db.Ogrencis
+                .Where(x => x.Ogrno == id)
+                .FirstOrDefault();
 
             o.Silindimi = true;
 
@@ -99,7 +109,7 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
 
             if (o == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             return RedirectToAction("List");

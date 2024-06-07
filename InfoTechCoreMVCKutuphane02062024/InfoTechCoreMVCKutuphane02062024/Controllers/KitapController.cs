@@ -15,6 +15,7 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
                 .Include(k => k.YazarnoNavigation)
                 .Include(k => k.TurnoNavigation)
                 .Where(k => k.TurnoNavigation.Silindimi == false && k.YazarnoNavigation.Silindimi == false && k.Silindimi == false)
+                .OrderBy(k => k.Kitapno)
                 .ToList();
 
             return View(list);
@@ -22,8 +23,13 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
 
         public IActionResult Create()
         {
-            ViewBag.Yazarlar = db.Yazars.Where(y => y.Silindimi == false).ToList();
-            ViewBag.Turler = db.Turs.Where(t => t.Silindimi == false).ToList();
+            ViewBag.Yazarlar = db.Yazars
+                .Where(y => y.Silindimi == false)
+                .ToList();
+
+            ViewBag.Turler = db.Turs
+                .Where(t => t.Silindimi == false)
+                .ToList();
 
             return View();
         }
@@ -39,8 +45,13 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
                 return RedirectToAction("List");
             }
 
-            ViewBag.Yazarlar = db.Yazars.Where(y => y.Silindimi == false).ToList();
-            ViewBag.Turler = db.Turs.Where(t => t.Silindimi == false).ToList();
+            ViewBag.Yazarlar = db.Yazars
+                .Where(y => y.Silindimi == false)
+                .ToList();
+
+            ViewBag.Turler = db.Turs
+                .Where(t => t.Silindimi == false)
+                .ToList();
 
             return View(k);
         }
@@ -49,17 +60,23 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             var kitap = db.Kitaps.Find(id);
+
             if (kitap == null)
             {
                 return NotFound();
             }
 
-            ViewBag.Yazarlar = db.Yazars.Where(y => y.Silindimi == false).ToList();
-            ViewBag.Turler = db.Turs.Where(t => t.Silindimi == false).ToList();
+            ViewBag.Yazarlar = db.Yazars
+                .Where(y => y.Silindimi == false)
+                .ToList();
+
+            ViewBag.Turler = db.Turs
+                .Where(t => t.Silindimi == false)
+                .ToList();
 
             return View(kitap);
         }
@@ -74,8 +91,14 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
                 return RedirectToAction("List");
             }
 
-            ViewBag.Yazarlar = db.Yazars.Where(y => y.Silindimi == false).ToList();
-            ViewBag.Turler = db.Turs.Where(t => t.Silindimi == false).ToList();
+            ViewBag.Yazarlar = db.Yazars
+                .Where(y => y.Silindimi == false)
+                .ToList();
+
+            ViewBag.Turler = db.Turs
+                .Where(t => t.Silindimi == false)
+                .ToList();
+
             return View(k);
         }
 
@@ -83,7 +106,7 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             var kitap = db.Kitaps
@@ -103,10 +126,13 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
-            Kitap k = db.Kitaps.Where(x => x.Kitapno == id).FirstOrDefault();
+            Kitap k = db.Kitaps
+                .Where(x => x.Kitapno == id)
+                .FirstOrDefault();
+
             k.Silindimi = true;
 
             db.Kitaps.Update(k);
@@ -114,7 +140,7 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
 
             if (k == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             return RedirectToAction("List");

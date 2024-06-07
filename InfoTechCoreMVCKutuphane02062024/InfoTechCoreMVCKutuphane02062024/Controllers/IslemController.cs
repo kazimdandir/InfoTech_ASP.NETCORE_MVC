@@ -14,6 +14,7 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
                 .Include(x => x.KitapnoNavigation)
                 .Include(x => x.OgrnoNavigation)
                 .Where(x => x.KitapnoNavigation.Silindimi == false && x.OgrnoNavigation.Silindimi == false && x.Teslim == false && x.Vtarih == null)
+                .OrderBy(x => x.Atarih)
                 .ToList();
 
             return View(list);
@@ -25,6 +26,7 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
                 .Include(x => x.KitapnoNavigation)
                 .Include(x => x.OgrnoNavigation)
                 .Where(x => x.KitapnoNavigation.Silindimi == false && x.OgrnoNavigation.Silindimi == false && x.Teslim == true || x.Vtarih != null)
+                .OrderBy(x => x.Atarih)
                 .ToList();
             
             return View(list);
@@ -32,8 +34,13 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
 
         public IActionResult Create()
         {
-            ViewBag.Kitaplar = db.Kitaps.Where(x => x.Silindimi == false).ToList();
-            ViewBag.Ogrenciler = db.Ogrencis.Where(x => x.Silindimi == false).ToList();
+            ViewBag.Kitaplar = db.Kitaps
+                .Where(x => x.Silindimi == false)
+                .ToList();
+
+            ViewBag.Ogrenciler = db.Ogrencis
+                .Where(x => x.Silindimi == false)
+                .ToList();
 
             return View();
         }
@@ -49,8 +56,13 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
                 return RedirectToAction("List");
            }
 
-            ViewBag.Kitaplar = db.Kitaps.Where(x => x.Silindimi == false).ToList();
-            ViewBag.Ogrenciler = db.Ogrencis.Where(x => x.Silindimi == false).ToList();
+            ViewBag.Kitaplar = db.Kitaps
+                .Where(x => x.Silindimi == false)
+                .ToList();
+
+            ViewBag.Ogrenciler = db.Ogrencis
+                .Where(x => x.Silindimi == false)
+                .ToList();
 
             return View(i);
         }
@@ -59,7 +71,7 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             var islem = db.Islems
@@ -79,10 +91,12 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
-            Islem i = db.Islems.Where(x => x.Kitapno == id).FirstOrDefault();
+            Islem i = db.Islems
+                .Where(x => x.Kitapno == id)
+                .FirstOrDefault();
 
             i.Teslim = true;
             i.Vtarih = DateTime.Now;
@@ -92,7 +106,7 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
 
             if (i == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             return RedirectToAction("List");
@@ -102,17 +116,24 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             var islem = db.Islems.Find(id);
+
             if (islem == null)
             {
                 return NotFound();
             }
 
-            ViewBag.Kitaplar = db.Kitaps.Where(x => x.Silindimi == false).ToList();
-            ViewBag.Ogrenciler = db.Ogrencis.Where(x => x.Silindimi == false).ToList();
+            ViewBag.Kitaplar = db.Kitaps
+                .Where(x => x.Silindimi == false)
+                .ToList();
+
+            ViewBag.Ogrenciler = db.Ogrencis
+                .Where(x => x.Silindimi == false)
+                .ToList();
+
             return View(islem);
         }
 
@@ -121,14 +142,24 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (ModelState.IsValid)
             {
+                if(i.Vtarih != null)
+                {
+                    i.Teslim = true;
+                }
+                
                 i.Teslim = false;
                 db.Entry(i).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("List");
             }
 
-            ViewBag.Kitaplar = db.Kitaps.Where(x => x.Silindimi == false).ToList();
-            ViewBag.Ogrenciler = db.Ogrencis.Where(x => x.Silindimi == false).ToList();
+            ViewBag.Kitaplar = db.Kitaps
+                .Where(x => x.Silindimi == false)
+                .ToList();
+
+            ViewBag.Ogrenciler = db.Ogrencis
+                .Where(x => x.Silindimi == false)
+                .ToList();
 
             return View(i);
         }

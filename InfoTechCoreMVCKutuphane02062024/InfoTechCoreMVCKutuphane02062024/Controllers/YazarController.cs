@@ -11,7 +11,10 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
 
         public IActionResult List()
         {
-            var list = db.Yazars.Where(x => x.Silindimi == false).ToList();
+            var list = db.Yazars
+                .Where(x => x.Silindimi == false)
+                .OrderBy(x => x.Yazarno)
+                .ToList();
             return View(list);
         }
 
@@ -39,14 +42,16 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
-            Yazar y = db.Yazars.Where(x => x.Yazarno == id).FirstOrDefault();
+            Yazar y = db.Yazars
+                .Where(x => x.Yazarno == id)
+                .FirstOrDefault();
 
             if (y == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             return View(y);
@@ -71,14 +76,16 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
-            Yazar y = db.Yazars.Where(x => x.Yazarno == id).FirstOrDefault();
+            Yazar y = db.Yazars
+                .Where(x => x.Yazarno == id)
+                .FirstOrDefault();
 
             if (y == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             return View(y);
@@ -88,10 +95,13 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
-            Yazar y = db.Yazars.Where(x => x.Yazarno == id).FirstOrDefault();
+            Yazar y = db.Yazars
+                .Where(x => x.Yazarno == id)
+                .FirstOrDefault();
+
             y.Silindimi = true;
 
             db.Yazars.Update(y);
@@ -99,7 +109,7 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
 
             if (y == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             return RedirectToAction("List");

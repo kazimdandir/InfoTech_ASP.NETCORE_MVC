@@ -10,7 +10,10 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
 
         public IActionResult List()
         {
-            var list = db.Turs.Where(x => x.Silindimi == false).ToList();
+            var list = db.Turs
+                .Where(x => x.Silindimi == false)
+                .OrderBy(x => x.Turno)
+                .ToList();
             return View(list);
         }
 
@@ -38,10 +41,12 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
         {
             if (id == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
-            Tur t = db.Turs.Where(x => x.Turno == id).FirstOrDefault();
+            Tur t = db.Turs
+                .Where(x => x.Turno == id)
+                .FirstOrDefault();
 
             t.Silindimi = true;
 
@@ -50,7 +55,7 @@ namespace InfoTechCoreMVCKutuphane02062024.Controllers
 
             if (t == null)
             {
-                return BadRequest();
+                return BadRequest("404");
             }
 
             return RedirectToAction("List");
