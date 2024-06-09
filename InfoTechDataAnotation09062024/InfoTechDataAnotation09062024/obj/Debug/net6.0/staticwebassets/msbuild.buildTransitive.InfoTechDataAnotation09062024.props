@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\InfoTechDataAnotation09062024.props" />
+</Project>

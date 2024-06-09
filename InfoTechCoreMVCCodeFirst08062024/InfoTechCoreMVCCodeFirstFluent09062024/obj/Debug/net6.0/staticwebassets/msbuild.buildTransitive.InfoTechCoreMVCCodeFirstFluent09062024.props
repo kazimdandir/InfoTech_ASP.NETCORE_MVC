@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\InfoTechCoreMVCCodeFirstFluent09062024.props" />
+</Project>

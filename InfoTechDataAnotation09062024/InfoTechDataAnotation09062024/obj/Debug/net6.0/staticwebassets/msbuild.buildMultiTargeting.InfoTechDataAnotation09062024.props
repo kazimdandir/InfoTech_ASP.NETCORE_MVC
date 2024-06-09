@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InfoTechDataAnotation09062024.props" />
+</Project>
