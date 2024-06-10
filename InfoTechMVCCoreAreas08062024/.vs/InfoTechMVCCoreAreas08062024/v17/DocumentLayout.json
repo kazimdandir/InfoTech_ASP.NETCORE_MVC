@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreAreas08062024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3021154-5537-4674-A211-08B40CB11805}|InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccoreareas08062024\\infotechmvccoreareas08062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3021154-5537-4674-A211-08B40CB11805}|InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024.csproj|solutionrelative:infotechmvccoreareas08062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3021154-5537-4674-A211-08B40CB11805}|InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccoreareas08062024\\infotechmvccoreareas08062024\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3021154-5537-4674-A211-08B40CB11805}|InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024.csproj|solutionrelative:infotechmvccoreareas08062024\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3021154-5537-4674-A211-08B40CB11805}|InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccoreareas08062024\\infotechmvccoreareas08062024\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3021154-5537-4674-A211-08B40CB11805}|InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024.csproj|solutionrelative:infotechmvccoreareas08062024\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3021154-5537-4674-A211-08B40CB11805}|InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccoreareas08062024\\infotechmvccoreareas08062024\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3021154-5537-4674-A211-08B40CB11805}|InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024.csproj|solutionrelative:infotechmvccoreareas08062024\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3021154-5537-4674-A211-08B40CB11805}|InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccoreareas08062024\\infotechmvccoreareas08062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3021154-5537-4674-A211-08B40CB11805}|InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024.csproj|solutionrelative:infotechmvccoreareas08062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,14 +32,13 @@
               "RelativeDocumentMoniker": "InfoTechMVCCoreAreas08062024\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "InfoTechMVCCoreAreas08062024\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T07:49:54.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T07:49:54.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "InfoTechMVCCoreAreas08062024\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -52,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreAreas08062024\\InfoTechMVCCoreAreas08062024\\Program.cs",
               "RelativeDocumentMoniker": "InfoTechMVCCoreAreas08062024\\Program.cs",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "InfoTechMVCCoreAreas08062024\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T07:45:06.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T07:45:06.416Z"
             }
           ]
         }

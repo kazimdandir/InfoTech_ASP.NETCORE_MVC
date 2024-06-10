@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|solutionrelative:infotechcoremvccodefirstfluent09062024\\models\\context\\unicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvccodefirst08062024\\infotechcoremvccodefirstfluent09062024\\models\\entities\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|solutionrelative:infotechcoremvccodefirstfluent09062024\\models\\entities\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvccodefirst08062024\\infotechcoremvccodefirstfluent09062024\\models\\entities\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|solutionrelative:infotechcoremvccodefirstfluent09062024\\models\\entities\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvccodefirst08062024\\infotechcoremvccodefirstfluent09062024\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|solutionrelative:infotechcoremvccodefirstfluent09062024\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvccodefirst08062024\\infotechcoremvccodefirstfluent09062024\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|solutionrelative:infotechcoremvccodefirstfluent09062024\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvccodefirst08062024\\infotechcoremvccodefirstfluent09062024\\models\\entities\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|solutionrelative:infotechcoremvccodefirstfluent09062024\\models\\entities\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvccodefirst08062024\\infotechcoremvccodefirstfluent09062024\\models\\entities\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF6604A-86C7-4946-9E0B-C6AEF7EE4E28}|InfoTechCoreMVCCodeFirstFluent09062024\\InfoTechCoreMVCCodeFirstFluent09062024.csproj|solutionrelative:infotechcoremvccodefirstfluent09062024\\models\\entities\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,14 +40,14 @@
               "RelativeDocumentMoniker": "InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Context\\UniContext.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCCodeFirst08062024\\InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Context\\UniContext.cs",
               "RelativeToolTip": "InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Context\\UniContext.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T07:37:24.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Ogrenci.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCCodeFirst08062024\\InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Ogrenci.cs",
               "RelativeDocumentMoniker": "InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Ogrenci.cs",
@@ -55,12 +55,11 @@
               "RelativeToolTip": "InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Ogrenci.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T07:33:45.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T07:33:45.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Egitmen.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCCodeFirst08062024\\InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Egitmen.cs",
               "RelativeDocumentMoniker": "InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Egitmen.cs",
@@ -68,12 +67,11 @@
               "RelativeToolTip": "InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Egitmen.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T07:32:53.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T07:32:53.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCCodeFirst08062024\\InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Product.cs",
@@ -81,21 +79,19 @@
               "RelativeToolTip": "InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T07:30:11.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T07:30:11.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCCodeFirst08062024\\InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Category.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCCodeFirst08062024\\InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Category.cs",
               "RelativeToolTip": "InfoTechCoreMVCCodeFirstFluent09062024\\Models\\Entities\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T07:28:05.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T07:28:05.668Z"
             }
           ]
         }

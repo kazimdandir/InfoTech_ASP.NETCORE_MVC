@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckutuphane02062024\\infotechcoremvckutuphane02062024\\models\\yazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|solutionrelative:infotechcoremvckutuphane02062024\\models\\yazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckutuphane02062024\\infotechcoremvckutuphane02062024\\models\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|solutionrelative:infotechcoremvckutuphane02062024\\models\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckutuphane02062024\\infotechcoremvckutuphane02062024\\models\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|solutionrelative:infotechcoremvckutuphane02062024\\models\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckutuphane02062024\\infotechcoremvckutuphane02062024\\controllers\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|solutionrelative:infotechcoremvckutuphane02062024\\controllers\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckutuphane02062024\\infotechcoremvckutuphane02062024\\models\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|solutionrelative:infotechcoremvckutuphane02062024\\models\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckutuphane02062024\\infotechcoremvckutuphane02062024\\models\\tur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|solutionrelative:infotechcoremvckutuphane02062024\\models\\tur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckutuphane02062024\\infotechcoremvckutuphane02062024\\controllers\\islemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|solutionrelative:infotechcoremvckutuphane02062024\\controllers\\islemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|solutionrelative:infotechcoremvckutuphane02062024\\controllers\\turcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckutuphane02062024\\infotechcoremvckutuphane02062024\\controllers\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|solutionrelative:infotechcoremvckutuphane02062024\\controllers\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechcoremvckutuphane02062024\\infotechcoremvckutuphane02062024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47C4044C-C9AF-48AF-94E5-44B0EB1DDAA7}|InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024.csproj|solutionrelative:infotechcoremvckutuphane02062024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -42,11 +62,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Models\\Kitap.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Models\\Kitap.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Models\\Kitap.cs",
+              "RelativeToolTip": "InfoTechCoreMVCKutuphane02062024\\Models\\Kitap.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:44:48.45Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Yazar.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Models\\Yazar.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Models\\Yazar.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Models\\Yazar.cs",
+              "RelativeToolTip": "InfoTechCoreMVCKutuphane02062024\\Models\\Yazar.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:43:47.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Islem.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Models\\Islem.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Models\\Islem.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Models\\Islem.cs",
+              "RelativeToolTip": "InfoTechCoreMVCKutuphane02062024\\Models\\Islem.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:03:53.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Models\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Models\\Ogrenci.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Models\\Ogrenci.cs",
+              "RelativeToolTip": "InfoTechCoreMVCKutuphane02062024\\Models\\Ogrenci.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:48:06.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tur.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Models\\Tur.cs",
+              "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Models\\Tur.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Models\\Tur.cs",
+              "RelativeToolTip": "InfoTechCoreMVCKutuphane02062024\\Models\\Tur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:46:13.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "List.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Views\\Islem\\List.cshtml",
               "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Views\\Islem\\List.cshtml",
@@ -58,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Views\\Islem\\Create.cshtml",
               "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Views\\Islem\\Create.cshtml",
@@ -66,12 +149,11 @@
               "RelativeToolTip": "InfoTechCoreMVCKutuphane02062024\\Views\\Islem\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T05:51:24.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T05:51:24.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "OgrenciController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Controllers\\OgrenciController.cs",
               "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Controllers\\OgrenciController.cs",
@@ -83,32 +165,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "KitapController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Controllers\\KitapController.cs",
               "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Controllers\\KitapController.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Controllers\\KitapController.cs",
               "RelativeToolTip": "InfoTechCoreMVCKutuphane02062024\\Controllers\\KitapController.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAIwIUAAAAQAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAIwIUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T13:38:15.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "IslemController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Controllers\\IslemController.cs",
               "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Controllers\\IslemController.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Controllers\\IslemController.cs",
               "RelativeToolTip": "InfoTechCoreMVCKutuphane02062024\\Controllers\\IslemController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAwwD4AAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:36:16.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T13:36:16.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "TurController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Controllers\\TurController.cs",
               "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Controllers\\TurController.cs",
@@ -120,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "YazarController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Controllers\\YazarController.cs",
               "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Controllers\\YazarController.cs",
@@ -132,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechCoreMVCKutuphane02062024\\InfoTechCoreMVCKutuphane02062024\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "InfoTechCoreMVCKutuphane02062024\\Controllers\\HomeController.cs",

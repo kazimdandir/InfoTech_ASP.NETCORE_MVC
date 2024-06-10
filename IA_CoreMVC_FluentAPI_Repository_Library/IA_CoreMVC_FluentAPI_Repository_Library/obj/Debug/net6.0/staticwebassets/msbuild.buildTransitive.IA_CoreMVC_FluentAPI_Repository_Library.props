@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IA_CoreMVC_FluentAPI_Repository_Library.props" />
+</Project>
