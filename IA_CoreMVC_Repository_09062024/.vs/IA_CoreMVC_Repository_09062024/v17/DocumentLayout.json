@@ -7,36 +7,36 @@
       "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\controllers\\kisicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\views\\kisi\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\views\\kisi\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\models\\repositorykisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\models\\repositorykisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\models\\telefondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\models\\telefondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\views\\kisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\views\\kisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\views\\kisi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\views\\kisi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\models\\dbsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\models\\dbsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\views\\kisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\views\\kisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\models\\kisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\models\\kisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\models\\dbsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\models\\dbsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_repository_09062024\\ia_coremvc_repository_09062024\\models\\telefondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB805782-04C5-4A23-9193-E320E3469B69}|IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024.csproj|solutionrelative:ia_coremvc_repository_09062024\\models\\telefondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,76 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Program.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Program.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Program.cs",
-              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T09:50:22.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Create.cshtml",
-              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Create.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Create.cshtml",
-              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Create.cshtml",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Details.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Details.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Details.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T09:48:35.545Z",
+              "WhenOpened": "2024-06-10T07:42:50.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Index.cshtml",
-              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Index.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Index.cshtml",
-              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T09:46:49.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KisiController.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Controllers\\KisiController.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Controllers\\KisiController.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Controllers\\KisiController.cs",
-              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Controllers\\KisiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T09:40:03.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DBSingleton.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\DBSingleton.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Models\\DBSingleton.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\DBSingleton.cs",
-              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Models\\DBSingleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T09:27:35.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "TelefonDbContext.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\TelefonDbContext.cs",
               "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Models\\TelefonDbContext.cs",
@@ -128,13 +76,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Models\\IRepository.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\IRepository.cs",
+              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Models\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:10:05.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBSingleton.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\DBSingleton.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Models\\DBSingleton.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\DBSingleton.cs",
+              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Models\\DBSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:27:35.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KisiController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Controllers\\KisiController.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Controllers\\KisiController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Controllers\\KisiController.cs",
+              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Controllers\\KisiController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:40:03.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RepositoryKisiler.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\RepositoryKisiler.cs",
               "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Models\\RepositoryKisiler.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\RepositoryKisiler.cs",
               "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Models\\RepositoryKisiler.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAzwBgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T09:19:39.405Z",
               "EditorCaption": ""
@@ -142,6 +129,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Program.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Program.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Program.cs",
+              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:50:22.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Index.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Views\\Kisi\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T09:46:49.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Kisiler.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\Kisiler.cs",
               "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Models\\Kisiler.cs",
@@ -149,21 +162,7 @@
               "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Models\\Kisiler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T09:16:52.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\IRepository.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_Repository_09062024\\Models\\IRepository.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_Repository_09062024\\IA_CoreMVC_Repository_09062024\\Models\\IRepository.cs",
-              "RelativeToolTip": "IA_CoreMVC_Repository_09062024\\Models\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T09:10:05.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T09:16:52.584Z"
             }
           ]
         }

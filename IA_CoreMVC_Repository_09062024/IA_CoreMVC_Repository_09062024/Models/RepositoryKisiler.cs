@@ -1,4 +1,6 @@
-﻿namespace IA_CoreMVC_Repository_09062024.Models
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace IA_CoreMVC_Repository_09062024.Models
 {
     public class RepositoryKisiler : IRepository<Kisiler>
     {
