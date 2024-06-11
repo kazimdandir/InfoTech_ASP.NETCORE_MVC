@@ -34,6 +34,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/BookType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1R5cGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/BookType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1R5cGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/BookType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1R5cGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/BookType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1R5cGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +64,38 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Student/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Writer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Writer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Writer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Writer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/_ViewImports.cshtml]

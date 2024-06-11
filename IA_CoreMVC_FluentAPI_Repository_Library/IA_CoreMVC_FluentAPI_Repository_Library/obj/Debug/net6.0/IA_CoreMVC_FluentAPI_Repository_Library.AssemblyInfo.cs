@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IA_CoreMVC_FluentAPI_Repository_Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86630d1da3a07527d3b09e188185087db14fa9ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d9e26b05da07cf7cdc095b62b516c7fc15c4066")]
 [assembly: System.Reflection.AssemblyProductAttribute("IA_CoreMVC_FluentAPI_Repository_Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IA_CoreMVC_FluentAPI_Repository_Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

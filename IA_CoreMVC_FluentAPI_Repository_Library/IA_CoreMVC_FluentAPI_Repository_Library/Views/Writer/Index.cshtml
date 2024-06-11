@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Writer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Writer List</h1>
+<hr />
+
+<p>
+    <a asp-action="Create" asp-controller="Writer" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.WriterName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WriterSurname)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WriterName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WriterSurname)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.WriterID" class="btn btn-success">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.WriterID" class="btn btn-warning">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.WriterID" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -16,6 +16,11 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Models.Context
 
         }
 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer("Server=KAZIM\\SQLExpress;Database=IA_CoreMVC_FluentAPI_Repository_Library;Trusted_Connection=True;");
+        }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             #region Writer
@@ -26,28 +31,24 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Models.Context
                                          .HasMaxLength(50)
                                          .HasColumnName("Name");
             modelBuilder.Entity<Writer>().Property(w => w.WriterSurname)
-                                          .IsRequired()
-                                          .HasMaxLength(50)
-                                          .HasColumnName("Surname");
+                                         .IsRequired()
+                                         .HasMaxLength(50)
+                                         .HasColumnName("Surname");
 
             modelBuilder.Entity<Writer>()
                         .HasMany(w => w.Books)
-                        .WithOne(w => w.Writer)
-                        .HasForeignKey(t => t.BookID);
+                        .WithOne(b => b.Writer)
+                        .HasForeignKey(b => b.WriterID)
+                        .IsRequired(false);
 
             #endregion
 
             #region BookType
 
-            modelBuilder.Entity<Book>().HasKey(bt => bt.BookID);
-            modelBuilder.Entity<Book>().Property(bt => bt.IsbnNo)
-                                       .IsRequired()
-                                       .HasMaxLength(13);
-            modelBuilder.Entity<Book>().Property(bt => bt.BookName)
-                                       .IsRequired()
-                                       .HasMaxLength(50);
-            modelBuilder.Entity<Book>().Property(bt => bt.PageCount)
-                                       .HasColumnName("Page Count");
+            modelBuilder.Entity<BookType>().HasKey(bt => bt.TypeID);
+            modelBuilder.Entity<BookType>().Property(bt => bt.TypeName)
+                                           .IsRequired()
+                                           .HasMaxLength(50);
 
             #endregion
 
@@ -72,8 +73,14 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Models.Context
                                           .HasColumnName("Class");
             modelBuilder.Entity<Student>().Property(s => s.Point)
                                           .IsRequired(false)
-                                          .HasColumnType("smallint");
+                                          .HasColumnType("smallint");            
             modelBuilder.Entity<Student>().HasCheckConstraint("CK_Student_Point", "[Point] >= 0 AND [Point] <= 100");
+
+            modelBuilder.Entity<BookType>()
+                .HasMany(bt => bt.Books)
+                .WithOne(b => b.Type)
+                .HasForeignKey(b => b.TypeID)
+                .IsRequired(false);
 
             #endregion
 
@@ -96,7 +103,8 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Models.Context
             modelBuilder.Entity<Book>()
                         .HasOne(b => b.Type)
                         .WithMany(bt => bt.Books)
-                        .HasForeignKey(b => b.TypeID);
+                        .HasForeignKey(b => b.TypeID)
+                        .IsRequired(false);
             #endregion
 
             #region Operation
@@ -116,13 +124,23 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Models.Context
             modelBuilder.Entity<Operation>()
                         .HasOne(o => o.Student)
                         .WithMany(s => s.Operations)
-                        .HasForeignKey(o => o.StudentID);
+                        .HasForeignKey(o => o.StudentID)
+                        .IsRequired(false);
 
             modelBuilder.Entity<Operation>()
                         .HasOne(o => o.Book)
                         .WithMany(s => s.Operations)
-                        .HasForeignKey(o => o.BookID);
+                        .HasForeignKey(o => o.BookID)
+                        .IsRequired(false);
             #endregion
+
+            base.OnModelCreating(modelBuilder);
         }
+
+        public DbSet<IA_CoreMVC_FluentAPI_Repository_Library.Models.Entities.Writer>? Writer { get; set; }
+
+        public DbSet<IA_CoreMVC_FluentAPI_Repository_Library.Models.Entities.BookType>? BookType { get; set; }
+
+        public DbSet<IA_CoreMVC_FluentAPI_Repository_Library.Models.Entities.Student>? Student { get; set; }
     }
 }

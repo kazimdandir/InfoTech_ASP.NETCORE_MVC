@@ -1,0 +1,29 @@
+﻿@model Writer
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Writer Info</h1>
+<hr />
+
+<div>
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.WriterName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.WriterName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.WriterSurname)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.WriterSurname)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.WriterID" class="btn btn-success">Edit</a> 
+    <a asp-action="Index" asp-controller="Writer" class="btn btn-primary">Back to List</a>
+</div>
