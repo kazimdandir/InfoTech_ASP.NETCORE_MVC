@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Book List</h1>
+<hr />
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IsbnNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PageCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Writer)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsbnNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BookName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PageCount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Type.TypeName)
+                </td>
+                <td>
+                    @(item.Writer.WriterName + " " + item.Writer.WriterSurname)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.BookID" class="btn btn-success">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.BookID" class="btn btn-warning">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.BookID" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete?');">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

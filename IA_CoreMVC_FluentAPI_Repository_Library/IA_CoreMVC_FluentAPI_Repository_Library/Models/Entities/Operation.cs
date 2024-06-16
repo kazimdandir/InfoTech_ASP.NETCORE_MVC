@@ -13,9 +13,12 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Models.Entities
         public int? BookID { get; set; }
 
         [Display(Name = "Purchase Date")]
+        [DataType(DataType.Date)]
+        [Required(ErrorMessage = "Purchase date cannot be left blank!")]
         public DateTime? PurchaseDate{ get; set; }
 
         [Display(Name = "Delivery Date")]
+        [DataType(DataType.Date)]
         public DateTime? DeliveryDate{ get; set; }
 
         public bool? IsDelivered { get; set; }

@@ -2,7 +2,89 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+<div id="content">
+    <!-- Begin Page Content -->
+    <div class="container-fluid">
+
+        <!-- Page Heading -->
+        <h1>
+            Hello
+            <img src="https://raw.githubusercontent.com/kazimdandir/.github/master/gif/hi.gif" height="40" style="max-width: 100%; display: inline-block; display: inline-block;">
+        </h1>
+
+        <p>Welcome to the library application. You can find the details below.</p>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Book Reservation</h5>
+                        <p class="card-text">Click the button to make a book reservation.</p>
+                        <a href="@Url.Action("Index", "Operation")" class="btn btn-primary">Reservation</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Writers</h5>
+                        <p class="card-text">Click the button to perform author operations and see the list.</p>
+                        <a href="@Url.Action("Index", "Writer")" class="btn btn-primary">Show</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Book Types</h5>
+                        <p class="card-text">Click the button to perform type operations and see the list.</p>
+                        <a href="@Url.Action("Index", "BookType")" class="btn btn-primary">Show</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Students</h5>
+                        <p class="card-text">Click the button to perform student transactions and see the list.</p>
+                        <a href="@Url.Action("Index", "Student")" class="btn btn-primary">Show</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Books</h5>
+                        <p class="card-text">Click the button to perform book transactions and see the list.</p>
+                        <a href="@Url.Action("Index", "Book")" class="btn btn-primary">Show</a>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Privacy Policy</h5>
+                        <p class="card-text">Click on the link below to view our privacy policy.</p>
+                        <a href="@Url.Action("Privacy", "Home")" class="btn btn-primary">Show</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <!-- /.container-fluid -->
+
 </div>
+<!-- End of Main Content -->

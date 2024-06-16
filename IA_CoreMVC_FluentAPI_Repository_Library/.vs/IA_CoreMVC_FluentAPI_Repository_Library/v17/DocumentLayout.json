@@ -3,52 +3,48 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\models\\context\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\models\\context\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\models\\concrete\\repositorystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\models\\concrete\\repositorystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\writer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\writer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\operation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\operation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\booktype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\booktype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\booktype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\booktype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\controllers\\booktypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\controllers\\booktypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\models\\concrete\\repositorybooktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\models\\concrete\\repositorybooktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\models\\concrete\\repositorywriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\models\\concrete\\repositorywriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_fluentapi_repository_library\\ia_coremvc_fluentapi_repository_library\\views\\operation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C13587-59B5-4E2D-9EDB-53278264E62E}|IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library.csproj|solutionrelative:ia_coremvc_fluentapi_repository_library\\views\\operation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,183 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Details.cshtml",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Details.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Details.cshtml",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T13:31:19.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Create.cshtml",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Create.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Create.cshtml",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T13:21:37.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Entities\\Student.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Entities\\Student.cs",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:13:43.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LibraryContext.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Context\\LibraryContext.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Context\\LibraryContext.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Context\\LibraryContext.cs",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Context\\LibraryContext.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAIwEwAAAB1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:13:36.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA5wEIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:12:40.807Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T20:00:01.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Writer\\Create.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Writer\\Create.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Writer\\Create.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Writer\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T19:59:13.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Edit.cshtml",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Edit.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Edit.cshtml",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T13:32:20.76Z",
+              "WhenOpened": "2024-06-16T19:59:09.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Operation\\Create.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Operation\\Create.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Operation\\Create.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Operation\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T19:58:59.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\BookType\\Create.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\BookType\\Create.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\BookType\\Create.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\BookType\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T19:58:53.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RepositoryStudent.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryStudent.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryStudent.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryStudent.cs",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryStudent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:12:11.346Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T19:58:49.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Index.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAABIAAAA",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T13:14:25.24Z",
+              "WhenOpened": "2024-06-16T19:58:09.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookTypeController.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\BookTypeController.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\BookTypeController.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\BookTypeController.cs",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\BookTypeController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAcwFEAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:36:31.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RepositoryBookType.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryBookType.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryBookType.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryBookType.cs",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryBookType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:36:43.157Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "023c4276-8841-4e0e-9a05-7d23a317513e",
-        "Display": 1,
-        "X": 955,
-        "Y": 0,
-        "Width": 970,
-        "Height": 1037,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RepositoryWriter.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryWriter.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryWriter.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryWriter.cs",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Models\\Concrete\\RepositoryWriter.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwCIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T19:17:03.259Z",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\BookType\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\BookType\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\BookType\\Index.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\BookType\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T19:57:56.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "WriterController.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\WriterController.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\WriterController.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\WriterController.cs",
-              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Controllers\\WriterController.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAmwHEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T06:47:47.469Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Operation\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Operation\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Operation\\Index.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Operation\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T19:57:47.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T19:57:27.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Writer\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Writer\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_FluentAPI_Repository_Library\\IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Writer\\Index.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_FluentAPI_Repository_Library\\Views\\Writer\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T19:57:15.293Z",
               "EditorCaption": ""
             }
           ]

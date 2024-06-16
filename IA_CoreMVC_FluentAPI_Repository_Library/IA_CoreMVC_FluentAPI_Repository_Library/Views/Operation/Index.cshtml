@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Operation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Operation List</h1>
+<hr />
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PurchaseDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DeliveryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PurchaseDate)
+                </td>
+
+                @if (item.DeliveryDate == null)
+                {
+                    <td>
+                        <strong>
+                            Currently on reservation
+                        </strong>
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DeliveryDate)
+                    </td>
+                }
+                @{
+                    var isSelectBook = (item.Book != null) ? item.Book.BookName : "No book selection has been made!";
+                    <td> @isSelectBook.ToString() </td>
+                }
+
+                @{
+                    var isSelectStudent = (item.Student != null) ? item.Student.StudentName + " " + item.Student.StudentSurname : "No student selection has been made!";
+                    <td> @isSelectStudent.ToString() </td>
+                }
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.OperationID" class="btn btn-success">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.OperationID" class="btn btn-warning">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.OperationID" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete?');">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

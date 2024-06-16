@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using IA_CoreMVC_FluentAPI_Repository_Library.Models.Abstract
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -7,43 +8,74 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/IA_CoreMVC_FluentAPI_Repository_Library.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">IA_CoreMVC_FluentAPI_Repository_Library</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
+
+    <div class="row">
+        <div class="col-md-3">
+            <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme" style="height:170vh;">
+                <div class="app-brand demo">
+                    <a asp-action="Index" asp-controller="Home" class="app-brand-link">
+                        <span class="app-brand-logo demo">
+                            <box-icon name='book-bookmark'></box-icon>
+                        </span>
+                        <span class="app-brand-text demo menu-text fw-bolder ms-2">Library</span>
+                    </a>
+
+                    <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-block d-xl-none">
+                        <i class="bx bx-chevron-left bx-sm align-middle"></i>
+                    </a>
                 </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+
+                <div class="menu-inner-shadow"></div>
+
+                <ul class="menu-inner py-1">
+                    <!-- Dashboard -->
+                    <li class="menu-item @(Html.IsActive("Operation", "Index"))">
+                        <a asp-action="Index" asp-controller="Operation" class="menu-link">
+                            <div data-i18n="Analytics">Home Page</div>
+                        </a>
+                    </li>
+                    <!-- Writers -->
+                    <li class="menu-item @(Html.IsActive("Writer", "Index"))">
+                        <a asp-action="Index" asp-controller="Writer" class="menu-link">
+                            <div data-i18n="Analytics">Writers</div>
+                        </a>
+                    </li>
+                    <!-- Students -->
+                    <li class="menu-item @(Html.IsActive("Student", "Index"))">
+                        <a asp-action="Index" asp-controller="Student" class="menu-link">
+                            <div data-i18n="Analytics">Students</div>
+                        </a>
+                    </li>
+                    <!-- Book Types -->
+                    <li class="menu-item @(Html.IsActive("BookType", "Index"))">
+                        <a asp-action="Index" asp-controller="BookType" class="menu-link">
+                            <div data-i18n="Analytics">Book Types</div>
+                        </a>
+                    </li>
+                    <!-- Books -->
+                    <li class="menu-item @(Html.IsActive("Book", "Index"))">
+                        <a asp-action="Index" asp-controller="Book" class="menu-link">
+                            <div data-i18n="Analytics">Books</div>
+                        </a>
+                    </li>
+                </ul>
+            </aside>
+        </div>
+
+        <div class="col-md-9">
             @RenderBody()
-        </main>
+        </div>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - IA_CoreMVC_FluentAPI_Repository_Library - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

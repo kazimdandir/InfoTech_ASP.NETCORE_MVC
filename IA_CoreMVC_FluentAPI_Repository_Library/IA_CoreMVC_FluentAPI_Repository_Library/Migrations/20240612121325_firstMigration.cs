@@ -31,7 +31,7 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
                     Surname = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
-                    Gender = table.Column<string>(type: "nvarchar(5)", maxLength: 5, nullable: true),
+                    Gender = table.Column<string>(type: "nvarchar(6)", maxLength: 6, nullable: true),
                     BirthDate = table.Column<DateTime>(name: "Birth Date", type: "datetime2", nullable: true),
                     Class = table.Column<string>(type: "nvarchar(5)", maxLength: 5, nullable: false),
                     Point = table.Column<short>(type: "smallint", nullable: true),
@@ -66,8 +66,8 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     IsbnNo = table.Column<long>(type: "bigint", maxLength: 13, nullable: true),
                     BookName = table.Column<string>(name: "Book Name", type: "nvarchar(50)", maxLength: 50, nullable: false),
-                    Writer = table.Column<int>(type: "int", nullable: false),
-                    BookType = table.Column<int>(name: "Book Type", type: "int", nullable: false),
+                    Writer = table.Column<int>(type: "int", nullable: true),
+                    BookType = table.Column<int>(name: "Book Type", type: "int", nullable: true),
                     PageCount = table.Column<int>(name: "Page Count", type: "int", nullable: true),
                     IsDeleted = table.Column<bool>(type: "bit", nullable: false)
                 },
@@ -78,14 +78,12 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Migrations
                         name: "FK_Book_BookType_Book Type",
                         column: x => x.BookType,
                         principalTable: "BookType",
-                        principalColumn: "TypeID",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "TypeID");
                     table.ForeignKey(
                         name: "FK_Book_Writer_Writer",
                         column: x => x.Writer,
                         principalTable: "Writer",
-                        principalColumn: "WriterID",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "WriterID");
                 });
 
             migrationBuilder.CreateTable(

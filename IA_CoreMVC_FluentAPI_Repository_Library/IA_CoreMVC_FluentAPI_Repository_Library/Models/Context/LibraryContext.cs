@@ -64,7 +64,7 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Models.Context
                                           .HasMaxLength(50)
                                           .HasColumnName("Surname");
             modelBuilder.Entity<Student>().Property(s => s.Gender)
-                                          .HasMaxLength(5);
+                                          .HasMaxLength(6);
             modelBuilder.Entity<Student>().Property(s => s.BirthDate)
                                           .HasColumnName("Birth Date");
             modelBuilder.Entity<Student>().Property(s => s.SchoolRoom)
@@ -116,9 +116,11 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Models.Context
                                             .HasColumnName("Book");
             modelBuilder.Entity<Operation>().Property(o => o.PurchaseDate)
                                             .IsRequired()
-                                            .HasColumnName("Purchase Date");
+                                            .HasColumnName("Purchase Date")
+                                            .HasColumnType("date");
             modelBuilder.Entity<Operation>().Property(o => o.DeliveryDate)
-                                            .HasColumnName("Delivery Date");
+                                            .HasColumnName("Delivery Date")
+                                            .HasColumnType("date");
 
 
             modelBuilder.Entity<Operation>()
@@ -142,5 +144,9 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Models.Context
         public DbSet<IA_CoreMVC_FluentAPI_Repository_Library.Models.Entities.BookType>? BookType { get; set; }
 
         public DbSet<IA_CoreMVC_FluentAPI_Repository_Library.Models.Entities.Student>? Student { get; set; }
+
+        public DbSet<IA_CoreMVC_FluentAPI_Repository_Library.Models.Entities.Book>? Book { get; set; }
+
+        public DbSet<IA_CoreMVC_FluentAPI_Repository_Library.Models.Entities.Operation>? Operation { get; set; }
     }
 }

@@ -1,0 +1,48 @@
+﻿@model Book
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Book Info</h1>
+<hr />
+
+<div>
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IsbnNo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IsbnNo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.BookName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.BookName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PageCount)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PageCount)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Type.TypeName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Writer)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Writer.WriterName) 
+            @Html.DisplayFor(model => model.Writer.WriterSurname)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.BookID" class="btn btn-success">Edit</a> 
+    <a asp-action="Index" class="btn btn-primary">Back to List</a>
+</div>

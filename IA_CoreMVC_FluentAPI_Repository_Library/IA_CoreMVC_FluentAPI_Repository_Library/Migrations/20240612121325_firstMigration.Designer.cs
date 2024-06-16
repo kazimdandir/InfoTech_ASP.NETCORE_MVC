@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace IA_CoreMVC_FluentAPI_Repository_Library.Migrations
 {
     [DbContext(typeof(LibraryContext))]
-    [Migration("20240611070454_firstMigration")]
+    [Migration("20240612121325_firstMigration")]
     partial class firstMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -50,12 +50,10 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Migrations
                         .HasColumnName("Page Count");
 
                     b.Property<int?>("TypeID")
-                        .IsRequired()
                         .HasColumnType("int")
                         .HasColumnName("Book Type");
 
                     b.Property<int?>("WriterID")
-                        .IsRequired()
                         .HasColumnType("int")
                         .HasColumnName("Writer");
 
@@ -139,8 +137,8 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Migrations
                         .HasColumnName("Birth Date");
 
                     b.Property<string>("Gender")
-                        .HasMaxLength(5)
-                        .HasColumnType("nvarchar(5)");
+                        .HasMaxLength(6)
+                        .HasColumnType("nvarchar(6)");
 
                     b.Property<bool?>("IsDeleted")
                         .HasColumnType("bit");
@@ -205,15 +203,11 @@ namespace IA_CoreMVC_FluentAPI_Repository_Library.Migrations
                 {
                     b.HasOne("IA_CoreMVC_FluentAPI_Repository_Library.Models.Entities.BookType", "Type")
                         .WithMany("Books")
-                        .HasForeignKey("TypeID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("TypeID");
 
                     b.HasOne("IA_CoreMVC_FluentAPI_Repository_Library.Models.Entities.Writer", "Writer")
                         .WithMany("Books")
-                        .HasForeignKey("WriterID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("WriterID");
 
                     b.Navigation("Type");
 

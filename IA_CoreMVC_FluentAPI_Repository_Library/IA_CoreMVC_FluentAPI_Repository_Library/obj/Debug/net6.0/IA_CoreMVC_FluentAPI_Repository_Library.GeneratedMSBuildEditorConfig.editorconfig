@@ -50,12 +50,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1R5cGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Book/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Operation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Operation/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Operation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Operation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Shared/Error.cshtml]
@@ -109,6 +141,10 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mefiy2i1qo
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Shared/_Layout - Copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQgLSBDb3B5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-njots5ti9r
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_FluentAPI_Repository_Library/IA_CoreMVC_FluentAPI_Repository_Library/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "InfoTechDataAnotation09062024\\Models\\Context\\LibraryContext.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechDataAnotation09062024\\InfoTechDataAnotation09062024\\Models\\Context\\LibraryContext.cs",
               "RelativeToolTip": "InfoTechDataAnotation09062024\\Models\\Context\\LibraryContext.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wA8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T08:52:20.899Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "InfoTechDataAnotation09062024\\Models\\Entities\\Kitap.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T08:37:19.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T08:37:19.706Z"
             },
             {
               "$type": "Document",
