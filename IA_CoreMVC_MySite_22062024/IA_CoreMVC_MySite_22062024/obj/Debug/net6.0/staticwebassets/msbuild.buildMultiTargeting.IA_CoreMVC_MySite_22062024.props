@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IA_CoreMVC_MySite_22062024.props" />
+</Project>
