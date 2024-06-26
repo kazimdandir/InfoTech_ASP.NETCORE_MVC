@@ -1,0 +1,41 @@
+﻿@{
+    var blogVeri = ViewBag.BlogYazilari;
+
+    int s = 0;
+    string c;
+}
+
+<section class="page-section" id="about">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase">Blog Yazılarım</h2>
+            <h3 class="section-subheading text-muted">Aşağıdan blog yazılarımı okuyabilirsiniz.</h3>
+        </div>
+        <ul class="timeline">
+            @foreach (var item in blogVeri)
+            {
+                s++;
+
+                if(s % 2 == 0)
+                {
+                    c = "timeline-inverted";
+                }
+                else
+                {
+                    c = "";
+                }
+
+                <li class="@c">
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="/images/@item.YaziFoto" alt="..." /></div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4>@item.Baslik</h4>
+                            <h6 class="subheading">@item.YaziTarih</h6>
+                        </div>
+                        <div class="timeline-body"><p class="text-muted">@Html.Raw(@item.Yazi)</p></div>
+                    </div>
+                </li>
+            }
+        </ul>
+    </div>
+</section>
