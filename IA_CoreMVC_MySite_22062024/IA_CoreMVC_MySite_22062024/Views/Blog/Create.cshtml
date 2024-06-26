@@ -4,10 +4,9 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1>Blog Yazısı Ekle</h1>
+<br />
 
-<h4>Hakkimda</h4>
-<hr />
 <div class="row">
     <div class="col-md-12">
         <form asp-action="Create" enctype="multipart/form-data"> <!--Form içerisinde dosya varsa-->
@@ -29,8 +28,7 @@
 
             <div class="form-group">
                 <label asp-for="Yazi" class="control-label"></label>
-                @* <input asp-for="Yazi" class="form-control" /> *@
-                <textarea asp-for="Yazi" id = "Test"></textarea>
+                <textarea asp-for="Yazi" class="form-control" id = "Test"></textarea>
                 <span asp-validation-for="Yazi" class="text-danger"></span>
             </div>
 
@@ -44,18 +42,14 @@
                 <label asp-for="YaziFoto" class="control-label"></label>
                 <input asp-for="YaziFoto" class="form-control" type="file"/>
                 <span asp-validation-for="YaziFoto" class="text-danger"></span>
-            </div>
+            </div><br />
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Ekle" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-primary">Listeye Dön</a>
             </div>
         </form>
     </div>
 </div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

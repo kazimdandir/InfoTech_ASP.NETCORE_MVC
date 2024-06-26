@@ -1,0 +1,56 @@
+﻿@model Projeler
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Yeni Proje Ekle</h1>
+<br />
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProjeAdi" class="control-label"></label>
+                <input asp-for="ProjeAdi" class="form-control" />
+                <span asp-validation-for="ProjeAdi" class="text-danger"></span>
+            </div>
+
+            <script src="~/lib/jquery/dist/jquery.min.js"></script>
+            <script src="~/ckeditor/ckeditor.js"></script>
+            <script>
+                $(document).ready(function () {
+                    CKEDITOR.replace('Test');
+                });
+            </script>
+
+            <div class="form-group">
+                <label asp-for="ProjeAciklamasi" class="control-label"></label>
+                <textarea asp-for="ProjeAciklamasi" class="form-control" id="Test"></textarea>
+                <span asp-validation-for="ProjeAciklamasi" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ProjeTarihi" class="control-label"></label>
+                <input asp-for="ProjeTarihi" class="form-control" />
+                <span asp-validation-for="ProjeTarihi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProjeFoto" class="control-label"></label>
+                <input asp-for="ProjeFoto" class="form-control" type="file" />
+                <span asp-validation-for="ProjeFoto" class="text-danger"></span>
+            </div><br />
+            <div class="form-group">
+                <input type="submit" value="Ekle" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-primary">Listeye Dön</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

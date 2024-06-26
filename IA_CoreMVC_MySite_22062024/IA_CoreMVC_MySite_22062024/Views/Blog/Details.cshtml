@@ -1,0 +1,41 @@
+﻿@model Hakkimda
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Yazı Detayı</h1>
+<hr />
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Baslik)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Baslik)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Yazi)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.Raw(Model.Yazi)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.YaziTarih)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.YaziTarih)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.YaziFoto)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="~/images/@Model.YaziFoto" alt="Resim" style="width:25%; height: auto;" />
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-primary">Listeye Geri Dön</a>
+</div>

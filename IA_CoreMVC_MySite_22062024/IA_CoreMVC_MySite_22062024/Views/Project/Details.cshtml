@@ -1,0 +1,40 @@
+﻿@model Projeler
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Proje Detay</h1>
+<br />
+
+<div>
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProjeAdi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ProjeAdi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProjeAciklamasi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.Raw(Model.ProjeAciklamasi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProjeTarihi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ProjeTarihi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProjeFoto)
+        </dt>
+        <dd class = "col-sm-10">
+            <img src="~/images/@Model.ProjeFoto" alt="Resim" style="width:25%; height: auto;" />
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-primary">Back to List</a>
+</div>

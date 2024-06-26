@@ -1,14 +1,80 @@
-﻿
-@{
-    ViewData["Title"] = "Index";
+﻿@{
+    ViewData["Title"] = "Admin Panel Dashboard";
 }
 
 <h1>Admin Panel Dashboard</h1>
-<hr />
+<br />
 
-<a href="/Blog" class="btn btn-primary">Blog Yazıları</a>
-<br /><br />
-<a href="/Projeler" class="btn btn-success">Projeler</a>
-<br /><br />
-<a href="/Iletisim" class="btn btn-warning">Gelen Mesajlar</a>
-<br /><br />
+<div class="row">
+    <div class="col-md-4">
+        <div class="card text-white bg-primary mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Blog Yazıları</h5>
+                <p class="card-text">Toplam Blog Yazısı: @Model.BlogCount</p>
+                <a href="/Blog" class="btn btn-light">Git</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Projeler</h5>
+                <p class="card-text">Toplam Proje: @Model.ProjectCount</p>
+                <a asp-controller="Project" asp-action="Index" class="btn btn-light">Git</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-warning mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Gelen Mesajlar</h5>
+                <p class="card-text">Toplam Mesaj: @Model.MessageCount</p>
+                <a href="/Iletisim" class="btn btn-light">Git</a>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+
+
+<div class="row justify-content-center">
+    <div class="col-md-10">
+        <canvas id="myChart" style="width: 65%; height: auto; margin: auto;" width="1000" height="500"></canvas>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        var ctx = document.getElementById('myChart').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran', 'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık'],
+                datasets: [
+                    {
+                        label: 'Aylık Blog Yazıları',
+                        data: @Html.Raw(Json.Serialize(Model.MonthlyBlogCounts)),
+                        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                        borderColor: 'rgba(54, 162, 235, 1)',
+                        borderWidth: 1
+                    },
+                    {
+                        label: 'Aylık Projeler',
+                        data: @Html.Raw(Json.Serialize(Model.MonthlyProjectCounts)),
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1
+                    }
+                ]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script>
+}

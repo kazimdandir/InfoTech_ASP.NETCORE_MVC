@@ -10943,15 +10943,16 @@ p {
   }
 }
 header.masthead {
-  padding-top: 10.5rem;
-  padding-bottom: 6rem;
-  text-align: center;
-  color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  background-size: cover;
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    /*background-image: url("../assets/img/header-bg.jpg");*/
+    background-image: url('../assets/img/header-my.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
@@ -11256,10 +11257,11 @@ header.masthead .masthead-heading {
 }
 
 section#contact {
-  background-color: #212529;
-  background-image: url("../assets/img/map-image.png");
-  background-repeat: no-repeat;
-  background-position: center;
+    background-color: #212529;
+    /*background-image: url("../assets/img/map-image.png");*/
+    background-image: url('../assets/img/contact-form.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
 }
 section#contact .section-heading {
   color: #fff;

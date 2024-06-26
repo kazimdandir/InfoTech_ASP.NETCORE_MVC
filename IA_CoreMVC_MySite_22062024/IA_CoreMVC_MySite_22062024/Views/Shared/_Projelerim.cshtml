@@ -1,5 +1,13 @@
 ﻿@model List<Projeler>
 
+@* <style>
+    .portfolio-item img {
+        width: 100%;
+        height: 300px; /* İstediğiniz yüksekliği buraya girin */
+        object-fit: cover; /* Resmin kesilmesini sağlar */
+    }
+</style> *@
+
 <section class="page-section bg-light" id="portfolio">
     <div class="container">
         <div class="text-center">
@@ -23,7 +31,7 @@
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="/images/Project/@item.ProjeFoto" alt="@item.ProjeFoto" />
+                            <img class="img-fluid" src="/images/@item.ProjeFoto" alt="@item.ProjeFoto" />
                         </a>
                         <div class="portfolio-caption">
                             <div class="portfolio-caption-heading">@item.ProjeAdi</div>
@@ -43,7 +51,7 @@
                                         <!-- Project details-->
                                         <h2 class="text-uppercase">@item.ProjeAdi</h2>
                                         <p class="item-intro text-muted">Proje Detayları</p>
-                                            <img class="img-fluid d-block mx-auto" src="/images/Project/@item.ProjeFoto" alt="@item.ProjeFoto" />
+                                            <img class="img-fluid d-block mx-auto" src="/images/@item.ProjeFoto" alt="@item.ProjeFoto" />
                                         <p>@item.ProjeAciklamasi</p>
                                         <ul class="list-inline">
                                             <li>
