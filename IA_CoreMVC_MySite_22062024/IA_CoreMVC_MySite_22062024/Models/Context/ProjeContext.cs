@@ -26,8 +26,8 @@ namespace IA_CoreMVC_MySite_22062024.Models.Context
 
             modelBuilder.Entity<Kullanici>()
                 .HasData(
-                new Kullanici { KullaniciID = 1, Adi = "Ali", Soyadi = "Yıldız", KullaniciAdi = "aliyildiz", Parola = "12345", Rolu = "Admin" },
-                new Kullanici { KullaniciID = 2, Adi = "Veli", Soyadi = "Can", KullaniciAdi = "velican", Parola = "1234", Rolu = "User" }
+                new Kullanici { KullaniciID = 1, Adi = "Kazım İkbal", Soyadi = "Dandır", KullaniciAdi = "admin", Parola = "12345", Rolu = "Admin" },
+                new Kullanici { KullaniciID = 2, Adi = "Kazım İkbal", Soyadi = "Dandır", KullaniciAdi = "kazim", Parola = "12345", Rolu = "User" }
                 );
         }
 

@@ -78,6 +78,9 @@ namespace IA_CoreMVC_MySite_22062024.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
+                    b.Property<DateTime>("Tarih")
+                        .HasColumnType("datetime2");
+
                     b.HasKey("IletisimID");
 
                     b.ToTable("Iletisims");
@@ -124,20 +127,20 @@ namespace IA_CoreMVC_MySite_22062024.Migrations
                         new
                         {
                             KullaniciID = 1,
-                            Adi = "Ali",
-                            KullaniciAdi = "aliyildiz",
+                            Adi = "Kazım İkbal",
+                            KullaniciAdi = "admin",
                             Parola = "12345",
                             Rolu = "Admin",
-                            Soyadi = "Yıldız"
+                            Soyadi = "Dandır"
                         },
                         new
                         {
                             KullaniciID = 2,
-                            Adi = "Veli",
-                            KullaniciAdi = "velican",
-                            Parola = "1234",
+                            Adi = "Kazım İkbal",
+                            KullaniciAdi = "kazim",
+                            Parola = "12345",
                             Rolu = "User",
-                            Soyadi = "Can"
+                            Soyadi = "Dandır"
                         });
                 });
 
@@ -150,7 +153,6 @@ namespace IA_CoreMVC_MySite_22062024.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProjeID"), 1L, 1);
 
                     b.Property<string>("ProjeAciklamasi")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ProjeAdi")

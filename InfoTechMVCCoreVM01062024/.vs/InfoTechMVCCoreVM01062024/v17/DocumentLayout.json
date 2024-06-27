@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccorevm01062024\\infotechmvccorevm01062024\\models\\enums\\workingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|solutionrelative:infotechmvccorevm01062024\\models\\enums\\workingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccorevm01062024\\infotechmvccorevm01062024\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|solutionrelative:infotechmvccorevm01062024\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccorevm01062024\\infotechmvccorevm01062024\\models\\enums\\workingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|solutionrelative:infotechmvccorevm01062024\\models\\enums\\workingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70C70F79-DF83-42CB-A5FD-4B15E2C91F64}|InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\infotechmvccorevm01062024\\infotechmvccorevm01062024\\views\\personel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PersonelController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Controllers\\PersonelController.cs",
               "RelativeDocumentMoniker": "InfoTechMVCCoreVM01062024\\Controllers\\PersonelController.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Controllers\\PersonelController.cs",
               "RelativeToolTip": "InfoTechMVCCoreVM01062024\\Controllers\\PersonelController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAJAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T07:46:44.702Z",
               "EditorCaption": ""
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WorkingType.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\InfoTechMVCCoreVM01062024\\InfoTechMVCCoreVM01062024\\Models\\Enums\\WorkingType.cs",
               "RelativeDocumentMoniker": "InfoTechMVCCoreVM01062024\\Models\\Enums\\WorkingType.cs",

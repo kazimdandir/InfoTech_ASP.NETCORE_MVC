@@ -38,3 +38,36 @@ body {
     border-color: #004085;
 }
 
+.position-relative {
+    position: relative;
+}
+
+.badge {
+    padding: 0.3em 0.6em;
+    font-size: 0.75em;
+    line-height: 1;
+    border-radius: 0.75em;
+}
+
+    .badge.bg-danger {
+        background-color: #dc3545;
+    }
+
+.navbar .dropdown-menu {
+    min-width: 200px;
+}
+
+
+.badge-counter {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 0;
+    right: 0;
+    padding: 0.3em 0.6em;
+    font-size: 0.75em;
+    font-weight: 700;
+    line-height: 1;
+    color: white;
+    background-color: red;
+    border-radius: 9999px;
+}

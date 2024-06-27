@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfoTechMVCCoreVM01062024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f491e494fa80f51861249bd87142c3830db3dbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+196ad024e678273273d446e83067bd58bf2294d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfoTechMVCCoreVM01062024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfoTechMVCCoreVM01062024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

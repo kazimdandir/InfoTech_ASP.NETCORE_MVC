@@ -5,8 +5,8 @@
 <h1>Admin Panel Dashboard</h1>
 <br />
 
-<div class="row">
-    <div class="col-md-4">
+<div class="row text-center">
+    <div class="col-md-4 offset-md-2">
         <div class="card text-white bg-primary mb-3">
             <div class="card-body">
                 <h5 class="card-title">Blog Yazıları</h5>
@@ -24,16 +24,8 @@
             </div>
         </div>
     </div>
-    <div class="col-md-4">
-        <div class="card text-white bg-warning mb-3">
-            <div class="card-body">
-                <h5 class="card-title">Gelen Mesajlar</h5>
-                <p class="card-text">Toplam Mesaj: @Model.MessageCount</p>
-                <a href="/Iletisim" class="btn btn-light">Git</a>
-            </div>
-        </div>
-    </div>
 </div>
+
 <br />
 
 
@@ -64,6 +56,13 @@
                         data: @Html.Raw(Json.Serialize(Model.MonthlyProjectCounts)),
                         backgroundColor: 'rgba(75, 192, 192, 0.2)',
                         borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1
+                    },
+                    {
+                        label: 'Aylık Gelen Mesajlar',
+                        data: @Html.Raw(Json.Serialize(Model.MonthlyMessageCounts)),
+                        backgroundColor: 'rgba(255, 206, 86, 0.2)',
+                        borderColor: 'rgba(255, 206, 86, 1)',
                         borderWidth: 1
                     }
                 ]

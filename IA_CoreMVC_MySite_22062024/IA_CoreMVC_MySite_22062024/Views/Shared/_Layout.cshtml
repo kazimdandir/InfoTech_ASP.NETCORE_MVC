@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/IA_CoreMVC_MySite_22062024.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
     <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
@@ -29,6 +30,19 @@
                         </li>
                     </ul>
                     <ul class="navbar-nav ms-auto mb-2 mb-md-0">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link position-relative pe-2" href="@Url.Action("Messages", "Admin")" id="notificationDropdown" role="button" aria-expanded="false">
+                                <i class="fas fa-bell me-1">
+                                    @if (ViewBag.UnreadMessagesCount > 0)
+                                    {
+                                        <span class="badge rounded-pill bg-danger position-absolute top-0 start-100 translate-middle">
+                                            @ViewBag.UnreadMessagesCount
+                                            <span class="visually-hidden">unread messages</span>
+                                        </span>
+                                    }
+                                </i>
+                            </a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link" asp-area="" asp-controller="Security" asp-action="LogOut">Çıkış Yap</a>
                         </li>

@@ -4,29 +4,25 @@
     ViewData["Title"] = "Login";
 }
 
-<div class="container-fluid">
-    <div class="row justify-content-center">
-        <div class="col-md-6">
-            <div class="card mt-5">
-                <div class="card-header text-center">
-                    <h3>Giriş Ekranı</h3>
-                </div>
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-lg-6">
+            <div class="card shadow-lg border-0 rounded-lg mt-5">
                 <div class="card-body">
-                    <form asp-action="Login">
-                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="text-center">
+                        <h1 class="h4 text-gray-900 mb-4">Tekrar Hoşgeldiniz!</h1>
+                    </div>
+                    <form class="user" asp-action="Login" method="post">
+                        <div asp-validation-summary="All" class="text-danger"></div>
                         <div class="form-group">
-                            <label asp-for="KullaniciAdi" class="control-label"></label>
-                            <input asp-for="KullaniciAdi" class="form-control" name="KullaniciAdi" />
-                            <span asp-validation-for="KullaniciAdi" class="text-danger"></span>
+                            <input asp-for="KullaniciAdi" class="form-control form-control-user" placeholder="Kullanıcı adınızı giriniz *" />
                         </div><br />
                         <div class="form-group">
-                            <label asp-for="Parola" class="control-label"></label>
-                            <input asp-for="Parola" class="form-control" type="password" name="Parola" />
-                            <span asp-validation-for="Parola" class="text-danger"></span>
+                            <input asp-for="Parola" type="password" class="form-control form-control-user" placeholder="Şifrenizi giriniz *" />
                         </div><br />
-                        <div class="form-group">
-                            <input type="submit" value="Giriş Yap" class="btn btn-primary btn-block" />
-                        </div>
+                        <button type="submit" class="btn btn-primary btn-user btn-block">
+                            Giriş Yap
+                        </button>
                     </form>
                 </div>
             </div>

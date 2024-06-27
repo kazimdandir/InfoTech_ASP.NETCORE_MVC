@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Iletisim>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Gelen Kutusu</h1>
+<br />
+
+<table class="table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EPosta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mesaj)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EPosta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mesaj)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.IletisimID" class="btn btn-warning">Detay</a>
+                    <a asp-action="Delete" asp-route-id="@item.IletisimID" class="btn btn-danger" onclick="return confirm('Mesajı silmek istediğinize emin misiniz?');">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

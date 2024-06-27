@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_MySite_22062024/IA_CoreMVC_MySite_22062024/Views/Admin/Messages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVzc2FnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_MySite_22062024/IA_CoreMVC_MySite_22062024/Views/Blog/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,6 +48,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_MySite_22062024/IA_CoreMVC_MySite_22062024/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_MySite_22062024/IA_CoreMVC_MySite_22062024/Views/Message/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_MySite_22062024/IA_CoreMVC_MySite_22062024/Views/Message/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_MySite_22062024/IA_CoreMVC_MySite_22062024/Views/Project/Create.cshtml]
@@ -108,6 +120,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_MySite_22062024/IA_CoreMVC_MySite_22062024/Views/Site/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_MySite_22062024/IA_CoreMVC_MySite_22062024/Views/Site/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0ZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_MySite_22062024/IA_CoreMVC_MySite_22062024/Views/Site/TermsOfUse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0ZVxUZXJtc09mVXNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_CoreMVC_MySite_22062024/IA_CoreMVC_MySite_22062024/Views/_ViewImports.cshtml]

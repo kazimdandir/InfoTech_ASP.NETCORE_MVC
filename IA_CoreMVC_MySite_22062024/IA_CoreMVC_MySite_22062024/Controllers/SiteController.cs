@@ -20,5 +20,15 @@ namespace IA_CoreMVC_MySite_22062024.Controllers
 
             return View(db.Projelers.OrderByDescending(x => x.ProjeTarihi).ToList());
         }
+
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        public IActionResult TermsOfUse()
+        {
+            return View();
+        }
     }
 }
