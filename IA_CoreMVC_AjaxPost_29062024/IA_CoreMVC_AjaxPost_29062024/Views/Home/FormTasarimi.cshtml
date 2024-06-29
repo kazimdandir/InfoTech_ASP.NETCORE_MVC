@@ -1,0 +1,95 @@
+﻿@model IA_CoreMVC_AjaxPost_29062024.Models.Kisiler
+
+@{
+    ViewData["Title"] = "FormTasarimi";
+}
+
+<h1>FormTasarimi</h1>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<h4>Kisiler</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form id="form">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="KisiID" class="control-label"></label>
+                <input asp-for="KisiID" class="form-control" />
+                <span asp-validation-for="KisiID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ad" class="control-label"></label>
+                <input asp-for="Ad" class="form-control" />
+                <span asp-validation-for="Ad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Soyad" class="control-label"></label>
+                <input asp-for="Soyad" class="form-control" />
+                <span asp-validation-for="Soyad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefon" class="control-label"></label>
+                <input asp-for="Telefon" class="form-control" />
+                <span asp-validation-for="Telefon" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EPosta" class="control-label"></label>
+                <input asp-for="EPosta" class="form-control" />
+                <span asp-validation-for="EPosta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input value="Create" class="btn btn-primary" id="dugme" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<a href="#" id = "dugme2">Test2</a>
+
+<script>
+    $(document).ready(function () {
+        $("#dugme").click(function (e) {
+
+            var valdata = $("#form").serialize();
+
+            $.ajax({
+
+                url: "/Home/FormTasarimi",
+                type: "POST",
+                dataType: "json",
+                contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+                data: valdata
+            });
+        });
+    });
+</script>
+
+<script>
+    $(document).ready(function () {
+        $("#dugme2").click(function (e) {
+
+            var valdata = $("#form").serialize();
+
+            $.ajax({
+
+                url: "/Home/FormTasarimi",
+                type: "POST",
+                dataType: "json",
+                contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+                data: valdata
+            });
+        });
+    });
+</script>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

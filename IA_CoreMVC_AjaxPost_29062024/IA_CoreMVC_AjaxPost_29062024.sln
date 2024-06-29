@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IA_CoreMVC_AjaxPost_29062024", "IA_CoreMVC_AjaxPost_29062024\IA_CoreMVC_AjaxPost_29062024.csproj", "{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4AA1400-9B05-45BD-8535-8091B14341C8}
+	EndGlobalSection
+EndGlobal

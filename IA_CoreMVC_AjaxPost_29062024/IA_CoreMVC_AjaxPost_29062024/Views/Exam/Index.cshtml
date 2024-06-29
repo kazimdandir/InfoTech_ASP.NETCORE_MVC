@@ -1,0 +1,106 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Sınav Kağıdı</h1>
+<hr />
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-9">
+            <h1>Sorular</h1>
+            <hr />
+            <!--Sorunların olduğu pdf dökümanı-->
+        </div>
+
+        <div class="col-md-3">
+            <h3>Yanıtlama</h3>
+            <hr />
+
+            <form id="form">
+                <ul>
+                    @for (int i = 0; i <= 10; i++)
+                    {
+                        <li style="list-style-type:none">
+                            @(i)&nbsp;&nbsp;&nbsp;
+                            &nbsp; <input type="radio" name="s@(i)" id="rs@(i)A" value="A" />
+                            &nbsp; <input type="radio" name="s@(i)" id="rs@(i)B" value="B" />
+                            &nbsp; <input type="radio" name="s@(i)" id="rs@(i)C" value="C" />
+                            &nbsp; <input type="radio" name="s@(i)" id="rs@(i)D" value="D" />
+                        </li>
+
+                        <script>
+                            $(document).ready(function () {
+                                $("#rs@(i)A").click(function (e) {
+
+                                    var valdata = $("#form").serialize();
+
+                                    $.ajax({
+
+                                        url: "/Exam/Sonuc",
+                                        type: "POST",
+                                        dataType: "json",
+                                        contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+                                        data: valdata
+                                    });
+                                });
+                            });
+
+                            $(document).ready(function () {
+                                $("#rs@(i)B").click(function (e) {
+
+                                    var valdata = $("#form").serialize();
+
+                                    $.ajax({
+
+                                        url: "/Exam/Sonuc",
+                                        type: "POST",
+                                        dataType: "json",
+                                        contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+                                        data: valdata
+                                    });
+                                });
+                            });
+
+                            $(document).ready(function () {
+                                $("#rs@(i)C").click(function (e) {
+
+                                    var valdata = $("#form").serialize();
+
+                                    $.ajax({
+
+                                        url: "/Exam/Sonuc",
+                                        type: "POST",
+                                        dataType: "json",
+                                        contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+                                        data: valdata
+                                    });
+                                });
+                            });
+
+
+                            $(document).ready(function () {
+                                $("#rs@(i)D").click(function (e) {
+
+                                    var valdata = $("#form").serialize();
+
+                                    $.ajax({
+
+                                        url: "/Exam/Sonuc",
+                                        type: "POST",
+                                        dataType: "json",
+                                        contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+                                        data: valdata
+                                    });
+                                });
+                            });
+                        </script>
+                    }
+                </ul>
+            </form>
+        </div>
+    </div>
+</div>
+

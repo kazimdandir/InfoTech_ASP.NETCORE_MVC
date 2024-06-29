@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Oturum";
+}
+
+<h1>Oturum</h1>
+
+<div class="row"> 
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h3>Oturum Bilgileri</h3>
+                <div class="card-body">
+                    <ol>
+                        <li>Kullanıcı Adı: @ViewBag.kAdi</li>
+                        <li>Kullanıcı Maili: @ViewBag.kMail</li>
+                        <li>Kullanıcı Yaşı: @ViewBag.kYasi</li>
+                        <li>Kullanıcı ID: @ViewBag.Id</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

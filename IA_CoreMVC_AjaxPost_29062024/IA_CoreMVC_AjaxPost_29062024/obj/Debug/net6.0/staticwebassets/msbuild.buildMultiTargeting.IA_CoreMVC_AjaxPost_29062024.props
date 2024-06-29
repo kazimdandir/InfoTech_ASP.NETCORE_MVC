@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IA_CoreMVC_AjaxPost_29062024.props" />
+</Project>

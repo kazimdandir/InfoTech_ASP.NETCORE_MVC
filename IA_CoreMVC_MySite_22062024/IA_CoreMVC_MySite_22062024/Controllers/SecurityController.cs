@@ -28,6 +28,18 @@ namespace IA_CoreMVC_MySite_22062024.Controllers
         public IActionResult Login(string KullaniciAdi, string Parola)
         {
             Kullanici girisYapanKullanici = db.Kullanicis.FirstOrDefault(x => x.KullaniciAdi == KullaniciAdi && x.Parola == Parola);
+            
+            ////session ile
+            //if (girisYapanKullanici != null)
+            //{
+            //    HttpContext.Session.SetString("kullaniciAdi", girisYapanKullanici.KullaniciAdi);
+            //    // diğer sessionlar
+
+            //    if (girisYapanKullanici.Rolu == "Admin")
+            //    {
+            //        return RedirectToAction("Index", "Admin"); 
+            //    }
+            //}
 
             if (girisYapanKullanici != null)
             {

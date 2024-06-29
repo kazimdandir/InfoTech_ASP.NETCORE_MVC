@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ajaxpost_29062024\\ia_coremvc_ajaxpost_29062024\\views\\exam\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|solutionrelative:ia_coremvc_ajaxpost_29062024\\views\\exam\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ajaxpost_29062024\\ia_coremvc_ajaxpost_29062024\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|solutionrelative:ia_coremvc_ajaxpost_29062024\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ajaxpost_29062024\\ia_coremvc_ajaxpost_29062024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|solutionrelative:ia_coremvc_ajaxpost_29062024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ajaxpost_29062024\\ia_coremvc_ajaxpost_29062024\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|solutionrelative:ia_coremvc_ajaxpost_29062024\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ajaxpost_29062024\\ia_coremvc_ajaxpost_29062024\\views\\home\\formtasarimi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|solutionrelative:ia_coremvc_ajaxpost_29062024\\views\\home\\formtasarimi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ajaxpost_29062024\\ia_coremvc_ajaxpost_29062024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|solutionrelative:ia_coremvc_ajaxpost_29062024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ajaxpost_29062024\\ia_coremvc_ajaxpost_29062024\\models\\kisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87FC1A-1DFD-41D8-9831-2C76DDFD673D}|IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024.csproj|solutionrelative:ia_coremvc_ajaxpost_29062024\\models\\kisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T09:36:52.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Views\\Exam\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_AjaxPost_29062024\\Views\\Exam\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Views\\Exam\\Index.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_AjaxPost_29062024\\Views\\Exam\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T09:18:05.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_AjaxPost_29062024\\Controllers\\ExamController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "IA_CoreMVC_AjaxPost_29062024\\Controllers\\ExamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:15:50.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T09:05:29.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormTasarimi.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\FormTasarimi.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\FormTasarimi.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\FormTasarimi.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_AjaxPost_29062024\\Views\\Home\\FormTasarimi.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAswDcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T08:52:31.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_AjaxPost_29062024\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IA_CoreMVC_AjaxPost_29062024\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:51:11.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kisiler.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Models\\Kisiler.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_AjaxPost_29062024\\Models\\Kisiler.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_AjaxPost_29062024\\IA_CoreMVC_AjaxPost_29062024\\Models\\Kisiler.cs",
+              "RelativeToolTip": "IA_CoreMVC_AjaxPost_29062024\\Models\\Kisiler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:50:00.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

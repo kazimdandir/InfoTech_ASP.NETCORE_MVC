@@ -2,6 +2,7 @@
 using IA_CoreMVC_MySite_22062024.Models.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace IA_CoreMVC_MySite_22062024.Controllers
 {
@@ -17,6 +18,17 @@ namespace IA_CoreMVC_MySite_22062024.Controllers
 
         public IActionResult Index()
         {
+            //claim listten veri okuma
+            var claims = User.Claims;
+            var ad = claims.FirstOrDefault(c => c.Type == ClaimTypes.Name)?.Value; // claimlistten isim çeker
+            var soyadi = claims.FirstOrDefault(c => c.Type == ClaimTypes.Surname)?.Value; 
+
+            ViewBag.Ad = ad;
+            ViewBag.Soyadi = soyadi;
+
+            //httpcontext
+            ViewBag.Ad1 = HttpContext.User.Claims.FirstOrDefault(c => c.Type != ClaimTypes.Name)?.Value;
+
             var model = new AdminDashboardViewModel
             {
                 BlogCount = _context.Hakkimda.Count(),
