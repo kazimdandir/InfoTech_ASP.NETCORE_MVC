@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2246061-880F-4565-B1CD-92D574E04392}|IA_CoreMVC_NTier.DAL\\IA_CoreMVC_NTier.DAL.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.dal\\concrete\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2246061-880F-4565-B1CD-92D574E04392}|IA_CoreMVC_NTier.DAL\\IA_CoreMVC_NTier.DAL.csproj|solutionrelative:ia_coremvc_ntier.dal\\concrete\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2246061-880F-4565-B1CD-92D574E04392}|IA_CoreMVC_NTier.DAL\\IA_CoreMVC_NTier.DAL.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.dal\\abstract\\igeneralrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2246061-880F-4565-B1CD-92D574E04392}|IA_CoreMVC_NTier.DAL\\IA_CoreMVC_NTier.DAL.csproj|solutionrelative:ia_coremvc_ntier.dal\\abstract\\igeneralrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|solutionrelative:ia_coremvc_ntier.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|solutionrelative:ia_coremvc_ntier.ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|solutionrelative:ia_coremvc_ntier.ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.ui\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|solutionrelative:ia_coremvc_ntier.ui\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.ui\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|solutionrelative:ia_coremvc_ntier.ui\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC26A15C-94F9-4394-913C-760848DDB750}|IA_CoreMVC_NTier.BL\\IA_CoreMVC_NTier.BL.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.bl\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC26A15C-94F9-4394-913C-760848DDB750}|IA_CoreMVC_NTier.BL\\IA_CoreMVC_NTier.BL.csproj|solutionrelative:ia_coremvc_ntier.bl\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC26A15C-94F9-4394-913C-760848DDB750}|IA_CoreMVC_NTier.BL\\IA_CoreMVC_NTier.BL.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.bl\\abstract\\igeneralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC26A15C-94F9-4394-913C-760848DDB750}|IA_CoreMVC_NTier.BL\\IA_CoreMVC_NTier.BL.csproj|solutionrelative:ia_coremvc_ntier.bl\\abstract\\igeneralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2246061-880F-4565-B1CD-92D574E04392}|IA_CoreMVC_NTier.DAL\\IA_CoreMVC_NTier.DAL.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.dal\\context\\projecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2246061-880F-4565-B1CD-92D574E04392}|IA_CoreMVC_NTier.DAL\\IA_CoreMVC_NTier.DAL.csproj|solutionrelative:ia_coremvc_ntier.dal\\context\\projecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88174B3C-D6C2-4256-8D5A-E1B0EB6AA4B9}|IA_CoreMVC_NTier.Entities\\IA_CoreMVC_NTier.Entities.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88174B3C-D6C2-4256-8D5A-E1B0EB6AA4B9}|IA_CoreMVC_NTier.Entities\\IA_CoreMVC_NTier.Entities.csproj|solutionrelative:ia_coremvc_ntier.entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:37:25.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGeneralRepository.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.DAL\\Abstract\\IGeneralRepository.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.DAL\\Abstract\\IGeneralRepository.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.DAL\\Abstract\\IGeneralRepository.cs",
+              "RelativeToolTip": "IA_CoreMVC_NTier.DAL\\Abstract\\IGeneralRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:53:39.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.DAL\\Concrete\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.DAL\\Concrete\\CategoryRepository.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.DAL\\Concrete\\CategoryRepository.cs",
+              "RelativeToolTip": "IA_CoreMVC_NTier.DAL\\Concrete\\CategoryRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwC4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:01:59.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.UI\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "IA_CoreMVC_NTier.UI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:13:16.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.UI\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_NTier.UI\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:21:23.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.UI\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_NTier.UI\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:27:04.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.UI\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_NTier.UI\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:29:40.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.BL\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.BL\\Concrete\\CategoryManager.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.BL\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "IA_CoreMVC_NTier.BL\\Concrete\\CategoryManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:58:26.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGeneralService.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.BL\\Abstract\\IGeneralService.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.BL\\Abstract\\IGeneralService.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.BL\\Abstract\\IGeneralService.cs",
+              "RelativeToolTip": "IA_CoreMVC_NTier.BL\\Abstract\\IGeneralService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:57:24.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjeContext.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.DAL\\Context\\ProjeContext.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.DAL\\Context\\ProjeContext.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.DAL\\Context\\ProjeContext.cs",
+              "RelativeToolTip": "IA_CoreMVC_NTier.DAL\\Context\\ProjeContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:12:35.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.Entities\\Category.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.Entities\\Category.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.Entities\\Category.cs",
+              "RelativeToolTip": "IA_CoreMVC_NTier.Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:46:19.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

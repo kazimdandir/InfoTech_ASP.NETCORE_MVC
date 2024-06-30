@@ -1,0 +1,12 @@
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\bin\Debug\net6.0\IA_CoreMVC_NTier.Entities.deps.json
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\bin\Debug\net6.0\IA_CoreMVC_NTier.Entities.dll
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\bin\Debug\net6.0\IA_CoreMVC_NTier.Entities.pdb
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\obj\Debug\net6.0\IA_CoreMVC_NTier.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\obj\Debug\net6.0\IA_CoreMVC_NTier.Entities.AssemblyInfoInputs.cache
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\obj\Debug\net6.0\IA_CoreMVC_NTier.Entities.AssemblyInfo.cs
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\obj\Debug\net6.0\IA_CoreMVC_NTier.Entities.csproj.CoreCompileInputs.cache
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\obj\Debug\net6.0\IA_CoreMVC_NTier.Entities.sourcelink.json
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\obj\Debug\net6.0\IA_CoreMVC_NTier.Entities.dll
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\obj\Debug\net6.0\refint\IA_CoreMVC_NTier.Entities.dll
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\obj\Debug\net6.0\IA_CoreMVC_NTier.Entities.pdb
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_CoreMVC_NTier\IA_CoreMVC_NTier.Entities\obj\Debug\net6.0\ref\IA_CoreMVC_NTier.Entities.dll
