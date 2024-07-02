@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BDC5E473-5807-496C-8D30-5F39A90EDD5D}|IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_mysite_22062024\\ia_coremvc_mysite_22062024\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC5E473-5807-496C-8D30-5F39A90EDD5D}|IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024.csproj|solutionrelative:ia_coremvc_mysite_22062024\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDC5E473-5807-496C-8D30-5F39A90EDD5D}|IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_mysite_22062024\\ia_coremvc_mysite_22062024\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDC5E473-5807-496C-8D30-5F39A90EDD5D}|IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024.csproj|solutionrelative:ia_coremvc_mysite_22062024\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BDC5E473-5807-496C-8D30-5F39A90EDD5D}|IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_mysite_22062024\\ia_coremvc_mysite_22062024\\models\\entities\\projeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDC5E473-5807-496C-8D30-5F39A90EDD5D}|IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024.csproj|solutionrelative:ia_coremvc_mysite_22062024\\models\\entities\\projeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC5E473-5807-496C-8D30-5F39A90EDD5D}|IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_mysite_22062024\\ia_coremvc_mysite_22062024\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC5E473-5807-496C-8D30-5F39A90EDD5D}|IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024.csproj|solutionrelative:ia_coremvc_mysite_22062024\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDC5E473-5807-496C-8D30-5F39A90EDD5D}|IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_mysite_22062024\\ia_coremvc_mysite_22062024\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,11 +138,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BlogController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "IA_CoreMVC_MySite_22062024\\Controllers\\BlogController.cs",
@@ -154,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "IA_CoreMVC_MySite_22062024\\Controllers\\AdminController.cs",
@@ -166,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "IA_CoreMVC_MySite_22062024\\Views\\Admin\\Index.cshtml",
@@ -178,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Messages.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024\\Views\\Admin\\Messages.cshtml",
               "RelativeDocumentMoniker": "IA_CoreMVC_MySite_22062024\\Views\\Admin\\Messages.cshtml",
@@ -190,19 +190,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "IA_CoreMVC_MySite_22062024\\Controllers\\ProjectController.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024\\Controllers\\ProjectController.cs",
               "RelativeToolTip": "IA_CoreMVC_MySite_22062024\\Controllers\\ProjectController.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAswI8AAAANAAAA",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswHkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T08:12:06.734Z"
+              "WhenOpened": "2024-06-28T08:12:06.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SecurityController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024\\Controllers\\SecurityController.cs",
               "RelativeDocumentMoniker": "IA_CoreMVC_MySite_22062024\\Controllers\\SecurityController.cs",
@@ -215,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "IA_CoreMVC_MySite_22062024\\Controllers\\HomeController.cs",
@@ -227,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Projeler.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024\\Models\\Entities\\Projeler.cs",
               "RelativeDocumentMoniker": "IA_CoreMVC_MySite_22062024\\Models\\Entities\\Projeler.cs",
@@ -239,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Iletisim.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024\\Views\\Shared\\_Iletisim.cshtml",
               "RelativeDocumentMoniker": "IA_CoreMVC_MySite_22062024\\Views\\Shared\\_Iletisim.cshtml",
@@ -251,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MessageController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_MySite_22062024\\IA_CoreMVC_MySite_22062024\\Controllers\\MessageController.cs",
               "RelativeDocumentMoniker": "IA_CoreMVC_MySite_22062024\\Controllers\\MessageController.cs",

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Ürün Liste</h1>
+<hr />
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">+ Yeni Ürün Ekle</a>
+</p>
+
+<table class="table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitInStock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitInStock)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.CategoryName)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ProductId" class="btn btn-success">Düzenle</a> 
+                    <a asp-action="Details" asp-route-id="@item.ProductId" class="btn btn-warning">Detay</a> 
+                    <a asp-action="Delete" asp-route-id="@item.ProductId" class="btn btn-danger" onclick="return confirm('Are you sure?')">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

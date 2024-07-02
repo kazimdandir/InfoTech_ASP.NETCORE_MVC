@@ -47,6 +47,7 @@ namespace IA_CoreMVC_NTier.DAL.Context
 
         public virtual DbSet<Category> Categories { get; set; }
         public virtual DbSet<Product> Products { get; set; }
+
     }
 }
 

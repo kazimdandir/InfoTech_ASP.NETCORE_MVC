@@ -49,5 +49,12 @@ namespace IA_CoreMVC_NTier.UI.Controllers
             return RedirectToAction("Index");
 
         }
+
+        public IActionResult Details(int id)
+        {
+            Category model = _catService.GetById(id);
+            return View(model);
+
+        }
     }
 }

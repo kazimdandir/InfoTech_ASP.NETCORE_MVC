@@ -16,3 +16,36 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1.display-3 {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }
+
+footer {
+    padding: 20px 0;
+}
+
+    footer a {
+        color: #007bff;
+        text-decoration: none;
+    }
