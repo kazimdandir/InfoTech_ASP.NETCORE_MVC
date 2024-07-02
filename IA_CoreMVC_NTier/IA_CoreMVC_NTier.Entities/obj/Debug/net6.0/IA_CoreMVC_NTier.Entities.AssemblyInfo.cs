@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IA_CoreMVC_NTier.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8f6b9803f8cf81ed5c10f4726e4381ae5a3120b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05dd13d1c2b51ca7f1fa08de9bd405f5b500d17b")]
 [assembly: System.Reflection.AssemblyProductAttribute("IA_CoreMVC_NTier.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IA_CoreMVC_NTier.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

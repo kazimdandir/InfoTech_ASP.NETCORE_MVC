@@ -1,56 +1,63 @@
 ﻿@model IEnumerable<Product>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Ürün Liste";
 }
 
-<h1>Ürün Liste</h1>
-<hr />
+<h1 class="mb-4">Ürün Liste</h1>
 
-<p>
-    <a asp-action="Create" class="btn btn-primary">+ Yeni Ürün Ekle</a>
-</p>
+<div class="row mb-3">
+    <div class="col-md-6">
+        <a asp-action="Create" class="btn btn-primary">+ Yeni Ürün Ekle</a>
+    </div>
+</div>
 
 <table class="table table-hover table-striped">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.ProductName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.UnitPrice)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.UnitInStock)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Category)
-            </th>
-            <th></th>
+            <th style="width: 30%;">Ürün Adı</th>
+            <th style="width: 30%;">Fiyatı</th>
+            <th style="width: 30%;">Stok Adedi</th>
+            <th style="width: 10%;"></th>
+            <th style="width: 10%;"></th>
         </tr>
     </thead>
     <tbody>
         @foreach (var item in Model)
         {
-            <tr>
+            <tr class="animate__animated animate__fadeIn">
+                <td>@Html.DisplayFor(modelItem => item.ProductName)</td>
+                <td>@Html.DisplayFor(modelItem => item.UnitPrice)</td>
+                <td>@Html.DisplayFor(modelItem => item.UnitInStock)</td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.ProductName)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.UnitPrice)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.UnitInStock)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Category.CategoryName)
-                </td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.ProductId" class="btn btn-success">Düzenle</a> 
-                    <a asp-action="Details" asp-route-id="@item.ProductId" class="btn btn-warning">Detay</a> 
-                    <a asp-action="Delete" asp-route-id="@item.ProductId" class="btn btn-danger" onclick="return confirm('Are you sure?')">Sil</a>
+                    <div class="btn-group" role="group" aria-label="Ürün İşlemleri">
+                        <a asp-action="Edit" asp-route-id="@item.ProductId" class="btn btn-success">Düzenle</a>
+                        <a asp-action="Details" asp-route-id="@item.ProductId" class="btn btn-warning">Detay</a>
+                        <button type="button" class="btn btn-danger" onclick="confirmDelete('@item.ProductId')">Sil</button>
+                    </div>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+
+@section Scripts {
+    <script>
+        function confirmDelete(productId) {
+            Swal.fire({
+                title: 'Emin misiniz?',
+                text: "Bu ürünü silmek istediğinizden emin misiniz?",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonColor: '#d33',
+                cancelButtonColor: '#3085d6',
+                confirmButtonText: 'Evet, sil!',
+                cancelButtonText: 'Hayır, vazgeç'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.href = '/Product/Delete/' + productId;
+                }
+            });
+        }
+    </script>
+}

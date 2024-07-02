@@ -38,8 +38,9 @@ namespace IA_CoreMVC_NTier.DAL.Concrete
 
         public Product GetById(int id)
         {
-            return db.Products.Find(id);
+            return db.Products.Include(p => p.Category).FirstOrDefault(p => p.ProductId == id);
         }
+
 
         public List<Product> Search(Expression<Func<Product, bool>> predicate)
         {

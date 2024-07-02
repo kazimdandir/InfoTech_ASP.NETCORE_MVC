@@ -66,7 +66,17 @@ namespace IA_CoreMVC_NTier.UI.Controllers
         {
             ViewBag.Kategoriler = db.Categories.ToList();
 
-            return View(_proService.GetById(id));
+            var product = _proService.GetById(id);
+
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            // Eager loading ile kategori bilgisini yükleyin
+            product.Category = db.Categories.FirstOrDefault(c => c.CategoryID == product.CategoryId);
+
+            return View(product);
         }
     }
 }

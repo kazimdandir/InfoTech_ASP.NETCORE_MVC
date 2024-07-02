@@ -4,40 +4,57 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Kategori Liste</h1>
-<hr />
+<h1 class="mb-4">Kategori Liste</h1>
 
-<p>
-    <a asp-action="Create" class="btn btn-primary">+ Yeni Kategori Ekle</a>
-</p>
+<div class="row mb-3">
+    <div class="col-md-6">
+        <a asp-action="Create" class="btn btn-primary">+ Yeni Kategori Ekle</a>
+    </div>
+</div>
+
 <table class="table table-hover table-striped">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.CategoryName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Description)
-            </th>
-            <th></th>
+            <th style="width: 30%;">Kategori Adı</th>
+            <th style="width: 50%;"></th>
+            <th style="width: 20%;"></th>
         </tr>
     </thead>
     <tbody>
         @foreach (var item in Model)
         {
-            <tr>
+            <tr class="animate__animated animate__fadeIn">
+                <td>@Html.DisplayFor(modelItem => item.CategoryName)</td>
+                <td></td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.CategoryName)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Description)
-                </td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.CategoryID" class="btn btn-success">Düzenle</a>
-                    <a asp-action="Details" asp-route-id="@item.CategoryID" class="btn btn-warning">Detay</a>
-                    <a asp-action="Delete" asp-route-id="@item.CategoryID" class="btn btn-danger" onclick="return confirm('Are you sure?')">Sil</a>
+                    <div class="btn-group" role="group" aria-label="Kategori İşlemleri">
+                        <a asp-action="Edit" asp-route-id="@item.CategoryID" class="btn btn-success">Düzenle</a>
+                        <a asp-action="Details" asp-route-id="@item.CategoryID" class="btn btn-warning">Detay</a>
+                        <button type="button" class="btn btn-danger" onclick="confirmDelete('@item.CategoryID')">Sil</button>
+                    </div>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+
+@section Scripts {
+    <script>
+        function confirmDelete(categoryId) {
+            Swal.fire({
+                title: 'Emin misiniz?',
+                text: "Bu kategoriyi silmek istediğinizden emin misiniz?",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonColor: '#d33',
+                cancelButtonColor: '#3085d6',
+                confirmButtonText: 'Evet, sil!',
+                cancelButtonText: 'Hayır, vazgeç'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.href = '/Category/Delete/' + categoryId;
+                }
+            });
+        }
+    </script>
+}

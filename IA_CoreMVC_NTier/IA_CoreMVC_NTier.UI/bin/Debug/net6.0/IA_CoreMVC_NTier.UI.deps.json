@@ -11,12 +11,14 @@
           "IA_CoreMVC_NTier.BL": "1.0.0",
           "IA_CoreMVC_NTier.Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.31",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16",
+          "bootstrap": "5.3.3"
         },
         "runtime": {
           "IA_CoreMVC_NTier.UI.dll": {}
         }
       },
+      "bootstrap/5.3.3": {},
       "Humanizer/2.14.1": {
         "dependencies": {
           "Humanizer.Core.af": "2.14.1",
@@ -2496,6 +2498,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "bootstrap/5.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iQohLXwneNPDyW4x24mKQ90qGwT5WTtNl3KybL0koTluJPjKYxFCU/NTLHsJiWR2n7VmnwcpAgr8TR42KNmPOg==",
+      "path": "bootstrap/5.3.3",
+      "hashPath": "bootstrap.5.3.3.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",
