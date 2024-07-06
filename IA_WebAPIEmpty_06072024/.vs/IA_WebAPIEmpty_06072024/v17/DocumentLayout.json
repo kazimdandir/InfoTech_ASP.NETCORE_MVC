@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_WebAPIEmpty_06072024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45165206-67F7-48D4-9D03-196831554CE8}|IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_webapiempty_06072024\\ia_webapiempty_06072024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45165206-67F7-48D4-9D03-196831554CE8}|IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024.csproj|solutionrelative:ia_webapiempty_06072024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45165206-67F7-48D4-9D03-196831554CE8}|IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_webapiempty_06072024\\ia_webapiempty_06072024\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45165206-67F7-48D4-9D03-196831554CE8}|IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024.csproj|solutionrelative:ia_webapiempty_06072024\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45165206-67F7-48D4-9D03-196831554CE8}|IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_webapiempty_06072024\\ia_webapiempty_06072024\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45165206-67F7-48D4-9D03-196831554CE8}|IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024.csproj|solutionrelative:ia_webapiempty_06072024\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45165206-67F7-48D4-9D03-196831554CE8}|IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_webapiempty_06072024\\ia_webapiempty_06072024\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45165206-67F7-48D4-9D03-196831554CE8}|IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024.csproj|solutionrelative:ia_webapiempty_06072024\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45165206-67F7-48D4-9D03-196831554CE8}|IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_webapiempty_06072024\\ia_webapiempty_06072024\\models\\fakedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45165206-67F7-48D4-9D03-196831554CE8}|IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024.csproj|solutionrelative:ia_webapiempty_06072024\\models\\fakedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "IA_WebAPIEmpty_06072024\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "IA_WebAPIEmpty_06072024\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwC0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:59:50.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FakeData.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024\\Models\\FakeData.cs",
+              "RelativeDocumentMoniker": "IA_WebAPIEmpty_06072024\\Models\\FakeData.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024\\Models\\FakeData.cs",
+              "RelativeToolTip": "IA_WebAPIEmpty_06072024\\Models\\FakeData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:52:53.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024\\Models\\User.cs",
+              "RelativeDocumentMoniker": "IA_WebAPIEmpty_06072024\\Models\\User.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024\\Models\\User.cs",
+              "RelativeToolTip": "IA_WebAPIEmpty_06072024\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:49:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024\\Program.cs",
+              "RelativeDocumentMoniker": "IA_WebAPIEmpty_06072024\\Program.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024\\Program.cs",
+              "RelativeToolTip": "IA_WebAPIEmpty_06072024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:46:35.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IA_WebAPIEmpty_06072024\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_WebAPIEmpty_06072024\\IA_WebAPIEmpty_06072024\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IA_WebAPIEmpty_06072024\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T08:03:19.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

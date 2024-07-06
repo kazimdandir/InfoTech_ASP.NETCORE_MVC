@@ -1,0 +1,40 @@
+﻿@model Root
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <tr>
+        <td>Şehir Adı: </td>
+        <td>@Model.location.name</td>
+    </tr>
+
+    <tr>
+        <td>Ülke Adı: </td>
+        <td>@Model.location.country</td>
+    </tr>
+
+    <tr>
+        <td>Tarih: </td>
+        <td>@Model.location.localtime</td>
+    </tr>
+
+    <tr>
+        <td>Hava Durumu: </td>
+        <td>@Model.current.condition.text</td>
+    </tr>
+
+    <tr>
+        <td>Hava Sıcaklığı (c) : </td>
+        <td>@Model.current.temp_c</td>
+    </tr>
+
+    <tr>
+        <td></td>
+        <td><img src="@Model.current.condition.icon"/></td>
+    </tr>
+</table>
+

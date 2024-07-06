@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IA_APIHaberlesme_06072024.props" />
+</Project>

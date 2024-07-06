@@ -1,0 +1,17 @@
+﻿@model List<User>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table class="table table-hover table-striped">
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.FirstName</td>
+            <td>@item.LastName</td>
+            <td>@item.Address</td>
+        </tr>
+    }
+</table>

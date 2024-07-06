@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IA_WebAPIEmpty_06072024.props" />
+</Project>

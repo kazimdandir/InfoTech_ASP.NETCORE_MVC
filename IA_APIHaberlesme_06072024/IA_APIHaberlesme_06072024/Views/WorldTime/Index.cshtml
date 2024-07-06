@@ -1,0 +1,54 @@
+﻿@model Time
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Times</h1>
+
+<table class="table">
+
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => Model.abbreviation)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.client_ip)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.datetime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.day_of_week)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.day_of_year)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.dst)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.dst_offset)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.raw_offset)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.timezone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.unixtime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.utc_datetime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.utc_offset)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.week_number)
+        </td>
+    </tr>
+
+    </tbody>
+</table>

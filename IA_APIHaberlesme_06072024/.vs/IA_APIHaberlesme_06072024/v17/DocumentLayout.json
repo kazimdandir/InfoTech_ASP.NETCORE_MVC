@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_apihaberlesme_06072024\\ia_apihaberlesme_06072024\\views\\weather\\ucsehir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|solutionrelative:ia_apihaberlesme_06072024\\views\\weather\\ucsehir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_apihaberlesme_06072024\\ia_apihaberlesme_06072024\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|solutionrelative:ia_apihaberlesme_06072024\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_apihaberlesme_06072024\\ia_apihaberlesme_06072024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|solutionrelative:ia_apihaberlesme_06072024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_apihaberlesme_06072024\\ia_apihaberlesme_06072024\\controllers\\worldtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|solutionrelative:ia_apihaberlesme_06072024\\controllers\\worldtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_apihaberlesme_06072024\\ia_apihaberlesme_06072024\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|solutionrelative:ia_apihaberlesme_06072024\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_apihaberlesme_06072024\\ia_apihaberlesme_06072024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|solutionrelative:ia_apihaberlesme_06072024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_apihaberlesme_06072024\\ia_apihaberlesme_06072024\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|solutionrelative:ia_apihaberlesme_06072024\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_apihaberlesme_06072024\\ia_apihaberlesme_06072024\\views\\worldtime\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|solutionrelative:ia_apihaberlesme_06072024\\views\\worldtime\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_apihaberlesme_06072024\\ia_apihaberlesme_06072024\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|solutionrelative:ia_apihaberlesme_06072024\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_apihaberlesme_06072024\\ia_apihaberlesme_06072024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|solutionrelative:ia_apihaberlesme_06072024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_apihaberlesme_06072024\\ia_apihaberlesme_06072024\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0CC3229-1FF8-409F-9D4E-1A2C7BCA207D}|IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024.csproj|solutionrelative:ia_apihaberlesme_06072024\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Models\\User.cs",
+              "RelativeDocumentMoniker": "IA_APIHaberlesme_06072024\\Models\\User.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Models\\User.cs",
+              "RelativeToolTip": "IA_APIHaberlesme_06072024\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T09:46:45.218Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UcSehir.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Views\\Weather\\UcSehir.cshtml",
+              "RelativeDocumentMoniker": "IA_APIHaberlesme_06072024\\Views\\Weather\\UcSehir.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Views\\Weather\\UcSehir.cshtml",
+              "RelativeToolTip": "IA_APIHaberlesme_06072024\\Views\\Weather\\UcSehir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T11:35:34.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_APIHaberlesme_06072024\\Views\\Weather\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Views\\Weather\\Index.cshtml",
+              "RelativeToolTip": "IA_APIHaberlesme_06072024\\Views\\Weather\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T11:06:13.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "IA_APIHaberlesme_06072024\\Controllers\\WeatherController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "IA_APIHaberlesme_06072024\\Controllers\\WeatherController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:02:15.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "IA_APIHaberlesme_06072024\\Models\\Class.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Models\\Class.cs",
+              "RelativeToolTip": "IA_APIHaberlesme_06072024\\Models\\Class.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA0wBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:01:07.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Program.cs",
+              "RelativeDocumentMoniker": "IA_APIHaberlesme_06072024\\Program.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Program.cs",
+              "RelativeToolTip": "IA_APIHaberlesme_06072024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:50:17.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Views\\WorldTime\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_APIHaberlesme_06072024\\Views\\WorldTime\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Views\\WorldTime\\Index.cshtml",
+              "RelativeToolTip": "IA_APIHaberlesme_06072024\\Views\\WorldTime\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T10:48:09.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Time.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Models\\Time.cs",
+              "RelativeDocumentMoniker": "IA_APIHaberlesme_06072024\\Models\\Time.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Models\\Time.cs",
+              "RelativeToolTip": "IA_APIHaberlesme_06072024\\Models\\Time.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:46:15.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorldTimeController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Controllers\\WorldTimeController.cs",
+              "RelativeDocumentMoniker": "IA_APIHaberlesme_06072024\\Controllers\\WorldTimeController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Controllers\\WorldTimeController.cs",
+              "RelativeToolTip": "IA_APIHaberlesme_06072024\\Controllers\\WorldTimeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:43:10.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_APIHaberlesme_06072024\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IA_APIHaberlesme_06072024\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T09:51:16.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IA_APIHaberlesme_06072024\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_APIHaberlesme_06072024\\IA_APIHaberlesme_06072024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IA_APIHaberlesme_06072024\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T09:42:57.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
