@@ -1,0 +1,27 @@
+﻿@model Result
+
+@{
+    ViewData["Title"] = "Episode Details";
+}
+
+<h2>@TempData["Name"]'s Episode Details</h2>
+<hr />
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">@Model.name</h5>
+        <h6 class="card-subtitle mb-2 text-muted">@Model.air_date</h6>
+        <p class ="card-text">Episode: @Model.episode</p>
+        <p class="card-text">Created: @Model.created.ToString("yyyy-MM-dd HH:mm:ss")</p>
+        <p class="card-text">Characters:</p> 
+        <ul>
+            @foreach (var character in Model.characters)
+            {
+                <li>@character</li>
+            }
+        </ul>
+        <a href="@Model.url" class="btn btn-warning">More Info</a>
+        <a asp-action="Index" class="btn btn-primary">Back to List</a>
+    </div>
+</div>
+

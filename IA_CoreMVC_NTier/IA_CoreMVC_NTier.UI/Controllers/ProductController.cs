@@ -10,11 +10,11 @@ namespace IA_CoreMVC_NTier.UI.Controllers
     public class ProductController : Controller
     {
         private IGeneralService<Product> _proService;
-
-        ProjeContext db = new ProjeContext();
+        private IGeneralService<Category> _catService;
 
         public ProductController()
         {
+            _catService = new CategoryManager();
             _proService = new ProductManager();
         }
 
@@ -26,14 +26,14 @@ namespace IA_CoreMVC_NTier.UI.Controllers
 
         public IActionResult Create()
         {
-            ViewBag.Kategoriler = db.Categories.ToList();
+            ViewBag.Kategoriler = _catService.GetAll(); 
             return View();
         }
 
         [HttpPost]
         public IActionResult Create(Product product) 
         {
-            ViewBag.Kategoriler = db.Categories.ToList();
+            ViewBag.Kategoriler = _catService.GetAll();
 
             _proService.Create(product);
             return RedirectToAction("Index");
@@ -42,7 +42,7 @@ namespace IA_CoreMVC_NTier.UI.Controllers
         
         public IActionResult Edit(int id)
         {
-            ViewBag.Kategoriler = db.Categories.ToList();
+            ViewBag.Kategoriler = _catService.GetAll();
 
             return View(_proService.GetById(id));
         }
@@ -50,7 +50,7 @@ namespace IA_CoreMVC_NTier.UI.Controllers
         [HttpPost]
         public IActionResult Edit(Product product)
         {
-            ViewBag.Kategoriler = db.Categories.ToList();
+            ViewBag.Kategoriler = _catService.GetAll();
 
             _proService.Update(product);
             return RedirectToAction("Index");
@@ -64,7 +64,7 @@ namespace IA_CoreMVC_NTier.UI.Controllers
 
         public IActionResult Details(int id)
         {
-            ViewBag.Kategoriler = db.Categories.ToList();
+            ViewBag.Kategoriler = _catService.GetAll();
 
             var product = _proService.GetById(id);
 
@@ -74,7 +74,7 @@ namespace IA_CoreMVC_NTier.UI.Controllers
             }
 
             // Eager loading ile kategori bilgisini yükleyin
-            product.Category = db.Categories.FirstOrDefault(c => c.CategoryID == product.CategoryId);
+            product.Category = _catService.GetAll().FirstOrDefault(c => c.CategoryID == product.CategoryId);
 
             return View(product);
         }

@@ -18,6 +18,15 @@ namespace IA_WebAPIEmpty_06072024.Controllers
             return Ok(users); // 200 + data
         }
 
+        /// <summary>
+        /// Verilen ID'ye sahip personel bilgisini getirir
+        /// </summary>
+        /// <param name="id">
+        /// Tam sayı türünde bir ID verilmedilir. 0'dan büyük olmalıdır.
+        /// </param>
+        /// <returns>
+        /// Çalışan tipinde geriye değer döndürür.
+        /// </returns>
         [HttpGet("{id}")]
         public IActionResult Get(int id)
         {

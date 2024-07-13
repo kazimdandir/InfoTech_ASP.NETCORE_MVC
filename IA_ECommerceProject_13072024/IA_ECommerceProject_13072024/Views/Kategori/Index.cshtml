@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Kategori>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Kategori Listesi</h1>
+<hr />
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">+ Yeni Kategori Ekle</a>
+</p>
+<table class="table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.KategoriAdi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KategoriAciklamasi)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KategoriAdi)
+                </td>
+                <td>
+                    @Html.Raw(item.KategoriAciklamasi)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.KategoriID" class="btn btn-success">Düzenle</a>
+                    <a asp-action="Details" asp-route-id="@item.KategoriID" class="btn btn-warning">Detay</a>
+                    <a asp-action="Delete" asp-route-id="@item.KategoriID" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

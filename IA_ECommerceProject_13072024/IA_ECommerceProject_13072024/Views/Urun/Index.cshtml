@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Urun>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Ürün Listesi</h1>
+<hr />
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">+ Yeni Ürün Ekle</a>
+</p>
+<table class="table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>
+                Ürün Adı
+            </th>
+            <th>
+                Ürün Açıklama
+            </th>
+            <th>
+                Ürün Fiyatı
+            </th>
+            <th>
+                Ürün Fotoğrafı
+            </th>
+            <th>
+                Kategori
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UrunAdi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UrunAciklama)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UrunFiyati)
+                </td>
+                <td>
+                    <img src="/images/urun/@item.UrunFoto" width = "150px"/>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kategori.KategoriAdi)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.UrunID" class="btn btn-success">Düzenle</a>
+                    <a asp-action="Details" asp-route-id="@item.UrunID" class="btn btn-warning">Detay</a>
+                    <a asp-action="Delete" asp-route-id="@item.UrunID" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

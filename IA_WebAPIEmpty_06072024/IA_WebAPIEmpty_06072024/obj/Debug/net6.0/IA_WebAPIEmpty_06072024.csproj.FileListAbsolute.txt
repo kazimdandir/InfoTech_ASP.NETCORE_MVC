@@ -27,3 +27,10 @@ D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_WebAPIEmpty_06072024\IA_WebAPIEm
 D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_WebAPIEmpty_06072024\IA_WebAPIEmpty_06072024\obj\Debug\net6.0\IA_WebAPIEmpty_06072024.pdb
 D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_WebAPIEmpty_06072024\IA_WebAPIEmpty_06072024\obj\Debug\net6.0\IA_WebAPIEmpty_06072024.genruntimeconfig.cache
 D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_WebAPIEmpty_06072024\IA_WebAPIEmpty_06072024\obj\Debug\net6.0\ref\IA_WebAPIEmpty_06072024.dll
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_WebAPIEmpty_06072024\IA_WebAPIEmpty_06072024\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_WebAPIEmpty_06072024\IA_WebAPIEmpty_06072024\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_WebAPIEmpty_06072024\IA_WebAPIEmpty_06072024\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_WebAPIEmpty_06072024\IA_WebAPIEmpty_06072024\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_WebAPIEmpty_06072024\IA_WebAPIEmpty_06072024\obj\Debug\net6.0\IA_WebAPIEmpty_06072024.MvcApplicationPartsAssemblyInfo.cs
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_WebAPIEmpty_06072024\IA_WebAPIEmpty_06072024\bin\Debug\net6.0\IA_WebAPIEmpty_06072024.xml
+D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_WebAPIEmpty_06072024\IA_WebAPIEmpty_06072024\obj\Debug\net6.0\IA_WebAPIEmpty_06072024.xml

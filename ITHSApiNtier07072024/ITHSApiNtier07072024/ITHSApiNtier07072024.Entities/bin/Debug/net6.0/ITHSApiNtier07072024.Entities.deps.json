@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ITHSApiNtier07072024.Entities/1.0.0": {
+        "runtime": {
+          "ITHSApiNtier07072024.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITHSApiNtier07072024.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

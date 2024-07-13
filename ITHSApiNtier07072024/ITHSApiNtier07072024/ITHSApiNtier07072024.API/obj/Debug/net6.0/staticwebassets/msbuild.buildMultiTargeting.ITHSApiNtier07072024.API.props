@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ITHSApiNtier07072024.API.props" />
+</Project>

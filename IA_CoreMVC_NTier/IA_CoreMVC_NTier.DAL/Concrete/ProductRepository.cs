@@ -36,11 +36,6 @@ namespace IA_CoreMVC_NTier.DAL.Concrete
             return list;
         }
 
-        //public List<Product> ViewBag(Product product)
-        //{
-                
-        //}
-
         public Product GetById(int id)
         {
             return db.Products.Include(p => p.Category).FirstOrDefault(p => p.ProductId == id);

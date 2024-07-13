@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2246061-880F-4565-B1CD-92D574E04392}|IA_CoreMVC_NTier.DAL\\IA_CoreMVC_NTier.DAL.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.dal\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2246061-880F-4565-B1CD-92D574E04392}|IA_CoreMVC_NTier.DAL\\IA_CoreMVC_NTier.DAL.csproj|solutionrelative:ia_coremvc_ntier.dal\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|solutionrelative:ia_coremvc_ntier.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCB5D776-81D4-4407-88D5-FC8D24EA818C}|IA_CoreMVC_NTier.UI\\IA_CoreMVC_NTier.UI.csproj|solutionrelative:ia_coremvc_ntier.ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2246061-880F-4565-B1CD-92D574E04392}|IA_CoreMVC_NTier.DAL\\IA_CoreMVC_NTier.DAL.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.dal\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2246061-880F-4565-B1CD-92D574E04392}|IA_CoreMVC_NTier.DAL\\IA_CoreMVC_NTier.DAL.csproj|solutionrelative:ia_coremvc_ntier.dal\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC26A15C-94F9-4394-913C-760848DDB750}|IA_CoreMVC_NTier.BL\\IA_CoreMVC_NTier.BL.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_coremvc_ntier\\ia_coremvc_ntier.bl\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,63 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.UI\\Views\\Product\\Create.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "IA_CoreMVC_NTier.UI\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-06T10:28:24.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAmwEEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T10:26:41.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.Entities\\Product.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.Entities\\Product.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.Entities\\Product.cs",
-              "RelativeToolTip": "IA_CoreMVC_NTier.Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T10:26:27.282Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.UI\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_NTier.UI\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T11:16:42.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.BL\\Concrete\\ProductManager.cs",
-              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.BL\\Concrete\\ProductManager.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.BL\\Concrete\\ProductManager.cs",
-              "RelativeToolTip": "IA_CoreMVC_NTier.BL\\Concrete\\ProductManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T10:26:12.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.DAL\\Concrete\\ProductRepository.cs",
               "RelativeDocumentMoniker": "IA_CoreMVC_NTier.DAL\\Concrete\\ProductRepository.cs",
@@ -94,8 +59,56 @@
               "RelativeToolTip": "IA_CoreMVC_NTier.DAL\\Concrete\\ProductRepository.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAwCQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T10:25:58.306Z",
+              "WhenOpened": "2024-07-06T10:25:58.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "IA_CoreMVC_NTier.UI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:26:41.463Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.BL\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.BL\\Concrete\\ProductManager.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.BL\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "IA_CoreMVC_NTier.BL\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:26:12.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.Entities\\Product.cs",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.Entities\\Product.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.Entities\\Product.cs",
+              "RelativeToolTip": "IA_CoreMVC_NTier.Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:26:27.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "IA_CoreMVC_NTier.UI\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_CoreMVC_NTier\\IA_CoreMVC_NTier.UI\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "IA_CoreMVC_NTier.UI\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T10:28:24.692Z"
             }
           ]
         }

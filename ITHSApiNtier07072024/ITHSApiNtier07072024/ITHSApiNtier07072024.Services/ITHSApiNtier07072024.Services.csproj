@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ITHSApiNtier07072024.Entities\ITHSApiNtier07072024.Entities.csproj" />
+    <ProjectReference Include="..\ITHSApiNtier07072024.Repositories\ITHSApiNtier07072024.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

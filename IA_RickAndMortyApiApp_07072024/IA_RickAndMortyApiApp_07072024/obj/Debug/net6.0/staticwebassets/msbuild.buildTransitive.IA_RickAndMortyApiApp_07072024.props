@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IA_RickAndMortyApiApp_07072024.props" />
+</Project>

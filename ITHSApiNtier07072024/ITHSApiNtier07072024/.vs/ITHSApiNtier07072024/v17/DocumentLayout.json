@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D51F4336-7071-4E09-9F87-ED03FF1854C2}|ITHSApiNtier07072024.API\\ITHSApiNtier07072024.API.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ithsapintier07072024\\ithsapintier07072024\\ithsapintier07072024.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51F4336-7071-4E09-9F87-ED03FF1854C2}|ITHSApiNtier07072024.API\\ITHSApiNtier07072024.API.csproj|solutionrelative:ithsapintier07072024.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516A38B5-804F-4CC2-BF67-A184E6233860}|ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ithsapintier07072024\\ithsapintier07072024\\ithsapintier07072024.repositories\\ithsapintier07072024.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{516A38B5-804F-4CC2-BF67-A184E6233860}|ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj|solutionrelative:ithsapintier07072024.repositories\\ithsapintier07072024.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516A38B5-804F-4CC2-BF67-A184E6233860}|ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ithsapintier07072024\\ithsapintier07072024\\ithsapintier07072024.repositories\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516A38B5-804F-4CC2-BF67-A184E6233860}|ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj|solutionrelative:ithsapintier07072024.repositories\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51F4336-7071-4E09-9F87-ED03FF1854C2}|ITHSApiNtier07072024.API\\ITHSApiNtier07072024.API.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ithsapintier07072024\\ithsapintier07072024\\ithsapintier07072024.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51F4336-7071-4E09-9F87-ED03FF1854C2}|ITHSApiNtier07072024.API\\ITHSApiNtier07072024.API.csproj|solutionrelative:ithsapintier07072024.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51F4336-7071-4E09-9F87-ED03FF1854C2}|ITHSApiNtier07072024.API\\ITHSApiNtier07072024.API.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ithsapintier07072024\\ithsapintier07072024\\ithsapintier07072024.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D51F4336-7071-4E09-9F87-ED03FF1854C2}|ITHSApiNtier07072024.API\\ITHSApiNtier07072024.API.csproj|solutionrelative:ithsapintier07072024.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9523206-1B74-45FD-8C36-2ADBEA2B3D74}|ITHSApiNtier07072024.Services\\ITHSApiNtier07072024.Services.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ithsapintier07072024\\ithsapintier07072024\\ithsapintier07072024.services\\concrete\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9523206-1B74-45FD-8C36-2ADBEA2B3D74}|ITHSApiNtier07072024.Services\\ITHSApiNtier07072024.Services.csproj|solutionrelative:ithsapintier07072024.services\\concrete\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9523206-1B74-45FD-8C36-2ADBEA2B3D74}|ITHSApiNtier07072024.Services\\ITHSApiNtier07072024.Services.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ithsapintier07072024\\ithsapintier07072024\\ithsapintier07072024.services\\abstract\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9523206-1B74-45FD-8C36-2ADBEA2B3D74}|ITHSApiNtier07072024.Services\\ITHSApiNtier07072024.Services.csproj|solutionrelative:ithsapintier07072024.services\\abstract\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516A38B5-804F-4CC2-BF67-A184E6233860}|ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ithsapintier07072024\\ithsapintier07072024\\ithsapintier07072024.repositories\\concrete\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516A38B5-804F-4CC2-BF67-A184E6233860}|ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj|solutionrelative:ithsapintier07072024.repositories\\concrete\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516A38B5-804F-4CC2-BF67-A184E6233860}|ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ithsapintier07072024\\ithsapintier07072024\\ithsapintier07072024.repositories\\abstract\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516A38B5-804F-4CC2-BF67-A184E6233860}|ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj|solutionrelative:ithsapintier07072024.repositories\\abstract\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F76F24-20EE-4FE7-8C0A-2C7958068A27}|ITHSApiNtier07072024.Entities\\ITHSApiNtier07072024.Entities.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ithsapintier07072024\\ithsapintier07072024\\ithsapintier07072024.entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F76F24-20EE-4FE7-8C0A-2C7958068A27}|ITHSApiNtier07072024.Entities\\ITHSApiNtier07072024.Entities.csproj|solutionrelative:ithsapintier07072024.entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Repositories\\Concrete\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ITHSApiNtier07072024.Repositories\\Concrete\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Repositories\\Concrete\\EmployeeRepository.cs",
+              "RelativeToolTip": "ITHSApiNtier07072024.Repositories\\Concrete\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:55:04.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Repositories\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ITHSApiNtier07072024.Repositories\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Repositories\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ITHSApiNtier07072024.Repositories\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:55:04.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.API\\Program.cs",
+              "RelativeDocumentMoniker": "ITHSApiNtier07072024.API\\Program.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.API\\Program.cs",
+              "RelativeToolTip": "ITHSApiNtier07072024.API\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:55:04.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ITHSApiNtier07072024.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ITHSApiNtier07072024.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:55:04.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITHSApiNtier07072024.Repositories.csproj",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj",
+              "RelativeDocumentMoniker": "ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj",
+              "RelativeToolTip": "ITHSApiNtier07072024.Repositories\\ITHSApiNtier07072024.Repositories.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T10:55:11.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Services\\Concrete\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "ITHSApiNtier07072024.Services\\Concrete\\EmployeeManager.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Services\\Concrete\\EmployeeManager.cs",
+              "RelativeToolTip": "ITHSApiNtier07072024.Services\\Concrete\\EmployeeManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:55:04.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ITHSApiNtier07072024.API\\appsettings.json",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.API\\appsettings.json",
+              "RelativeToolTip": "ITHSApiNtier07072024.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T10:55:04.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeServices.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Services\\Abstract\\IEmployeeServices.cs",
+              "RelativeDocumentMoniker": "ITHSApiNtier07072024.Services\\Abstract\\IEmployeeServices.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Services\\Abstract\\IEmployeeServices.cs",
+              "RelativeToolTip": "ITHSApiNtier07072024.Services\\Abstract\\IEmployeeServices.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:55:04.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Repositories\\Abstract\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ITHSApiNtier07072024.Repositories\\Abstract\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Repositories\\Abstract\\IEmployeeRepository.cs",
+              "RelativeToolTip": "ITHSApiNtier07072024.Repositories\\Abstract\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:55:04.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ITHSApiNtier07072024.Entities\\Employee.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\ITHSApiNtier07072024\\ITHSApiNtier07072024\\ITHSApiNtier07072024.Entities\\Employee.cs",
+              "RelativeToolTip": "ITHSApiNtier07072024.Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:55:04.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

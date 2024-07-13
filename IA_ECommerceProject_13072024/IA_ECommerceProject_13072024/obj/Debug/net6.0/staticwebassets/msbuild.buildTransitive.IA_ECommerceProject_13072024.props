@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IA_ECommerceProject_13072024.props" />
+</Project>

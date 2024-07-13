@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IA_WebAPIEmpty_06072024</name>
+    </assembly>
+    <members>
+        <member name="M:IA_WebAPIEmpty_06072024.Controllers.UsersController.Get(System.Int32)">
+            <summary>
+            Verilen ID'ye sahip personel bilgisini getirir
+            </summary>
+            <param name="id">
+            Tam sayı türünde bir ID verilmedilir. 0'dan büyük olmalıdır.
+            </param>
+            <returns>
+            Çalışan tipinde geriye değer döndürür.
+            </returns>
+        </member>
+    </members>
+</doc>

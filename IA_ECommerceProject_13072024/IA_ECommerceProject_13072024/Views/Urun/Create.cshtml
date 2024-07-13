@@ -1,0 +1,59 @@
+﻿@model Urun
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Ürün Ekle</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="RefKategoriID" class="control-label"></label>
+                <select asp-for="RefKategoriID" class="form-control" asp-items="ViewBag.RefKategoriID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="UrunAdi" class="control-label"></label>
+                <input asp-for="UrunAdi" class="form-control" />
+                <span asp-validation-for="UrunAdi" class="text-danger"></span>
+            </div>
+
+            <!--CEKEDITOR-->
+            <script src="~/lib/jquery/dist/jquery.min.js"></script>
+            <script src="~/ckeditor/ckeditor.js"></script>
+            <script>
+                $(document).ready(function () {
+                    CKEDITOR.replace('Test')
+                })
+            </script>
+
+            <div class="form-group">
+                <label asp-for="UrunAciklama" class="control-label"></label>
+                <textarea asp-for="UrunAciklama" class="form-control" id = "Test"></textarea>
+                <span asp-validation-for="UrunAciklama" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UrunFiyati" class="control-label"></label>
+                <input asp-for="UrunFiyati" class="form-control" />
+                <span asp-validation-for="UrunFiyati" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UrunFoto" class="control-label"></label>
+                <input asp-for="UrunFoto" class="form-control" type="file" />
+                <span asp-validation-for="UrunFoto" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Ekle" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-primary">Listeye Dön</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
