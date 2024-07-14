@@ -29,6 +29,21 @@ namespace IA_ECommerceProject_13072024.Controllers
             return View();
         }
 
+        public IActionResult Kategori(int? id)
+        {
+            ViewBag.KategoriListesi = db.Kategoris.ToList();
+            ViewBag.Kategori = db.Kategoris.FirstOrDefault(x => x.KategoriID == id);
+
+            return View(db.Uruns.Where(x => x.RefKategoriID == id).OrderBy(x => x.UrunAdi).ToList());
+        }
+
+        public IActionResult Urun(int? id)
+        {
+            ViewBag.KategoriListesi = db.Kategoris.ToList();
+
+            return View(db.Uruns.Find(id));
+        }
+
         public IActionResult Privacy()
         {
             return View();

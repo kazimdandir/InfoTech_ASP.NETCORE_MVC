@@ -1,0 +1,45 @@
+﻿@model Urun
+
+@{
+    ViewData["Title"] = Model.UrunAdi;
+
+    List<Kategori> Kategoriler = ViewBag.KategoriListesi;
+}
+
+<h1>@Model.UrunAdi</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-3">
+        <h2>Kategoriler</h2>
+        <ul>
+            @foreach (var item in Kategoriler)
+            {
+                <li><a href="/home/kategori/@item.KategoriID">@item.KategoriAdi</a></li>
+            }
+        </ul>
+    </div>
+
+    <div class="col-md-9">
+        <h1><b><i>Ürün Adı</i></b></h1>
+        <h5>@Model.UrunAdi</h5>
+
+        <div class="row">
+            <div class="col-md-6">
+                <img src="/images/urun/@Model.UrunFoto" style="100%" />
+            </div>
+
+            <div class="col-md-6">
+                Ürün Fiyatı : <span style="color : red; font-weight : bold; font-size=" 16px>@Model.UrunID</span>
+                <form action="/Sepet/SepeteEkle">
+                    <input type="hidden", name="id" value="@Model.UrunID">
+                    <input type="number", name="adet" style="width:50px" min="1">
+                    <input type="submit", value="Sepete Ekle" class="btn btn-warning">
+                </form>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>

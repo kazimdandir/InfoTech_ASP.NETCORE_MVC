@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_ecommerceproject_13072024\\ia_ecommerceproject_13072024\\views\\home\\urun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|solutionrelative:ia_ecommerceproject_13072024\\views\\home\\urun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_ecommerceproject_13072024\\ia_ecommerceproject_13072024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|solutionrelative:ia_ecommerceproject_13072024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_ecommerceproject_13072024\\ia_ecommerceproject_13072024\\views\\home\\kategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|solutionrelative:ia_ecommerceproject_13072024\\views\\home\\kategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_ecommerceproject_13072024\\ia_ecommerceproject_13072024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,37 +82,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-13T11:06:51.159Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Urun.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Home\\Urun.cshtml",
+              "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Views\\Home\\Urun.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Home\\Urun.cshtml",
+              "RelativeToolTip": "IA_ECommerceProject_13072024\\Views\\Home\\Urun.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T09:22:28.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kategori.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Home\\Kategori.cshtml",
+              "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Views\\Home\\Kategori.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Home\\Kategori.cshtml",
+              "RelativeToolTip": "IA_ECommerceProject_13072024\\Views\\Home\\Kategori.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T09:12:25.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Controllers\\HomeController.cs",
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T11:01:27.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Urun\\Create.cshtml",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Views\\Urun\\Create.cshtml",
@@ -112,12 +147,11 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Views\\Urun\\Create.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T10:20:37.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T10:20:37.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Urun\\Index.cshtml",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Views\\Urun\\Index.cshtml",
@@ -125,25 +159,24 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Views\\Urun\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T10:16:22.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T10:16:22.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UrunController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Controllers\\UrunController.cs",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Controllers\\UrunController.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Controllers\\UrunController.cs",
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Controllers\\UrunController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAqwDMAAAAeAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwDMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T10:15:04.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Kategori\\Create.cshtml",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Views\\Kategori\\Create.cshtml",
@@ -151,12 +184,11 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Views\\Kategori\\Create.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T09:36:12.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T09:36:12.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Kategori\\Index.cshtml",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Views\\Kategori\\Index.cshtml",
@@ -164,12 +196,11 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Views\\Kategori\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T09:21:03.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T09:21:03.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "KategoriController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Controllers\\KategoriController.cs",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Controllers\\KategoriController.cs",
@@ -177,12 +208,11 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Controllers\\KategoriController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T09:15:29.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T09:15:29.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ETicaretContext.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Models\\Context\\ETicaretContext.cs",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Models\\Context\\ETicaretContext.cs",
@@ -190,12 +220,11 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Models\\Context\\ETicaretContext.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwCIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T08:58:33.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T08:58:33.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SiparisKalem.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Models\\Entities\\SiparisKalem.cs",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Models\\Entities\\SiparisKalem.cs",
@@ -203,12 +232,11 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Models\\Entities\\SiparisKalem.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T08:47:55.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T08:47:55.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Urun.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Models\\Entities\\Urun.cs",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Models\\Entities\\Urun.cs",
@@ -216,12 +244,11 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Models\\Entities\\Urun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T08:27:36.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T08:27:36.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Program.cs",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Program.cs",
@@ -229,12 +256,11 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T09:17:15.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T09:17:15.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Siparis.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Models\\Entities\\Siparis.cs",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Models\\Entities\\Siparis.cs",
@@ -242,12 +268,11 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Models\\Entities\\Siparis.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T08:42:34.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T08:42:34.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Sepet.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Models\\Entities\\Sepet.cs",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Models\\Entities\\Sepet.cs",
@@ -255,12 +280,11 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Models\\Entities\\Sepet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T08:32:51.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T08:32:51.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Kategori.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Models\\Entities\\Kategori.cs",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Models\\Entities\\Kategori.cs",
@@ -268,12 +292,11 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Models\\Entities\\Kategori.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T08:26:17.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T08:26:17.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Kullanici.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Models\\Entities\\Kullanici.cs",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Models\\Entities\\Kullanici.cs",
@@ -281,8 +304,7 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Models\\Entities\\Kullanici.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T08:20:58.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T08:20:58.854Z"
             }
           ]
         }

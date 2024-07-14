@@ -1,0 +1,42 @@
+﻿@model List<Urun> 
+
+@{
+    Kategori kat = ViewBag.Kategori;
+
+    List<Kategori> Kategoriler = ViewBag.KategoriListesi;
+
+    ViewData["Title"] = kat.KategoriAdi;
+}
+
+<h2>@kat.KategoriAdi</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-3">
+        <h2>Kategoriler</h2>
+        <ul>
+            @foreach (var item in Kategoriler)
+            {
+                <li><a href="/home/kategori/@item.KategoriID">@item.KategoriAdi</a></li>
+            }
+        </ul>
+    </div>
+
+    <div class="col-md-9">
+        <div class="row">
+            <h2>Ürünler</h2>
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4" style="border:1px solid #808080">
+                    <h5>@item.UrunAdi</h5>
+                    <img src="/images/urun/@item.UrunFoto" style="max-width:100%" alt="@item.UrunFoto" />
+                    <p>
+                        <a class="btn btn-success" asp-action="Urun" asp-route-id="@item.UrunID">Ürün Detay &raquo;</a>
+                        <span style="color:red;float:right;font-weight:bold;font-size:16px">@item.UrunFiyati TL</span>
+                    </p>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
