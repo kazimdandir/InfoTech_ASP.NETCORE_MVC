@@ -1,4 +1,4 @@
-﻿@model Result
+﻿@model IA_RickAndMortyApiApp_07072024.Models.Episode.Result
 
 @{
     ViewData["Title"] = "Episode Details";
@@ -11,17 +11,33 @@
     <div class="card-body">
         <h5 class="card-title">@Model.name</h5>
         <h6 class="card-subtitle mb-2 text-muted">@Model.air_date</h6>
-        <p class ="card-text">Episode: @Model.episode</p>
+        <p class="card-text">Episode: @Model.episode</p>
         <p class="card-text">Created: @Model.created.ToString("yyyy-MM-dd HH:mm:ss")</p>
-        <p class="card-text">Characters:</p> 
-        <ul>
+        <p class="card-text">Characters:</p>
+        <select id="characterSelect" class="form-control" onchange="updateMoreInfoLink()">
+            <option value="">Select a character</option>
             @foreach (var character in Model.characters)
             {
-                <li>@character</li>
+                <option value="@character">@character</option>
             }
-        </ul>
-        <a href="@Model.url" class="btn btn-warning">More Info</a>
-        <a asp-action="Index" class="btn btn-primary">Back to List</a>
+        </select>
+        <a id="moreInfoLink" href="#" class="btn btn-warning mt-4 disabled" onclick="showWarning()">Go to API</a>
+        <a asp-action="Index" class="btn btn-primary mt-4">Back to List</a>
     </div>
 </div>
 
+@section Scripts {
+    <script>
+        function updateMoreInfoLink() {
+            const selectedCharacterUrl = document.getElementById('characterSelect').value;
+            const moreInfoLink = document.getElementById('moreInfoLink');
+            if (selectedCharacterUrl) {
+                moreInfoLink.href = selectedCharacterUrl;
+                moreInfoLink.classList.remove('disabled');
+            } else {
+                moreInfoLink.href = '#';
+                moreInfoLink.classList.add('disabled');
+            }
+        }
+    </script>
+}

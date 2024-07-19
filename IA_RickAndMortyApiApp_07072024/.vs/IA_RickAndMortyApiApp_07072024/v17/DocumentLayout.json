@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\controllers\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\controllers\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\views\\episode\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\views\\episode\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\views\\episode\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\views\\episode\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\models\\episode\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\models\\episode\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\controllers\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\controllers\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\models\\episode\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\models\\episode\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\views\\character\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\views\\character\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\models\\character\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\models\\character\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\models\\character\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\models\\character\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\models\\character\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\models\\character\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\models\\character\\origin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\models\\character\\origin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_rickandmortyapiapp_07072024\\ia_rickandmortyapiapp_07072024\\models\\character\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A23AAB2-6D44-4A8A-9B24-E6F32ED9EC9B}|IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024.csproj|solutionrelative:ia_rickandmortyapiapp_07072024\\models\\character\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +46,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Views\\Episode\\Index.cshtml",
               "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Views\\Episode\\Index.cshtml",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Views\\Episode\\Index.cshtml",
               "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Views\\Episode\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADoAAABtAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T11:04:19.94Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-07-17T16:12:20.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Views\\Episode\\Details.cshtml",
-              "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Views\\Episode\\Details.cshtml",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Views\\Episode\\Details.cshtml",
-              "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Views\\Episode\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T13:23:06.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Result.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Episode\\Result.cs",
-              "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Models\\Episode\\Result.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Episode\\Result.cs",
-              "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Models\\Episode\\Result.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T11:00:18.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Info.cs",
-              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Episode\\Info.cs",
-              "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Models\\Episode\\Info.cs",
-              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Episode\\Info.cs",
-              "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Models\\Episode\\Info.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:59:52.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "EpisodeController.cs",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Controllers\\EpisodeController.cs",
               "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Controllers\\EpisodeController.cs",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Controllers\\EpisodeController.cs",
               "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Controllers\\EpisodeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:57:36.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T16:12:16.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Root.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Character\\Root.cs",
+              "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Models\\Character\\Root.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Character\\Root.cs",
+              "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Models\\Character\\Root.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:12:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Character\\Result.cs",
+              "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Models\\Character\\Result.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Character\\Result.cs",
+              "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Models\\Character\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:12:50.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Origin.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Character\\Origin.cs",
+              "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Models\\Character\\Origin.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Character\\Origin.cs",
+              "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Models\\Character\\Origin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:12:49.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Character\\Location.cs",
+              "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Models\\Character\\Location.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Character\\Location.cs",
+              "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Models\\Character\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:12:49.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Info.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Character\\Info.cs",
+              "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Models\\Character\\Info.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Models\\Character\\Info.cs",
+              "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Models\\Character\\Info.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:12:48.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Views\\Character\\Index.cshtml",
+              "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Views\\Character\\Index.cshtml",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Views\\Character\\Index.cshtml",
+              "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Views\\Character\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T14:57:26.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterController.cs",
+              "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Controllers\\CharacterController.cs",
+              "RelativeDocumentMoniker": "IA_RickAndMortyApiApp_07072024\\Controllers\\CharacterController.cs",
+              "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_RickAndMortyApiApp_07072024\\IA_RickAndMortyApiApp_07072024\\Controllers\\CharacterController.cs",
+              "RelativeToolTip": "IA_RickAndMortyApiApp_07072024\\Controllers\\CharacterController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:56:28.897Z"
             }
           ]
         }

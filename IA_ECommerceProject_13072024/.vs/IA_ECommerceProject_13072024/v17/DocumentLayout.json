@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_ecommerceproject_13072024\\ia_ecommerceproject_13072024\\views\\home\\urun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|solutionrelative:ia_ecommerceproject_13072024\\views\\home\\urun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_ecommerceproject_13072024\\ia_ecommerceproject_13072024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|solutionrelative:ia_ecommerceproject_13072024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_ecommerceproject_13072024\\ia_ecommerceproject_13072024\\views\\home\\urun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|solutionrelative:ia_ecommerceproject_13072024\\views\\home\\urun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE27674-E314-4190-94C2-96335DBD09DD}|IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024.csproj|d:\\infotech_academy\\infotech-asp.netcore-mvc\\ia_ecommerceproject_13072024\\ia_ecommerceproject_13072024\\views\\home\\kategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -82,17 +82,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-13T11:06:51.159Z",
               "IsPinned": true,
@@ -100,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Urun.cshtml",
               "DocumentMoniker": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Home\\Urun.cshtml",
               "RelativeDocumentMoniker": "IA_ECommerceProject_13072024\\Views\\Home\\Urun.cshtml",
               "ToolTip": "D:\\Infotech_Academy\\InfoTech-ASP.NETCORE-MVC\\IA_ECommerceProject_13072024\\IA_ECommerceProject_13072024\\Views\\Home\\Urun.cshtml",
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Views\\Home\\Urun.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCQAAABUAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-14T09:22:28.399Z",
               "EditorCaption": ""
@@ -121,8 +121,7 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Views\\Home\\Kategori.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-14T09:12:25.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T09:12:25.845Z"
             },
             {
               "$type": "Document",
@@ -134,8 +133,7 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwCcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T11:01:27.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T11:01:27.647Z"
             },
             {
               "$type": "Document",
@@ -171,8 +169,7 @@
               "RelativeToolTip": "IA_ECommerceProject_13072024\\Controllers\\UrunController.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAcwDMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T10:15:04.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T10:15:04.041Z"
             },
             {
               "$type": "Document",

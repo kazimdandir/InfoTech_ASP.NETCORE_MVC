@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Infotech_Academy\InfoTech-ASP.NETCORE-MVC\IA_RickAndMortyApiApp_07072024\IA_RickAndMortyApiApp_07072024
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_RickAndMortyApiApp_07072024/IA_RickAndMortyApiApp_07072024/Views/Character/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_RickAndMortyApiApp_07072024/IA_RickAndMortyApiApp_07072024/Views/Character/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Infotech_Academy/InfoTech-ASP.NETCORE-MVC/IA_RickAndMortyApiApp_07072024/IA_RickAndMortyApiApp_07072024/Views/Episode/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXBpc29kZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

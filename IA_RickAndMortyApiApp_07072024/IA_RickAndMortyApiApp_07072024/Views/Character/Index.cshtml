@@ -1,10 +1,10 @@
-﻿@model IEnumerable<IA_RickAndMortyApiApp_07072024.Models.Episode.Result>
+﻿@model IEnumerable<IA_RickAndMortyApiApp_07072024.Models.Character.Result>
 
 @{
-    ViewData["Title"] = "Episodes";
+    ViewData["Title"] = "Characters";
 }
 
-<h2>Episodes</h2>
+<h2>Characters</h2>
 <hr />
 
 <!-- Searching form -->
@@ -16,18 +16,18 @@
         </div>
     </div>
 </form>
-<br />
 
 <div class="row">
-    @foreach (var episode in Model)
+    @foreach (var character in Model)
     {
         <div class="col-md-4">
             <div class="card mb-4">
+                <img src="@character.image" class="card-img-top img-fluid" alt="@character.name">
                 <div class="card-body">
-                    <h5 class="card-title">@episode.name</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">@episode.air_date</h6>
-                    <p class="card-text">Episode: @episode.episode</p>
-                    <a asp-action="Details" asp-route-id="@episode.id" class="card-link btn btn-warning">Details</a>
+                    <h5 class="card-title">@character.name</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">@character.status</h6>
+                    <p class="card-text">Species: @character.species</p>
+                    <a asp-action="Details" asp-route-id="@character.id" class="btn btn-warning">Details</a>
                 </div>
             </div>
         </div>

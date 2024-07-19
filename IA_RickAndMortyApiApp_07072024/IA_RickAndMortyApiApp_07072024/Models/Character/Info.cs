@@ -1,4 +1,4 @@
-﻿namespace IA_RickAndMortyApiApp_07072024.Models.Episode
+﻿namespace IA_RickAndMortyApiApp_07072024.Models.Character
 {
     public class Info
     {

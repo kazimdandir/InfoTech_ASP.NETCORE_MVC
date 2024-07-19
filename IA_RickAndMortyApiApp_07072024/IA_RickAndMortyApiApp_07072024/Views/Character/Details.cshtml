@@ -1,0 +1,60 @@
+﻿@model IA_RickAndMortyApiApp_07072024.Models.Character.Result
+
+@{
+    ViewData["Title"] = "Character Details";
+}
+
+<h2>@TempData["Name"]'s Character Details</h2>
+<hr />
+
+<style>
+    .img {
+        width: 350px;
+        height: auto;
+    }
+</style>
+
+<div class="card">
+    <div class="card-body">
+        <img src="@Model.image" class="card-img-top img-fluid img" alt="@Model.name">
+        <h5 class="card-title">@Model.name</h5>
+        <h6 class="card-subtitle mb-2 text-muted">@Model.status</h6>
+        <p class="card-text">Species: @Model.species</p>
+        <p class="card-text">Type: @Model.type</p>
+        <p class="card-text">Gender: @Model.gender</p>
+        <p class="card-text">Origin: @Model.origin.name</p>
+        <p class="card-text">Location: @Model.location.name</p>
+        <p class="card-text">Created: @Model.created.ToString("yyyy-MM-dd HH:mm:ss")</p>
+        <p class="card-text">Episodes:</p>
+        <select id="episodeSelect" class="form-control" onchange="updateMoreInfoLink()">
+            <option value="">Select an episode</option>
+            @foreach (var episode in Model.episode)
+            {
+                <option value="@episode">@episode</option>
+            }
+        </select>
+        <a id="moreInfoLink" href="#" class="btn btn-warning mt-4 disabled" onclick="showWarning()">Go to API</a>
+        <a asp-action="Index" class="btn btn-primary mt-4">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function updateMoreInfoLink() {
+            const selectedEpisodeUrl = document.getElementById('episodeSelect').value;
+            const moreInfoLink = document.getElementById('moreInfoLink');
+            if (selectedEpisodeUrl) {
+                moreInfoLink.href = selectedEpisodeUrl;
+                moreInfoLink.classList.remove('disabled');
+            } else {
+                moreInfoLink.href = '#';
+                moreInfoLink.classList.add('disabled');
+            }
+        }
+
+        function showWarning(event) {
+            event.preventDefault();
+            alert("Please select an episode first!");
+        }
+    </script>
+}
